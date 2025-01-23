@@ -2040,9 +2040,55 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275496&idx=1&sn=da3eb308cc9a292431857ed043bdc6e5&chksm=bd48996c8a3f107a4f22fedd2f6400f1b6ca287470bc7172892ec56501b53b93c1fa302cd5b5#rd",
         "create_time": 1737502255,
         "update_time": 1737504000
+      },
+      {
+        "aid": "2649012891_1",
+        "appmsgid": 2649012891,
+        "from": "前端新世界",
+        "title": "造轮子太累！程序员应该多掌握一些“轮子”",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI1MzI3OQ==&mid=2649012891&idx=1&sn=4cf1b57bf69f821188725524cefbd0d9&chksm=8300252bb477ac3dc3739fd216fad9b84d40a0f343c90ff09108f5fb71b66839c624e2090c51#rd",
+        "create_time": 1737551882,
+        "update_time": 1737551882
+      },
+      {
+        "aid": "2247525125_1",
+        "appmsgid": 2247525125,
+        "from": "程序员成长指北",
+        "title": "前端 TypeError 错误永久消失术实现",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525125&idx=1&sn=c951aa06e866b80961bc35052b752b45&chksm=f99265d4cee5ecc27f1d41ef68156895603554ae960ecb23ceca49ca19e0d12c9e228f3ecb7e#rd",
+        "create_time": 1737561508,
+        "update_time": 1737561508
+      },
+      {
+        "aid": "2247514246_1",
+        "appmsgid": 2247514246,
+        "from": "奇舞精选",
+        "title": "Windsurf：面向未来的 AI编程工具详解",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247514246&idx=1&sn=52a32c7a5dac2edfac078b964c969cbb&chksm=cf619dacf81614bae7c9272c1481a9470ffb2ed3135bc792dad3b742a2e081113dde252e16f9#rd",
+        "create_time": 1737536082,
+        "update_time": 1737540000
+      },
+      {
+        "aid": "2650537794_1",
+        "appmsgid": 2650537794,
+        "from": "大淘宝技术",
+        "title": "2025 AI展望：Scaling Law新叙事加速AI变革",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537794&idx=1&sn=3d48924bf3f5fcd3f1ed4813475e01f0&chksm=8397375ab4e0be4c6430f61256691b58f897a57041e0c74be8601a7c6bf3036c2c6a9f7eba39#rd",
+        "create_time": 1737554188,
+        "update_time": 1737554187
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651275537_1",
+        "appmsgid": 2651275537,
+        "from": "前端早读课",
+        "title": "【早阅】MTO：最佳目标达成策略",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275537&idx=1&sn=c93b074ba181143aaeca61a9b5fdcb8d&chksm=bd4898958a3f1183ea51f4ac1301c7f538e47991a2c6420927effefad5dbde3a9c604e354969#rd",
+        "create_time": 1737589457,
+        "update_time": 1737590400
+      }
+    ],
     [],
     [],
     [],
