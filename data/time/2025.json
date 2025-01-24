@@ -2076,6 +2076,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537794&idx=1&sn=3d48924bf3f5fcd3f1ed4813475e01f0&chksm=8397375ab4e0be4c6430f61256691b58f897a57041e0c74be8601a7c6bf3036c2c6a9f7eba39#rd",
         "create_time": 1737554188,
         "update_time": 1737554187
+      },
+      {
+        "aid": "2247514251_1",
+        "appmsgid": 2247514251,
+        "from": "奇舞精选",
+        "title": "2025 年值得关注的前端趋势",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247514251&idx=1&sn=6d7800975a4b555477dca7c8d618dfcc&chksm=cf619da1f81614b7dd019fae76723106398f8c7c022883d4461933df94654662bfd48b8288a7#rd",
+        "create_time": 1737536982,
+        "update_time": 1737626400
       }
     ],
     [
@@ -2089,7 +2098,17 @@
         "update_time": 1737590400
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651275542_1",
+        "appmsgid": 2651275542,
+        "from": "前端早读课",
+        "title": "【第3450期】JavaScript 中的千里眼和穿杨箭",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275542&idx=1&sn=3276d48f1d47abeb548112822b4455c6&chksm=bd4898928a3f11849ac9575fdf927dcc0168ad19b41e4766a296945bbeb4702eaf618a577653#rd",
+        "create_time": 1737675487,
+        "update_time": 1737676800
+      }
+    ],
     [],
     [],
     [],
