@@ -2967,6 +2967,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538039&idx=1&sn=9187c5c7a72ece00300a8a037ad607d2&chksm=8390c82fb4e74139c53505ef653c4d84d1d142f35d0403fe2a28d8d416ad21db47b05f1bb82d#rd",
         "create_time": 1739526245,
         "update_time": 1739526245
+      },
+      {
+        "aid": "2247502458_1",
+        "appmsgid": 2247502458,
+        "from": "哔哩哔哩技术",
+        "title": "ICLR25 重新思考长尾识别中的分类器再训练：标签过平滑可以实现平衡",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247502458&idx=1&sn=fb80f78454feb67accde14c03ff3b45a&chksm=cf2f0f5ff8588649f670f1cf0aac2ae3a4cfcb9c3c51377a6110b2c4d245079bca0cdd6901c6#rd",
+        "create_time": 1739504929,
+        "update_time": 1739505600
       }
     ],
     [
@@ -3007,6 +3016,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525323&idx=1&sn=8a1614637b5094231509c38c3f025a70&chksm=f992651acee5ec0cd06cd829908c7ab7cd0f7a1c82a83032bfa02f3e04b6265f43b34c8d7371#rd",
         "create_time": 1739715589,
         "update_time": 1739715589
+      },
+      {
+        "aid": "2247486806_1",
+        "appmsgid": 2247486806,
+        "from": "Goodme前端团队",
+        "title": "从抓包到 Mock，Plug 工具如何让开发更智能",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTkwMTY3Mg==&mid=2247486806&idx=1&sn=05c934571017c294944716c0c7ed6ea3&chksm=cfe58a51f8920347100d21d4142be949c78c63c389f3d5d587fe739cc304b8b53d1f002a32b8#rd",
+        "create_time": 1739706695,
+        "update_time": 1739750400
       }
     ],
     [
@@ -3018,9 +3036,64 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275678&idx=1&sn=49c271d91874fa2c27f7e9e14c3b1124&chksm=bd48981a8a3f110ca5f934e7aa34ad5d3b47dde4d1219972964108336ac672a383c1cb49a289#rd",
         "create_time": 1739749200,
         "update_time": 1739750400
+      },
+      {
+        "aid": "2247525329_1",
+        "appmsgid": 2247525329,
+        "from": "程序员成长指北",
+        "title": "三流前端搞技术，二流前端搞框架，一流前端…",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525329&idx=1&sn=3af4c9b435775949da576824f706b981&chksm=f9926500cee5ec16f32f560938b99e34153e4fdef35636825c2e68b34b761806bef9b4f6dcaf#rd",
+        "create_time": 1739760131,
+        "update_time": 1739760131
+      },
+      {
+        "aid": "2247525329_2",
+        "appmsgid": 2247525329,
+        "from": "程序员成长指北",
+        "title": "大厂都在做的前端稳定性到底是啥呢？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525329&idx=2&sn=5def26b1607a8592a7e000853807a663&chksm=f9926500cee5ec1625cc959dc4ebfc8b5f304a7122622ffbee63cd0953855b26eabc87b7f393#rd",
+        "create_time": 1739760131,
+        "update_time": 1739760131
+      },
+      {
+        "aid": "2247514424_1",
+        "appmsgid": 2247514424,
+        "from": "奇舞精选",
+        "title": "shadcn/ui：2024年最受欢迎的前端项目",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247514424&idx=1&sn=c8b44aa406205f5983477fe036c9ff08&chksm=cf619c12f816150426cd2b98a41b0c2d044cac0ad72d7ad57c50f49e14b52260cbbac88869b9#rd",
+        "create_time": 1739762735,
+        "update_time": 1739786400
       }
     ],
-    [],
+    [
+      {
+        "aid": "2649013486_1",
+        "appmsgid": 2649013486,
+        "from": "前端新世界",
+        "title": "JavaScript的12大“天坑”！90%程序员都踩过",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI1MzI3OQ==&mid=2649013486&idx=1&sn=c9057c6a11542ff373afdc40b6d12cba&chksm=8300235eb477aa48e6c8ddd96d4fe5b5e5c4a3ed7d7de578fe2411c9db07188f6b5022d9405b#rd",
+        "create_time": 1739836398,
+        "update_time": 1739836398
+      },
+      {
+        "aid": "2651275696_1",
+        "appmsgid": 2651275696,
+        "from": "前端早读课",
+        "title": "【第3457期】揭秘！如何将动效描述自动转化为动效代码",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275696&idx=1&sn=324797a54b65d3dfe64b1def15e784fb&chksm=bd4898348a3f11225e8c3ad009f78c5114da6995217dbb474ae14f9969905f853c89a68bc1a9#rd",
+        "create_time": 1739835690,
+        "update_time": 1739836800
+      },
+      {
+        "aid": "2651275696_2",
+        "appmsgid": 2651275696,
+        "from": "前端早读课",
+        "title": "【招聘】抖音搜索招前端研发工程师/高级前端研发工程师",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275696&idx=2&sn=ed65ec1ad88e4d96f675cbbcbb0f3f14&chksm=bd4898348a3f112211f35f44743e8ad84aaee3e9173760b9d8fb6d36c72969fe267aaa710f42#rd",
+        "create_time": 1739835690,
+        "update_time": 1739836800
+      }
+    ],
     [],
     [],
     [],
