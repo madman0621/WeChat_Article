@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2651275832_1",
+    "appmsgid": 2651275832,
+    "from": "前端早读课",
+    "title": "【第3462期】7 分钟深度理解柯里化",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275832&idx=1&sn=25ba311597072242af46457ab901d6c7&chksm=bd489bbc8a3f12aaa6e3fe49da8e4f262912838c083eccffde748add9a2cd9a03c4002ffeb49#rd",
+    "create_time": 1740527944,
+    "update_time": 1740528300
+  },
+  {
+    "aid": "2651275832_2",
+    "appmsgid": 2651275832,
+    "from": "前端早读课",
+    "title": "【图书】零基础开发AI Agent：手把手教你用扣子做智能体",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275832&idx=2&sn=c7df0c99d1977ddb47344ef87bd7d6ce&chksm=bd489bbc8a3f12aa574e19df67c1bdb8736c79cd7825b6e1672a4020ce8dcabe574b4a15f3b9#rd",
+    "create_time": 1740527944,
+    "update_time": 1740528300
+  },
+  {
     "aid": "2651275781_1",
     "appmsgid": 2651275781,
     "from": "前端早读课",

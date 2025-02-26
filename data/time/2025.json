@@ -3052,6 +3052,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTkwMTY3Mg==&mid=2247486806&idx=1&sn=05c934571017c294944716c0c7ed6ea3&chksm=cfe58a51f8920347100d21d4142be949c78c63c389f3d5d587fe739cc304b8b53d1f002a32b8#rd",
         "create_time": 1739706695,
         "update_time": 1739750400
+      },
+      {
+        "aid": "2247503213_1",
+        "appmsgid": 2247503213,
+        "from": "大转转FE",
+        "title": "转转前端周刊第142期: Tailwind CSS 4.0 正式发布",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247503213&idx=1&sn=9c98b7ba5f6cb6b3ba44e78619a8a144&chksm=fbb646a4ccc1cfb2da02bb658ee0816251885c36fe20cbcd754aa66dbad7e22c879b7ebc8f38#rd",
+        "create_time": 1739715855,
+        "update_time": 1739754000
       }
     ],
     [
@@ -3444,6 +3453,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525393&idx=1&sn=ba1d599ab48727fb9ebb1be25f1d9895&chksm=f99262c0cee5ebd64f1a2e0c18ffebcd00e2aaf2b8bdb2aea2e0306654a1b0d209f04e4739a2#rd",
         "create_time": 1740321075,
         "update_time": 1740321074
+      },
+      {
+        "aid": "2247503218_1",
+        "appmsgid": 2247503218,
+        "from": "大转转FE",
+        "title": "转转前端周刊第143期: 2024年前端技术盘点与2025年技术展望",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247503218&idx=1&sn=a87c2d8b767f42b353354f08e1c7ec29&chksm=fbb646bbccc1cfad7775ce30c5f19e01b8c46114eba7bdf32fabd359b6023eaf5eb22c75834c#rd",
+        "create_time": 1740315150,
+        "update_time": 1740358800
       }
     ],
     [
@@ -3527,6 +3545,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538502&idx=1&sn=aa954b0e7d60240dc98ce70f6c456e06&chksm=8390ca1eb4e74308e0fd64e5f8c21a7fc3209bc5b0d3742722650535d23c19d6842cf06da928#rd",
         "create_time": 1740391174,
         "update_time": 1740391173
+      },
+      {
+        "aid": "2247502521_1",
+        "appmsgid": 2247502521,
+        "from": "哔哩哔哩技术",
+        "title": "直播高光系统建设实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247502521&idx=1&sn=2f63ebb5618d3635024303228631fa5e&chksm=cf2f0f9cf858868a271f60657bcd4ba2963498c60692847e0f529bc1108ae6662822758d57f6#rd",
+        "create_time": 1740398528,
+        "update_time": 1740456000
       }
     ],
     [
@@ -3538,9 +3565,46 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275781&idx=1&sn=a42b98b95bd3bec0b8915d2e48dbe18e&chksm=bd489b818a3f12976e238bb432f159f45e9a99299c2f1288e722007e73bdaa3a5241efced71c#rd",
         "create_time": 1740439693,
         "update_time": 1740441600
+      },
+      {
+        "aid": "2649013701_1",
+        "appmsgid": 2649013701,
+        "from": "前端新世界",
+        "title": "利用 AI 生成“小姐姐”照片视频“流水化”诈骗，可真刑！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI1MzI3OQ==&mid=2649013701&idx=1&sn=104bf6cd98a54917c837c06af0307374&chksm=83002275b477ab63f5de2f2d4662470cb0f57b4de31d29d20651e60f361ee480ce0c70d88c38#rd",
+        "create_time": 1740459366,
+        "update_time": 1740459365
+      },
+      {
+        "aid": "2247514466_1",
+        "appmsgid": 2247514466,
+        "from": "奇舞精选",
+        "title": "尤雨溪在2025年Vue.js nation 大会上的分享内容！",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247514466&idx=1&sn=dcae77a33ef62f3091e84a848402beeb&chksm=cf619c48f816155e8ae3af147c270dac6a5b28c1de20f46d859acd13e31bd7cce494ce34f486#rd",
+        "create_time": 1740472567,
+        "update_time": 1740479400
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651275832_1",
+        "appmsgid": 2651275832,
+        "from": "前端早读课",
+        "title": "【第3462期】7 分钟深度理解柯里化",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275832&idx=1&sn=25ba311597072242af46457ab901d6c7&chksm=bd489bbc8a3f12aaa6e3fe49da8e4f262912838c083eccffde748add9a2cd9a03c4002ffeb49#rd",
+        "create_time": 1740527944,
+        "update_time": 1740528300
+      },
+      {
+        "aid": "2651275832_2",
+        "appmsgid": 2651275832,
+        "from": "前端早读课",
+        "title": "【图书】零基础开发AI Agent：手把手教你用扣子做智能体",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275832&idx=2&sn=c7df0c99d1977ddb47344ef87bd7d6ce&chksm=bd489bbc8a3f12aa574e19df67c1bdb8736c79cd7825b6e1672a4020ce8dcabe574b4a15f3b9#rd",
+        "create_time": 1740527944,
+        "update_time": 1740528300
+      }
+    ],
     [],
     [],
     [],
