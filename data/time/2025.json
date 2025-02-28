@@ -3348,6 +3348,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621951&idx=1&sn=e9841026f9733694f9a7088a56081b90&chksm=80225dfeb755d4e84b61dc16e38a41a29a3925577a6b40e13413970f58abf135355703cc9d48#rd",
         "create_time": 1740009640,
         "update_time": 1740009900
+      },
+      {
+        "aid": "2247519736_1",
+        "appmsgid": 2247519736,
+        "from": "支付宝体验科技",
+        "title": "支付宝集福视觉盛宴背后的动效技术",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2OTYyODU0NQ==&mid=2247519736&idx=1&sn=d1cabe1bcba22fd25797c985af1370ef&chksm=ce98e216f9ef6b007344bc3608751f168cbf6aef79e2d12a94c521e8296d0c6c265acff9f9a1#rd",
+        "create_time": 1740043642,
+        "update_time": 1740043641
       }
     ],
     [
@@ -3657,6 +3666,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538653&idx=1&sn=a33199937cb96771b67bd0dd1449f028&chksm=8390ca85b4e74393c539d8987fec0c7f3685b49b1871743322de7645d83504f56fdc2d1364c6#rd",
         "create_time": 1740564822,
         "update_time": 1740564821
+      },
+      {
+        "aid": "2247506024_1",
+        "appmsgid": 2247506024,
+        "from": "字节前端 ByteFE",
+        "title": "Code Less, Create More丨AI FOR CODE 创意挑战赛即将开幕！",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506024&idx=1&sn=308fddf210737f4c2c8aa5eba0c2ca33&chksm=cea96f69f9dee67f33a2bdc86e80440d96e7371224f77f5dccf451c3bc3bccef74f15e7df79d#rd",
+        "create_time": 1740551064,
+        "update_time": 1740551064
       }
     ],
     [
@@ -3668,9 +3686,37 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275841&idx=1&sn=2a7ef67958d735378f2153de613fb91e&chksm=bd489bc58a3f12d33aa1aa9769b238526d8cb6c6208c8fbcdab2bfc9921d86d2da4f2cc01b68#rd",
         "create_time": 1740612739,
         "update_time": 1740614400
+      },
+      {
+        "aid": "2247525431_1",
+        "appmsgid": 2247525431,
+        "from": "程序员成长指北",
+        "title": "前端稳定性规约该如何制定",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525431&idx=1&sn=33b29b0dc158197e9bb842dd0bfa228c&chksm=f99262e6cee5ebf08e365e054aff0e5624aae16d0dea2da3fd489af1d62f966de1ca4fb08e1a#rd",
+        "create_time": 1740628914,
+        "update_time": 1740628913
+      },
+      {
+        "aid": "2247525431_2",
+        "appmsgid": 2247525431,
+        "from": "程序员成长指北",
+        "title": "AI Agent自动化操作浏览器的发展与应用",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525431&idx=2&sn=47ff59d0961fecda58d4c0ea777a763f&chksm=f99262e6cee5ebf04a2164dbb8d1ec1fc3786ca72d92f1abea58caee8f26688093cb5367d8f3#rd",
+        "create_time": 1740628914,
+        "update_time": 1740628913
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651275845_1",
+        "appmsgid": 2651275845,
+        "from": "前端早读课",
+        "title": "【第3464期】从初级开发者到高级开发者：借助 ChatGPT 的成长之路",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275845&idx=1&sn=fb9b8909b865585d35a1c16a96e641d1&chksm=bd489bc18a3f12d7560fd1c1ef6cc60429303bffd7f0e0d773e23328d1c4f2b740eae29075d3#rd",
+        "create_time": 1740699580,
+        "update_time": 1740700800
+      }
+    ],
     [],
     [],
     []
