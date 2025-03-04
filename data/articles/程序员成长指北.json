@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2247525477_1",
+    "appmsgid": 2247525477,
+    "from": "程序员成长指北",
+    "title": "使用抽象语法树把低代码配置转换成源码",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525477&idx=1&sn=883bec04ffb32a01be2fd47d59e15627&chksm=f99262b4cee5eba256836ae6cd07668bc05ab096941acb9f3dc93bfca0048f7736deb4331a12#rd",
+    "create_time": 1740976501,
+    "update_time": 1740976501
+  },
+  {
+    "aid": "2247525477_2",
+    "appmsgid": 2247525477,
+    "from": "程序员成长指北",
+    "title": "AST详解与运用",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525477&idx=2&sn=28721fa0cc3f5a7cba45c6e7e0ed8711&chksm=f99262b4cee5eba2cef984e0e5712eb8e9f139204df6f87c9eb144136be60a57767e58524491#rd",
+    "create_time": 1740976501,
+    "update_time": 1740976501
+  },
+  {
     "aid": "2247525464_1",
     "appmsgid": 2247525464,
     "from": "程序员成长指北",
