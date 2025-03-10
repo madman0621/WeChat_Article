@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2247503224_1",
+    "appmsgid": 2247503224,
+    "from": "大转转FE",
+    "title": "转转前端周刊第145期: 2025年前端与AI技术大盘点和展望",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247503224&idx=1&sn=6fc036c28a0fbcf1fb0405968314088c&chksm=fbb646b1ccc1cfa7f924d4e3bbd3bda916e233c393bdbdfe3af9950bdee0591ce3e3d94dfa8b#rd",
+    "create_time": 1741529114,
+    "update_time": 1741568400
+  },
+  {
+    "aid": "2247503221_1",
+    "appmsgid": 2247503221,
+    "from": "大转转FE",
+    "title": "转转前端周刊第144期: 从 React 看前端 UI 代码范式革命",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247503221&idx=1&sn=cf017e1ea7516fb4909618033a23a2fc&chksm=fbb646bcccc1cfaa68feba435f26cfa6a5bb30ddcba72ea1745fadecddb75e4d0a6666f5a964#rd",
+    "create_time": 1740923213,
+    "update_time": 1740963600
+  },
+  {
     "aid": "2247503218_1",
     "appmsgid": 2247503218,
     "from": "大转转FE",
