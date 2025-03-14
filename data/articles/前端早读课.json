@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2651275982_1",
+    "appmsgid": 2651275982,
+    "from": "前端早读课",
+    "title": "【第3473期】这就是如何利用大型语言模型来帮助我编写代码的方法",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275982&idx=1&sn=7f1af26105ae074b5d2694ed3d5ad485&chksm=bd489b4a8a3f125c68c72e80b468b84dbb429b97d081632e68fddd597edb4f601abf23690ff9#rd",
+    "create_time": 1741908769,
+    "update_time": 1741910400
+  },
+  {
+    "aid": "2651275975_1",
+    "appmsgid": 2651275975,
+    "from": "前端早读课",
+    "title": "【第3472期】资源预加载可能会拖慢网站速度",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275975&idx=1&sn=272f942c61d92c7154a73f780f50c336&chksm=bd489b438a3f1255619907981454df89c9af5508048e86643fe88aa4815cea6ba28a685bbefd#rd",
+    "create_time": 1741822650,
+    "update_time": 1741824000
+  },
+  {
     "aid": "2651275961_1",
     "appmsgid": 2651275961,
     "from": "前端早读课",

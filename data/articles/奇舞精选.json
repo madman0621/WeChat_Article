@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2247514585_1",
+    "appmsgid": 2247514585,
+    "from": "奇舞精选",
+    "title": "JavaScript 提取 PDF、Word 文档图片，非常简单，别再头大了！",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247514585&idx=1&sn=f90a63315c0305abe311d4b2d30a2325&chksm=cf619cf3f81615e5af7a19a834391d67f5948c66758db7a246598efd1e61bd3c6166ab071877#rd",
+    "create_time": 1741843118,
+    "update_time": 1741860000
+  },
+  {
+    "aid": "2247514577_1",
+    "appmsgid": 2247514577,
+    "from": "奇舞精选",
+    "title": "从DeepSeek到Manus：如何实现本地LLM微调+联网开发？",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247514577&idx=1&sn=da433e69b8f8a61f8bc5faa723dd5e0c&chksm=cf619cfbf81615edccb2889886cf7b2f04fb5c9184bb9752f96a250516cc43d1174b5b83b557#rd",
+    "create_time": 1741766083,
+    "update_time": 1741773600
+  },
+  {
     "aid": "2247514566_1",
     "appmsgid": 2247514566,
     "from": "奇舞精选",
