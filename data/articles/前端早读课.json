@@ -1,5 +1,41 @@
 [
   {
+    "aid": "2651276056_1",
+    "appmsgid": 2651276056,
+    "from": "前端早读课",
+    "title": "【第3476期】什么是MCP",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276056&idx=1&sn=06a98781d33abe9dabb92242c911a452&chksm=bd489a9c8a3f138ae90920f77d3c7ebd6304fb08f4ba4c0079725ffbe53911a28e0e37c92ae8#rd",
+    "create_time": 1742514312,
+    "update_time": 1742515200
+  },
+  {
+    "aid": "2651276056_2",
+    "appmsgid": 2651276056,
+    "from": "前端早读课",
+    "title": "【早阅】Parcel v2.14.0 发布",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276056&idx=2&sn=8b7b7b95fd9cd526671d03761d9a045c&chksm=bd489a9c8a3f138a8ba171c8b6cd78041c9a5ba7c0c908ef129b2fa9ae37da21c05fdde515b9#rd",
+    "create_time": 1742514312,
+    "update_time": 1742515200
+  },
+  {
+    "aid": "2651276046_1",
+    "appmsgid": 2651276046,
+    "from": "前端早读课",
+    "title": "【早阅】Cursor Talk to Figma MCP",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276046&idx=1&sn=e348f7cbc5157b043c32639ec0332c9e&chksm=bd489a8a8a3f139cfba1acfe4a874aad4c35ac6c863013c2ecc5413e934b0344c63fff6f10d0#rd",
+    "create_time": 1742427632,
+    "update_time": 1742428800
+  },
+  {
+    "aid": "2651276046_2",
+    "appmsgid": 2651276046,
+    "from": "前端早读课",
+    "title": "工作阶段性迷茫，怎么办",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276046&idx=2&sn=83f3da6ab1265fc505449fa5ab9973af&chksm=bd489a8a8a3f139c361b8392271f78bcd0b44b8735647ede39549811ed2b3248afae379da443#rd",
+    "create_time": 1742427632,
+    "update_time": 1742428800
+  },
+  {
     "aid": "2651276009_1",
     "appmsgid": 2651276009,
     "from": "前端早读课",
