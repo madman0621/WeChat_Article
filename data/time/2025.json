@@ -4944,6 +4944,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTkwMTY3Mg==&mid=2247487577&idx=1&sn=8aac7bc37a8aa717ca430305cd5f242b&chksm=cfe5975ef8921e48868f5437da54ba2dc07ff9902d3a06f12255b9bf4945ad7fab750e3099dc#rd",
         "create_time": 1742718128,
         "update_time": 1742774400
+      },
+      {
+        "aid": "2247503230_1",
+        "appmsgid": 2247503230,
+        "from": "大转转FE",
+        "title": "转转前端周刊第147期: Vite成为首个接入AI的构建工具",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247503230&idx=1&sn=b802491e50f15a14afabaa19098a59eb&chksm=fbb646b7ccc1cfa12adb073757cd84089742f92ba6dc17d1d56ce2d04071b89932835f57279c#rd",
+        "create_time": 1742742682,
+        "update_time": 1742778000
       }
     ],
     [
@@ -5327,6 +5336,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525804&idx=2&sn=77fbfde6affdb47fecd8a6e040f7fae7&chksm=f992637dcee5ea6b5ad090848771cb0eaa985499c3a7ddbcdde4ee58931c327f5f127c64be5f#rd",
         "create_time": 1743304529,
         "update_time": 1743339900
+      },
+      {
+        "aid": "2247503234_1",
+        "appmsgid": 2247503234,
+        "from": "大转转FE",
+        "title": "转转前端周刊第148期: AI 编程神器 Cursor 十大使用技巧",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247503234&idx=1&sn=ddd88e7c4f35c93e919363324cad392b&chksm=fbb6464bccc1cf5d2bccb9a88e4559dc4cfa97741d58ae3d106a549817865e5133c21319dd80#rd",
+        "create_time": 1743340151,
+        "update_time": 1743382800
       }
     ],
     [
@@ -5490,11 +5508,67 @@
         "update_time": 1743583480
       }
     ],
+    [
+      {
+        "aid": "2247525862_1",
+        "appmsgid": 2247525862,
+        "from": "程序员成长指北",
+        "title": "TypeScript 也能开发AI应用了！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525862&idx=1&sn=18da91de56596a3b2b3a3d151562b333&chksm=f9926337cee5ea214f231fe04f942eaf1c26d6f21af78f66753d377425bc495f1317a1ce28df#rd",
+        "create_time": 1743642043,
+        "update_time": 1743642043
+      },
+      {
+        "aid": "2247525862_2",
+        "appmsgid": 2247525862,
+        "from": "程序员成长指北",
+        "title": "如何检查一个对象是否是 Proxy？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525862&idx=2&sn=8ef79be84b629eaa9a6c4086d0110c66&chksm=f9926337cee5ea215a37f24363d77ef8e61eb66a551bafe8bdec564b3bf4c91b0ec180a91af8#rd",
+        "create_time": 1743642043,
+        "update_time": 1743642043
+      },
+      {
+        "aid": "2247503269_1",
+        "appmsgid": 2247503269,
+        "from": "大转转FE",
+        "title": "代码变更暗藏危机？代码影响范围分析为你保驾护航",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247503269&idx=1&sn=0ab8b1a5c62d6d6efcd744eebdf6077b&chksm=fbb6466cccc1cf7a5cf069c5eae3383b74160141d5bb2f21b7fb4bdf83a14b61b452c7e9a02d#rd",
+        "create_time": 1743649177,
+        "update_time": 1743649177
+      },
+      {
+        "aid": "2247514696_1",
+        "appmsgid": 2247514696,
+        "from": "奇舞精选",
+        "title": "Vue 团队成员新作：node-modules 可视化神器！",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247514696&idx=1&sn=83ad728360e5635324abbde286115799&chksm=cf619f62f81616741d2d013e28cfde9acbe8ed486475dc021daf2f7954ae3516eb5fe68d08b1#rd",
+        "create_time": 1743663704,
+        "update_time": 1743674400
+      }
+    ],
     [],
     [],
     [],
-    [],
-    [],
+    [
+      {
+        "aid": "2247525879_1",
+        "appmsgid": 2247525879,
+        "from": "程序员成长指北",
+        "title": "Figma MCP Server 介绍：专为 AI 编码工具设计的服务器",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525879&idx=1&sn=477a2528bfa8ba5700a1cfe3b1b7c080&chksm=f9926326cee5ea30db0e401194580ce4d48805841926b88ebd0046cab80dd3481d21b9db1fb0#rd",
+        "create_time": 1743988027,
+        "update_time": 1743988027
+      },
+      {
+        "aid": "2247525879_2",
+        "appmsgid": 2247525879,
+        "from": "程序员成长指北",
+        "title": "错怪react的半年-聊聊keepalive",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525879&idx=2&sn=3030a82d69091057de6ac470f5ae0131&chksm=f9926326cee5ea306cebea7af45e59f5ad10483d1afd6aebd83c7267b8f4e1aa79975b257db2#rd",
+        "create_time": 1743988027,
+        "update_time": 1743988027
+      }
+    ],
     [],
     [],
     [],
