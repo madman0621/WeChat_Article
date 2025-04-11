@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2651276172_1",
+    "appmsgid": 2651276172,
+    "from": "前端早读课",
+    "title": "【第3488期】AI agents 如何悄然改变前端开发",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276172&idx=1&sn=19dd9870597d771cd2d4d0c39c2c0707&chksm=bd489a088a3f131e2aab2e5dcceee60a5f8333de71c435e278627bb7c6d35692f5d11636bb86#rd",
+    "create_time": 1744328562,
+    "update_time": 1744329600
+  },
+  {
+    "aid": "2651276172_2",
+    "appmsgid": 2651276172,
+    "from": "前端早读课",
+    "title": "如何成为AI时代的合格前端",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276172&idx=2&sn=bc2cbc9877271d1777fd2104876d7495&chksm=bd489a088a3f131e5aab702ba3c441db0811c085eebcb7cf47cb83b13f2cc0bc89b5a62252ef#rd",
+    "create_time": 1744328562,
+    "update_time": 1744329600
+  },
+  {
     "aid": "2651276145_1",
     "appmsgid": 2651276145,
     "from": "前端早读课",
