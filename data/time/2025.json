@@ -5904,6 +5904,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622318&idx=1&sn=524f6c6ea618b870bd390eb933d44075&chksm=80225c6fb755d579557601e8b0ae0608415fbd808ead0efd95daeaa568ad3a108053177c8f29#rd",
         "create_time": 1744542243,
         "update_time": 1744542480
+      },
+      {
+        "aid": "2247503272_1",
+        "appmsgid": 2247503272,
+        "from": "大转转FE",
+        "title": "转转前端周刊第149期: Cursor 在前端需求开发工作流中的应用",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247503272&idx=1&sn=295923ff9f01f3f519e64eec4a422705&chksm=fbb64661ccc1cf77ef79fd8ee7be2bababee7abeade69bc1531d97737c00879c3fda4311eff3#rd",
+        "create_time": 1744548752,
+        "update_time": 1744592400
       }
     ],
     [
@@ -6016,9 +6025,37 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276215&idx=2&sn=bc266c7f6d677371e626c011f3e9bca5&chksm=bd489a338a3f13256ab4fc5cfb6f2ee49c9755276c676eaeb52260eea1913a0c8825b2364317#rd",
         "create_time": 1744672196,
         "update_time": 1744675200
+      },
+      {
+        "aid": "2247514904_1",
+        "appmsgid": 2247514904,
+        "from": "奇舞精选",
+        "title": "前端定时任务的神库！快把它加到你的项目中去！",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247514904&idx=1&sn=8b1aa8437aa53023a61fe55e570c6870&chksm=cf619e32f8161724d30341d46a8c6416977e2089a0cfa5f72d2be4523a5db54ef21aff630b16#rd",
+        "create_time": 1744705985,
+        "update_time": 1744711200
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651276221_1",
+        "appmsgid": 2651276221,
+        "from": "前端早读课",
+        "title": "【第3491期】用分层结构扩展你的 React 项目",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276221&idx=1&sn=4028680ce582b8bcb47dc577d97e214e&chksm=bd489a398a3f132fab6f606e3dcc72884f2bb37e115f20a44c37e4c433c68a9e76564b3c3d5b#rd",
+        "create_time": 1744759307,
+        "update_time": 1744761600
+      },
+      {
+        "aid": "2651276221_2",
+        "appmsgid": 2651276221,
+        "from": "前端早读课",
+        "title": "【图书】DeepSeek极速上手：高效做事不内耗",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276221&idx=2&sn=1d5e053a8f858ce82f69df9e91a73953&chksm=bd489a398a3f132f431d3d03de8ce825ca5de42c8e6ead0a4355bcaeb87a7656b1f65d3724a4#rd",
+        "create_time": 1744759307,
+        "update_time": 1744761600
+      }
+    ],
     [],
     [],
     [],
