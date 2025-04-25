@@ -6408,6 +6408,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247502785&idx=1&sn=7d1579ff6fb45c834997102b6bf32961&chksm=cf2f0ee4f85887f244734433f8786f50e3546965413947cb1b334472a89a4cf82a035565f595#rd",
         "create_time": 1745292678,
         "update_time": 1745294400
+      },
+      {
+        "aid": "2247503275_1",
+        "appmsgid": 2247503275,
+        "from": "大转转FE",
+        "title": "转转前端周刊第150期: 用 Cursor 打造工程化 AI 编程体系",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247503275&idx=1&sn=d7bd3bd310ffd1548bbff7e23eebafe6&chksm=fbb64662ccc1cf74939fe1a942e5fc46c1612e8714f171ab1c3de5ebe60ff0e8a0155bbf3cda#rd",
+        "create_time": 1745322793,
+        "update_time": 1745370000
       }
     ],
     [
@@ -6484,9 +6493,46 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276269&idx=1&sn=013390327013622af87b6cec477e32bf&chksm=bd489a698a3f137f136751f6417098eaf4a4807d6fa22ef1c255c6a39e021c253981842e2c73#rd",
         "create_time": 1745450860,
         "update_time": 1745452800
+      },
+      {
+        "aid": "2247526067_1",
+        "appmsgid": 2247526067,
+        "from": "程序员成长指北",
+        "title": "Nextjs首屏加载速度性能从80分优化到98分",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526067&idx=1&sn=db5115c36c2afe439a8ff15fefd273f6&chksm=f9926062cee5e9745a8e649f0a5a593c5d249001d854b9f3f4df1ac3e52884fde4058c8b249e#rd",
+        "create_time": 1745469082,
+        "update_time": 1745469082
+      },
+      {
+        "aid": "2247526067_2",
+        "appmsgid": 2247526067,
+        "from": "程序员成长指北",
+        "title": "【AI入门】MCP Server初探",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526067&idx=2&sn=6044c5f2b302170109ab3423e471eb41&chksm=f9926062cee5e9743a68df84310264894b12a774f497f050c4e095eefd0c5ff2152c869bc4dd#rd",
+        "create_time": 1745469082,
+        "update_time": 1745469082
+      },
+      {
+        "aid": "2247514976_1",
+        "appmsgid": 2247514976,
+        "from": "奇舞精选",
+        "title": "一站式AI应用开发平台 Firebase Studio",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247514976&idx=1&sn=d99c51e923247312450348c91982e8b6&chksm=cf619e4af816175c0d384b656ef89a24b56925768eb9f5d65a5bb902ff4efccb651a281e88b0#rd",
+        "create_time": 1745480953,
+        "update_time": 1745488800
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651276284_1",
+        "appmsgid": 2651276284,
+        "from": "前端早读课",
+        "title": "【第3498期】常见的 React 库架构设计",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276284&idx=1&sn=119bcc426cc86b5cf879b6d6e5d460b8&chksm=bd489a788a3f136e9f0e69369aa5e5f6b75ff7045b80cf2b4f5630f53eaa779718a23b7487a3#rd",
+        "create_time": 1745536866,
+        "update_time": 1745539200
+      }
+    ],
     [],
     [],
     [],
