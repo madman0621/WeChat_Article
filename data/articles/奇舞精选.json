@@ -1,5 +1,32 @@
 [
   {
+    "aid": "2247515051_1",
+    "appmsgid": 2247515051,
+    "from": "奇舞精选",
+    "title": "LLM 返回的 JSON 有问题？试试 json-repair!",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247515051&idx=1&sn=a2acb8f3fecd89ce6b231bb8b3d68c40&chksm=cf619e81f81617975c0992473f4e67454e262bce4208d96947026159d0c6f8ebb1015bab7341#rd",
+    "create_time": 1745996367,
+    "update_time": 1746009000
+  },
+  {
+    "aid": "2247515029_1",
+    "appmsgid": 2247515029,
+    "from": "奇舞精选",
+    "title": "基于LangChain ReAct Agents构建RAG问答系统",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247515029&idx=1&sn=a7adbb8a5c84b0e229acb26e254c0d6b&chksm=cf619ebff81617a94e45908f922a9ccba1de7e2f254efed97d0a27cc37cad525676e05fef14a#rd",
+    "create_time": 1745917700,
+    "update_time": 1745922600
+  },
+  {
+    "aid": "2247514985_1",
+    "appmsgid": 2247514985,
+    "from": "奇舞精选",
+    "title": "前端搭建 MCP Client（Web版）+ Server + Agent 实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247514985&idx=1&sn=0ed33f658a81f4f4569ce78375637214&chksm=cf619e43f8161755e9836eb3a41f112aa528287f04d9e427e494b890f47aa0d5132b4b094557#rd",
+    "create_time": 1745826836,
+    "update_time": 1745837880
+  },
+  {
     "aid": "2247514980_1",
     "appmsgid": 2247514980,
     "from": "奇舞精选",
