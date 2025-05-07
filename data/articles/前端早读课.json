@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2651276343_1",
+    "appmsgid": 2651276343,
+    "from": "前端早读课",
+    "title": "【第3503期】人人都需要一个 HTTP proxy 来 debug",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276343&idx=1&sn=13268c442ea860d3c73d02a930dd5878&chksm=bd489db38a3f14a5b5d2c5c2ce440fd356883ec9656cf01bd767324bbe5b45ca6f37d3858a34#rd",
+    "create_time": 1746574290,
+    "update_time": 1746576000
+  },
+  {
+    "aid": "2651276343_2",
+    "appmsgid": 2651276343,
+    "from": "前端早读课",
+    "title": "【图书】DeepSeek快速上手：高效实用的AI玩法",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276343&idx=2&sn=3619c241982112cbebfad2045b510e80&chksm=bd489db38a3f14a5be1b685cb05ef941750e8bef5cdb102bfb902dcfd325ca3a3bcd725ef455#rd",
+    "create_time": 1746574290,
+    "update_time": 1746576000
+  },
+  {
     "aid": "2651276335_1",
     "appmsgid": 2651276335,
     "from": "前端早读课",
