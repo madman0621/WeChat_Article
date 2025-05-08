@@ -6871,9 +6871,64 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276343&idx=2&sn=3619c241982112cbebfad2045b510e80&chksm=bd489db38a3f14a5be1b685cb05ef941750e8bef5cdb102bfb902dcfd325ca3a3bcd725ef455#rd",
         "create_time": 1746574290,
         "update_time": 1746576000
+      },
+      {
+        "aid": "2247526135_1",
+        "appmsgid": 2247526135,
+        "from": "程序员成长指北",
+        "title": "30k的前端简历到底是长啥样的？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526135&idx=1&sn=cd0261a91622ae929e1a24695422970a&chksm=f9926026cee5e9308301d32cd87492b0cd0ec7068dd2f2a83886900df79ef803834099d7ca56#rd",
+        "create_time": 1746578194,
+        "update_time": 1746583800
+      },
+      {
+        "aid": "2247526135_2",
+        "appmsgid": 2247526135,
+        "from": "程序员成长指北",
+        "title": "通过performance面板验证浏览器资源加载与渲染机制",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526135&idx=2&sn=eb9eff3c16d1b6b41a6b4f1c8197c870&chksm=f9926026cee5e9308ee8f39d97adaf863cc5441bab96a61f4e59fa8694029c3ae7ce7d677845#rd",
+        "create_time": 1746578194,
+        "update_time": 1746583800
+      },
+      {
+        "aid": "2247515112_1",
+        "appmsgid": 2247515112,
+        "from": "奇舞精选",
+        "title": "LLM与外部世界的交互能力",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247515112&idx=1&sn=e5daed4e4405578fe3e1ebf2effd2845&chksm=cf619ec2f81617d479277400860a61ca8b83b2106cf2f023c09029a9ff8ac0aafa2bc3677e56#rd",
+        "create_time": 1746612751,
+        "update_time": 1746612751
+      },
+      {
+        "aid": "2650539901_1",
+        "appmsgid": 2650539901,
+        "from": "大淘宝技术",
+        "title": "淘天自营前端开发的AI增效实践总结",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539901&idx=1&sn=9befe94e4b01dd694c6602d70c609109&chksm=8390cf65b4e7467324c9f0e4aea3a0e8f1accd302d6bd031a7c7175f8127e94d0976eae36e5b#rd",
+        "create_time": 1746616152,
+        "update_time": 1746616152
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651276351_1",
+        "appmsgid": 2651276351,
+        "from": "前端早读课",
+        "title": "【第3504期】清理已失效的分支",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276351&idx=1&sn=4ede1b072f0a2de0722d43b45e7a0451&chksm=bd489dbb8a3f14ad3e847ea6551266ff490c133e689231110ffbd8bfce1a9dfeb315ce66c2bc#rd",
+        "create_time": 1746659876,
+        "update_time": 1746662400
+      },
+      {
+        "aid": "2651276351_2",
+        "appmsgid": 2651276351,
+        "from": "前端早读课",
+        "title": "【图书】认知跃迁：CTO写给程序员的26节成长课",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276351&idx=2&sn=da17799fff6b6356d7ea7d31ddeeaf2a&chksm=bd489dbb8a3f14adc13c55331716c1eda27e7ae66ed703910760f5e7448cc6914950cf778828#rd",
+        "create_time": 1746659876,
+        "update_time": 1746662400
+      }
+    ],
     [],
     [],
     [],

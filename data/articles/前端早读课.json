@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2651276351_1",
+    "appmsgid": 2651276351,
+    "from": "前端早读课",
+    "title": "【第3504期】清理已失效的分支",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276351&idx=1&sn=4ede1b072f0a2de0722d43b45e7a0451&chksm=bd489dbb8a3f14ad3e847ea6551266ff490c133e689231110ffbd8bfce1a9dfeb315ce66c2bc#rd",
+    "create_time": 1746659876,
+    "update_time": 1746662400
+  },
+  {
+    "aid": "2651276351_2",
+    "appmsgid": 2651276351,
+    "from": "前端早读课",
+    "title": "【图书】认知跃迁：CTO写给程序员的26节成长课",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276351&idx=2&sn=da17799fff6b6356d7ea7d31ddeeaf2a&chksm=bd489dbb8a3f14adc13c55331716c1eda27e7ae66ed703910760f5e7448cc6914950cf778828#rd",
+    "create_time": 1746659876,
+    "update_time": 1746662400
+  },
+  {
     "aid": "2651276343_1",
     "appmsgid": 2651276343,
     "from": "前端早读课",
