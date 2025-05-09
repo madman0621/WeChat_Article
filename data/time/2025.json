@@ -6529,6 +6529,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247514976&idx=1&sn=d99c51e923247312450348c91982e8b6&chksm=cf619e4af816175c0d384b656ef89a24b56925768eb9f5d65a5bb902ff4efccb651a281e88b0#rd",
         "create_time": 1745480953,
         "update_time": 1745488800
+      },
+      {
+        "aid": "2651622438_1",
+        "appmsgid": 2651622438,
+        "from": "前端大全",
+        "title": "再见了Vue3，前端AI已成气候！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622438&idx=1&sn=4b1d94e78591d4b640a161bc5e4d4ff5&chksm=80225be7b755d2f1db9a437f09862fedfaff71fccdfa90e932b183042cc3f80ed01180461d37#rd",
+        "create_time": 1745507055,
+        "update_time": 1745553000
       }
     ],
     [
@@ -6790,7 +6799,26 @@
   ],
   [
     [],
-    [],
+    [
+      {
+        "aid": "2651622448_1",
+        "appmsgid": 2651622448,
+        "from": "前端大全",
+        "title": "月薪3万35岁脑干出血程序员：ICU躺了28天，治疗花了约50万元，之前想要挣钱，现在想“好好爱自己”",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622448&idx=1&sn=ab6e36b88d07ebb39624db5740603678&chksm=80225bf1b755d2e70821626382e3b8518883d04620b4d7df67b8cba0e2b034a2c1387cdb5214#rd",
+        "create_time": 1746150077,
+        "update_time": 1746150360
+      },
+      {
+        "aid": "2651622448_2",
+        "appmsgid": 2651622448,
+        "from": "前端大全",
+        "title": "前端面试题：浏览器两个 tab 都是同域，如何在一个tab 向另一个 tab 发消息",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622448&idx=2&sn=9d518f3c1f20357d2d1724fcfc932f42&chksm=80225bf1b755d2e7d6f9a09bf11f3f9b7a85db51498feefc1b1c7cf4a182c2bf45ea151ad8e3#rd",
+        "create_time": 1746150077,
+        "update_time": 1746150360
+      }
+    ],
     [
       {
         "aid": "2649014386_1",
@@ -6907,6 +6935,24 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539901&idx=1&sn=9befe94e4b01dd694c6602d70c609109&chksm=8390cf65b4e7467324c9f0e4aea3a0e8f1accd302d6bd031a7c7175f8127e94d0976eae36e5b#rd",
         "create_time": 1746616152,
         "update_time": 1746616152
+      },
+      {
+        "aid": "2651622461_1",
+        "appmsgid": 2651622461,
+        "from": "前端大全",
+        "title": "谷歌突发大招刷爆AI编程榜！网友：不用买Cursor了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622461&idx=1&sn=fe606078a3515cf7f9c73bdeee2b1677&chksm=80225bfcb755d2ea9a94d486f47ed5cb6728f406bf3378be7ca21ff14ed05d3d765dda981113#rd",
+        "create_time": 1746587508,
+        "update_time": 1746587760
+      },
+      {
+        "aid": "2651622461_2",
+        "appmsgid": 2651622461,
+        "from": "前端大全",
+        "title": "面试官最想听到的Vue和React区别",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622461&idx=2&sn=a83100bf137c03a6e4d8b2b91aa058ec&chksm=80225bfcb755d2ea4e0f2b77e910dcba2f230800940121d1acef62cd4c11703e8a6524de0e79#rd",
+        "create_time": 1746587508,
+        "update_time": 1746587760
       }
     ],
     [
@@ -6927,9 +6973,64 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276351&idx=2&sn=da17799fff6b6356d7ea7d31ddeeaf2a&chksm=bd489dbb8a3f14adc13c55331716c1eda27e7ae66ed703910760f5e7448cc6914950cf778828#rd",
         "create_time": 1746659876,
         "update_time": 1746662400
+      },
+      {
+        "aid": "2649014397_1",
+        "appmsgid": 2649014397,
+        "from": "前端新世界",
+        "title": "从熬夜改需求到高效交付，前端的「元技能」是时候变一变了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI1MzI3OQ==&mid=2649014397&idx=1&sn=1dace538608d29c689bf1382ae79ae36&chksm=83005fcdb477d6db522e125aac4e9c8c977c5b09e0a3c72b8b8e913d7dbc894f430686fbc2c3#rd",
+        "create_time": 1746661164,
+        "update_time": 1746670200
+      },
+      {
+        "aid": "2649014397_2",
+        "appmsgid": 2649014397,
+        "from": "前端新世界",
+        "title": "12 种 Vue 设计模式",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI1MzI3OQ==&mid=2649014397&idx=2&sn=b3095242943be1a18464c439a4f0f597&chksm=83005fcdb477d6dbf5e8e71ea53967c878a406369b3a1fa4eb181b5e908d20cb3ac7b8e7ad9b#rd",
+        "create_time": 1746661164,
+        "update_time": 1746670200
+      },
+      {
+        "aid": "2247526154_1",
+        "appmsgid": 2247526154,
+        "from": "程序员成长指北",
+        "title": "人人都需要一个 HTTP proxy 来 debug",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526154&idx=1&sn=a23e8a9849d529e92dc95888415a43a8&chksm=f99261dbcee5e8cdfecfa209ee046e7725d371078f97187d9c50134e5f39aeaa3d03f2ef5196#rd",
+        "create_time": 1746665796,
+        "update_time": 1746665796
+      },
+      {
+        "aid": "2247526154_2",
+        "appmsgid": 2247526154,
+        "from": "程序员成长指北",
+        "title": "用Python+Gemini，几行代码，把你的照片变成宫崎骏风格动画艺术！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526154&idx=2&sn=241dc52bf204788e4abcab4df5271634&chksm=f99261dbcee5e8cde6a6fc822f2cdfa88f6e0228fd0308bffe1c83142de7f8f2036a5b2041d7#rd",
+        "create_time": 1746665796,
+        "update_time": 1746665796
+      },
+      {
+        "aid": "2247515118_1",
+        "appmsgid": 2247515118,
+        "from": "奇舞精选",
+        "title": "尤雨溪：让 AI 更好的理解 Vue、Vite",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247515118&idx=1&sn=54458ecf638aefbd7a27696e1b66d450&chksm=cf619ec4f81617d26dabf8220e7da5a3a907451f940fb2cad636e3a3b11c68e407e31eaab642#rd",
+        "create_time": 1746675349,
+        "update_time": 1746698400
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651276356_1",
+        "appmsgid": 2651276356,
+        "from": "前端早读课",
+        "title": "【第3505期】依赖分类",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276356&idx=1&sn=8a9821492e67075b2a8119c15e14bdde&chksm=bd489dc08a3f14d6e17424736a5b81bd9b173eaa85d12b18c592febc30066ff56a30baada803#rd",
+        "create_time": 1746746303,
+        "update_time": 1746748800
+      }
+    ],
     [],
     [],
     [],
