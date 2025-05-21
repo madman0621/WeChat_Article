@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2651276471_1",
+    "appmsgid": 2651276471,
+    "from": "前端早读课",
+    "title": "【第3513期】如何在 CSS 中让浏览器选择对比色",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276471&idx=1&sn=af1399fc0b1f32b94513c896b9532f44&chksm=bd489d338a3f142587fad3477da1eb3a9ed1372007265238862263da9bafae75adbfab4ad0e3#rd",
+    "create_time": 1747784230,
+    "update_time": 1747785600
+  },
+  {
+    "aid": "2651276471_2",
+    "appmsgid": 2651276471,
+    "from": "前端早读课",
+    "title": "【图书】DeepSeek 原理与项目实战",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276471&idx=2&sn=dceba5ecfb7ef7d1d15b665cfa27962f&chksm=bd489d338a3f142580cf7a31112c733aedb1b23722eeaf5161afe69f4c3f4660cd05ed667e83#rd",
+    "create_time": 1747784230,
+    "update_time": 1747785600
+  },
+  {
     "aid": "2651276449_1",
     "appmsgid": 2651276449,
     "from": "前端早读课",
