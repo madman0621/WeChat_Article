@@ -7414,6 +7414,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526211&idx=1&sn=3092718c7777495f6ef6231426307fd9&chksm=f9926192cee5e884a644ff76ae0a77729b881ca366156837e5cd978adcf7f06bfba9e3db1bfa#rd",
         "create_time": 1747575016,
         "update_time": 1747575015
+      },
+      {
+        "aid": "2247503284_1",
+        "appmsgid": 2247503284,
+        "from": "大转转FE",
+        "title": "转转前端周刊第153期: Cursor 内部工作原理",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247503284&idx=1&sn=e07d4ac631eaa8560cc2c7e2d7a238ae&chksm=fbb6467dccc1cf6b4c304f71e6917dfedbc78b4e956d5410ff1442279fd5f27bacefe3765dd7#rd",
+        "create_time": 1747575476,
+        "update_time": 1747616400
       }
     ],
     [
@@ -7546,10 +7555,75 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276471&idx=2&sn=dceba5ecfb7ef7d1d15b665cfa27962f&chksm=bd489d338a3f142580cf7a31112c733aedb1b23722eeaf5161afe69f4c3f4660cd05ed667e83#rd",
         "create_time": 1747784230,
         "update_time": 1747785600
+      },
+      {
+        "aid": "2247526240_1",
+        "appmsgid": 2247526240,
+        "from": "程序员成长指北",
+        "title": "撸一个小程序运行容器",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526240&idx=1&sn=cb2266238ed296f8b3910f627e042800&chksm=f99261b1cee5e8a71a1b0478c806a38028e4fc906acff8d8ce8cad3f2a4fca1f6c8c47ae1708#rd",
+        "create_time": 1747801856,
+        "update_time": 1747801856
+      },
+      {
+        "aid": "2247515292_1",
+        "appmsgid": 2247515292,
+        "from": "奇舞精选",
+        "title": "赛博仓鼠如何对抗碎片化阅读",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247515292&idx=1&sn=2c6ddc4881bb7729b92279bdfb789c9f&chksm=cf6199b6f81610a056e3103e08e4d00379871fc97990a62a3ec6d4cb0e6476e1b12470e89e28#rd",
+        "create_time": 1747821070,
+        "update_time": 1747821070
+      },
+      {
+        "aid": "2650540219_1",
+        "appmsgid": 2650540219,
+        "from": "大淘宝技术",
+        "title": "CursorRules：AI编程助手规则调优实战",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540219&idx=1&sn=a836c75389554ffd0f4a02166e8737d8&chksm=8390c0a3b4e749b5cd3db15d2e8dbff369436940b0523ca73fa90670f772535cf5f5169cf7dd#rd",
+        "create_time": 1747817732,
+        "update_time": 1747817732
       }
     ],
-    [],
-    [],
+    [
+      {
+        "aid": "2247526246_1",
+        "appmsgid": 2247526246,
+        "from": "程序员成长指北",
+        "title": "Vite打包优化实践：从分包到性能提升",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526246&idx=1&sn=7ffa75e637ef9ee7aaf37acb1e98672a&chksm=f99261b7cee5e8a16798fb0c037360139734a986315e5e6c31876e1337c53608e173f2b58589#rd",
+        "create_time": 1747874982,
+        "update_time": 1747874982
+      },
+      {
+        "aid": "2247526246_2",
+        "appmsgid": 2247526246,
+        "from": "程序员成长指北",
+        "title": "ESLint v9.26.0 发布，支持 MCP 了！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526246&idx=2&sn=2f8528a3c4d1b8cc1e5c204201bb76f7&chksm=f99261b7cee5e8a151184b795d8943d0a146c4fc948cc83a26f97e4e09df73f4fa48ca64db61#rd",
+        "create_time": 1747874982,
+        "update_time": 1747874982
+      },
+      {
+        "aid": "2651276486_1",
+        "appmsgid": 2651276486,
+        "from": "前端早读课",
+        "title": "【第3514期】JavaScript 的新超能力：显式资源管理",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276486&idx=1&sn=993e77b8d814daa31edc9f065be98180&chksm=bd489d428a3f1454f5301b80eb178989b3ed09ce06776245d57a47856b0e54e407c8b64f927a#rd",
+        "create_time": 1747869769,
+        "update_time": 1747872000
+      }
+    ],
+    [
+      {
+        "aid": "2651276497_1",
+        "appmsgid": 2651276497,
+        "from": "前端早读课",
+        "title": "【第3515期】前端的下一次演进：AI 驱动的状态管理",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276497&idx=1&sn=838e4ccb05f091266c280796cfe32087&chksm=bd489d558a3f14436773753d1fc6f007b0dd77f4b2217df1c2e25301a8f9354e61cb1fe1a30b#rd",
+        "create_time": 1747956022,
+        "update_time": 1747958400
+      }
+    ],
     [],
     [],
     [],
