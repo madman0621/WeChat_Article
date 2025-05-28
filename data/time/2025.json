@@ -7744,6 +7744,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540277&idx=1&sn=9b95746c39c2432b29b75aa6c0d7964e&chksm=8390c0edb4e749fbafeac452b1ac2b3174be51699afdd69015bc49adc71950f0ca87f1883bef#rd",
         "create_time": 1748248192,
         "update_time": 1748248192
+      },
+      {
+        "aid": "2247502953_1",
+        "appmsgid": 2247502953,
+        "from": "哔哩哔哩技术",
+        "title": "服务器故障管理实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247502953&idx=1&sn=fe426c3e291e714f3670901c8552e4ff&chksm=cf2f094cf858805af1f404c450d08aded14cc5919a5fca858eb142127c1d9495e13be2ff96cd#rd",
+        "create_time": 1748255300,
+        "update_time": 1748318400
       }
     ],
     [
@@ -7755,9 +7764,55 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276516&idx=1&sn=d1dfeb7103ef039786dc7098a1fbeace&chksm=bd489d608a3f14760d86c88872a73edf4447754d3989833de7ffebf81569537a44b86f507688#rd",
         "create_time": 1748301905,
         "update_time": 1748304000
+      },
+      {
+        "aid": "2247526290_1",
+        "appmsgid": 2247526290,
+        "from": "程序员成长指北",
+        "title": "前端也需要了解的 MCP 知识",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=1&sn=35d65ec8a6863f9b65561b038b6fe167&chksm=f9926143cee5e8551546bd2ef282262f649dff9619db4f547c2463c087a2b9cf52155e5b5893#rd",
+        "create_time": 1748307670,
+        "update_time": 1748307669
+      },
+      {
+        "aid": "2247526290_2",
+        "appmsgid": 2247526290,
+        "from": "程序员成长指北",
+        "title": "LLM与外部世界的交互能力",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=2&sn=f7da7b4e7babbb06dbd6a19b6431c0da&chksm=f9926143cee5e855ba17f6ab6a308c7102f8310525c06091800021e43bf10f573266a401feaf#rd",
+        "create_time": 1748307670,
+        "update_time": 1748307669
+      },
+      {
+        "aid": "2247515314_1",
+        "appmsgid": 2247515314,
+        "from": "奇舞精选",
+        "title": "前端也要懂点k8s-上篇",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247515314&idx=1&sn=74b3282fe8282c5e7b6a3c943b6b493d&chksm=cf619998f816108e343eeea57dcac85bc8916e109d967a740ce0d1ae859469b9e28b6d1be2ca#rd",
+        "create_time": 1748330819,
+        "update_time": 1748340000
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651276522_1",
+        "appmsgid": 2651276522,
+        "from": "前端早读课",
+        "title": "【第3518期】使用 margin-trim 更轻松地布局",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276522&idx=1&sn=a092698872868a18a7617a9e3f93aef2&chksm=bd489d6e8a3f14781718ea64d26e90793a7c43a0e0e5c91212007184c278c946915e63a6f7e7#rd",
+        "create_time": 1748389147,
+        "update_time": 1748390400
+      },
+      {
+        "aid": "2651276522_2",
+        "appmsgid": 2651276522,
+        "from": "前端早读课",
+        "title": "【图书】大模型算法：强化学习、微调与对齐（全彩）",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276522&idx=2&sn=9bb691592bd01aeac67f12a146060b15&chksm=bd489d6e8a3f14783267779585449d7f2a88bed0afc355637a330af4ccf36e184d3d04e38e39#rd",
+        "create_time": 1748389147,
+        "update_time": 1748390400
+      }
+    ],
     [],
     [],
     []
