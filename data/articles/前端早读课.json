@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2651276596_1",
+    "appmsgid": 2651276596,
+    "from": "前端早读课",
+    "title": "【第3520期】Slack、Notion 和 VSCode 提升 Electron 应用性能的 6 种方法",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276596&idx=1&sn=6fa52c16f7a0dac4f20c2a7936bcde79&chksm=bd489cb08a3f15a69f8ced9cd2e70337a2dd4ae83d7f2cbdf80594f9ed99e8959e7dfa6216c0#rd",
+    "create_time": 1748906788,
+    "update_time": 1748908800
+  },
+  {
+    "aid": "2651276596_2",
+    "appmsgid": 2651276596,
+    "from": "前端早读课",
+    "title": "【图书】MCP原理与实战：高效AI Agent智能体开发",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276596&idx=2&sn=0d4d5f290917268692e6ea82d16b380c&chksm=bd489cb08a3f15a667b06789f38aa065491a7ad290d8b30d64b79f2b3614aa7b7701d5cbad8f#rd",
+    "create_time": 1748906788,
+    "update_time": 1748908800
+  },
+  {
     "aid": "2651276581_1",
     "appmsgid": 2651276581,
     "from": "前端早读课",
