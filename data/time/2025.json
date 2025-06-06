@@ -7688,6 +7688,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526270&idx=2&sn=c433745c80b7c2957557952dfa92fece&chksm=f99261afcee5e8b96be36fe5b25c7d6cf21958f9a8f6a063194917d736109ba664bab2c5581e#rd",
         "create_time": 1748181517,
         "update_time": 1748181516
+      },
+      {
+        "aid": "2247503288_1",
+        "appmsgid": 2247503288,
+        "from": "大转转FE",
+        "title": "转转前端周刊第154期: AI编程助手规则调优实战",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247503288&idx=1&sn=e23e3641f5ce56ed2bcce0caca7a26b5&chksm=fbb64671ccc1cf67682a2c43675f81dc05ae77672906a7aab99fca7092a42271d45da8c83bef#rd",
+        "create_time": 1748179641,
+        "update_time": 1748221200
       }
     ],
     [
@@ -8024,10 +8033,120 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276606&idx=1&sn=9428064706c9d9b0f531ce5d0d836f65&chksm=bd489cba8a3f15ac0024b64f4f355f875ea5e204170b94a41ef360586f1d3585907ec2f0e411#rd",
         "create_time": 1748992477,
         "update_time": 1748995200
+      },
+      {
+        "aid": "2247499451_1",
+        "appmsgid": 2247499451,
+        "from": "iCSS前端趣闻",
+        "title": "虾皮（Shopee）大量前端社招 & 实习生岗位推荐",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499451&idx=1&sn=1eadbc4ec8c1f58a39a33509cdbcd9b1&chksm=ce269d4df951145b31f249309992daf2e8c4d16b398f320c164c837e581b9fd9aedec69f8e99#rd",
+        "create_time": 1749026050,
+        "update_time": 1749026049
+      },
+      {
+        "aid": "2247526340_1",
+        "appmsgid": 2247526340,
+        "from": "程序员成长指北",
+        "title": "跨过前端工程化建设的三座大山",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526340&idx=1&sn=1c0ed9a5a33de7e2c83ce7d4c69638ba&chksm=f9926115cee5e80338971e64700f00086f518dd02f4a5f63c0a936c6bfc96ba73ba425766b0a#rd",
+        "create_time": 1749015948,
+        "update_time": 1749015948
+      },
+      {
+        "aid": "2247526340_2",
+        "appmsgid": 2247526340,
+        "from": "程序员成长指北",
+        "title": "使用这个新的 ECMAScript 运算符告别 Try/Catch！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526340&idx=2&sn=a6d3a6fdda6e2b52032dc64441f87fe0&chksm=f9926115cee5e803108d35b93aa707c5e1978a6f2e1a2cd6e8f1f1c1b73ccdebeedef2953b2b#rd",
+        "create_time": 1749015948,
+        "update_time": 1749015948
+      },
+      {
+        "aid": "2247515435_1",
+        "appmsgid": 2247515435,
+        "from": "奇舞精选",
+        "title": "Chrome 138 将内置强大的 AI 模型，Vue、React 可直接调用！",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247515435&idx=1&sn=c67cc2dfa269e7c16892c7bd25209cbe&chksm=cf619801f8161117a629be383cf16143a41da3367d0c8373cba4ab178e3d473ef0699b423fac#rd",
+        "create_time": 1749022847,
+        "update_time": 1749031200
+      },
+      {
+        "aid": "2650540387_1",
+        "appmsgid": 2650540387,
+        "from": "大淘宝技术",
+        "title": "大模型微调知识与实践分享",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540387&idx=1&sn=cfaf3a39fa8ce530af3e2a3c1465eb4f&chksm=8390c17bb4e7486d95f1a1f299318ef5ebb4668b863eea32f748ff6868ac0b1753e157e3c6c6#rd",
+        "create_time": 1749023784,
+        "update_time": 1749023783
       }
     ],
-    [],
-    [],
+    [
+      {
+        "aid": "2649014462_1",
+        "appmsgid": 2649014462,
+        "from": "前端新世界",
+        "title": "钓鱼式裁员！HR 假扮猎头引诱员工辞职？法院判了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI1MzI3OQ==&mid=2649014462&idx=1&sn=2c01d232be46de9a690792887cedcde7&chksm=83005f0eb477d6187f8a81b748c94b95bdd21b68b5afdbcf2672baf44af30ea78d8dc7b66b69#rd",
+        "create_time": 1749127743,
+        "update_time": 1749127743
+      },
+      {
+        "aid": "2247526351_1",
+        "appmsgid": 2247526351,
+        "from": "程序员成长指北",
+        "title": "11 个 JavaScript 杀手脚本，用于自动执行日常任务",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526351&idx=1&sn=4570dae9b1d22897cc1921f91ee159a8&chksm=f992611ecee5e808bb02f174e1df2a15c6c1c6eeda44a3b16f9ae87529edf6b4e2e16bc1fb29#rd",
+        "create_time": 1749096779,
+        "update_time": 1749096779
+      },
+      {
+        "aid": "2247526351_2",
+        "appmsgid": 2247526351,
+        "from": "程序员成长指北",
+        "title": "为了让 iframe 支持 keepAlive，我连夜写了个 kframe",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526351&idx=2&sn=111bbd0fd236b8f4f2cf9fceee129a8f&chksm=f992611ecee5e808e317bbe71de6df1472906c8e51b17c7ffd7c45896053c1e11d53ef9ed326#rd",
+        "create_time": 1749096779,
+        "update_time": 1749096779
+      },
+      {
+        "aid": "2651276620_1",
+        "appmsgid": 2651276620,
+        "from": "前端早读课",
+        "title": "【第3522期】扩展 React 服务端渲染的能力",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276620&idx=1&sn=342639532003e9c3936661b540f0ef33&chksm=bd489cc88a3f15de96953e8b8259f9a6a67a7a9812ff21a6b2ce1532164c9f6e063e174ac2b3#rd",
+        "create_time": 1749079154,
+        "update_time": 1749081600
+      },
+      {
+        "aid": "2651276620_2",
+        "appmsgid": 2651276620,
+        "from": "前端早读课",
+        "title": "【招聘】抖音生活服务商品团队招前端实习生",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276620&idx=2&sn=cf6dc510f4af637f64cde9f5143e18ff&chksm=bd489cc88a3f15de9184261ff4bce7ee046396d81131131d14b19744798ddc6670cbdc1ebe20#rd",
+        "create_time": 1749079154,
+        "update_time": 1749081600
+      },
+      {
+        "aid": "2247515461_1",
+        "appmsgid": 2247515461,
+        "from": "奇舞精选",
+        "title": "我连代码都没写，却做出JSON格式化工具—Vibe Coding了解一下",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247515461&idx=1&sn=33f0bd0b165715a4f951811358804cc5&chksm=cf61986ff8161179dfef4c2c812b99c9e8d3dafabaf531c4d342997e11840bccef39a5f169fc#rd",
+        "create_time": 1749102110,
+        "update_time": 1749117600
+      }
+    ],
+    [
+      {
+        "aid": "2651276627_1",
+        "appmsgid": 2651276627,
+        "from": "前端早读课",
+        "title": "【第3523期】程序员专属提示词工程实战手册",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276627&idx=1&sn=7bf690fbb30e67dfb8c10ef1bc6db2d2&chksm=bd489cd78a3f15c16dab0907785ac8313728ec20bc4d9648ecb33a8b236882a0a3d2cf442d3f#rd",
+        "create_time": 1749165147,
+        "update_time": 1749168000
+      }
+    ],
     [],
     [],
     [],
