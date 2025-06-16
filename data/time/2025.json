@@ -8429,11 +8429,58 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276679&idx=1&sn=ee205506ea2d6d1b7e2f66bf2d94f1c3&chksm=bd489c038a3f1515c5911aedf4c914234f5ebfbafff11bb751430142a0745d1045a85c09da0b#rd",
         "create_time": 1749771060,
         "update_time": 1749772800
+      },
+      {
+        "aid": "2247526520_1",
+        "appmsgid": 2247526520,
+        "from": "程序员成长指北",
+        "title": "Set集合新特性，快速实现一个商品SKU(单品)规格选择器",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526520&idx=1&sn=514eae4e3aa2bf3eb8d99c508d13af5a&chksm=f9926ea9cee5e7bf803c44de5d4b489792e69155f5741232fd1d95518683b2956f8f70dd7452#rd",
+        "create_time": 1749789449,
+        "update_time": 1749789449
+      },
+      {
+        "aid": "2247515589_1",
+        "appmsgid": 2247515589,
+        "from": "奇舞精选",
+        "title": "奇舞周刊第558期：滴滴开源新项目 Dimina 星河，打造灵活轻量的小程序框架",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247515589&idx=1&sn=42222ba4db9cbb7feec860fc42a9605a&chksm=cf6198eff81611f9aac89c25620a27895a52e75c6184525421db9496c4fa9c18d4806386344c#rd",
+        "create_time": 1749805595,
+        "update_time": 1749808800
+      },
+      {
+        "aid": "2650540520_1",
+        "appmsgid": 2650540520,
+        "from": "大淘宝技术",
+        "title": "聊聊AI应用架构演进",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540520&idx=1&sn=d0d4a05202185efaa0724f616e80db66&chksm=8390c1f0b4e748e6e245b92a5b09bf668b0dd49fd686bbffe2ad84319cab58e44d9e54a94a57#rd",
+        "create_time": 1749798393,
+        "update_time": 1749798392
+      }
+    ],
+    [
+      {
+        "aid": "2247526529_1",
+        "appmsgid": 2247526529,
+        "from": "程序员成长指北",
+        "title": "出了兼容性问题，被领导叼了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526529&idx=1&sn=3cc30a80f008b56d404ca4fedafc9144&chksm=f9926e50cee5e74687ac1020652a7b7d54c699f6e0dca5918e65a3473ce7d1014953fa519891#rd",
+        "create_time": 1749903457,
+        "update_time": 1749903456
       }
     ],
     [],
-    [],
-    [],
+    [
+      {
+        "aid": "2651276696_1",
+        "appmsgid": 2651276696,
+        "from": "前端早读课",
+        "title": "【第3529期】从自动补全到得力助手：训练 AI 适应代码库",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276696&idx=1&sn=c2be1049ef76ddac3680bfae813cfcd8&chksm=bd489c1c8a3f150aa40d1f221807d0c569d35634daae105a6d816c9cd3c4c3084e28c9c10e45#rd",
+        "create_time": 1750030209,
+        "update_time": 1750032000
+      }
+    ],
     [],
     [],
     [],
