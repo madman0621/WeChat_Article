@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2247503294_1",
+    "appmsgid": 2247503294,
+    "from": "大转转FE",
+    "title": "转转前端周刊第156期: 聊聊AI应用架构演进",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247503294&idx=1&sn=738e302157fad80cb6a835c95df34d66&chksm=fbb64677ccc1cf61b89ac0829b19589180d15fbf72875da5b377459e1597f3838d69a066f911#rd",
+    "create_time": 1749993821,
+    "update_time": 1750035600
+  },
+  {
+    "aid": "2247503291_1",
+    "appmsgid": 2247503291,
+    "from": "大转转FE",
+    "title": "转转前端周刊第155期: Anthropic CPO传统程序员正在谢幕",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247503291&idx=1&sn=89e95a39962c4f18416ccd2bc817e391&chksm=fbb64672ccc1cf6486c565cc681ebc74250f7baf87f4dfbf0d927cd7a343ef961039bc6b159d#rd",
+    "create_time": 1749391362,
+    "update_time": 1749430800
+  },
+  {
     "aid": "2247503288_1",
     "appmsgid": 2247503288,
     "from": "大转转FE",

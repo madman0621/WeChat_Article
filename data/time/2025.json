@@ -8284,6 +8284,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526367&idx=1&sn=25a93930e66af427cc8ceb391508d313&chksm=f992610ecee5e818b62ede0b6deff74a8179aea0bf0e898b0b1f5af279817e1a5f2e18b5ef5d#rd",
         "create_time": 1749394326,
         "update_time": 1749394326
+      },
+      {
+        "aid": "2247503291_1",
+        "appmsgid": 2247503291,
+        "from": "大转转FE",
+        "title": "转转前端周刊第155期: Anthropic CPO传统程序员正在谢幕",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247503291&idx=1&sn=89e95a39962c4f18416ccd2bc817e391&chksm=fbb64672ccc1cf6486c565cc681ebc74250f7baf87f4dfbf0d927cd7a343ef961039bc6b159d#rd",
+        "create_time": 1749391362,
+        "update_time": 1749430800
       }
     ],
     [
@@ -8550,7 +8559,17 @@
         "update_time": 1749903456
       }
     ],
-    [],
+    [
+      {
+        "aid": "2247503294_1",
+        "appmsgid": 2247503294,
+        "from": "大转转FE",
+        "title": "转转前端周刊第156期: 聊聊AI应用架构演进",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247503294&idx=1&sn=738e302157fad80cb6a835c95df34d66&chksm=fbb64677ccc1cf61b89ac0829b19589180d15fbf72875da5b377459e1597f3838d69a066f911#rd",
+        "create_time": 1749993821,
+        "update_time": 1750035600
+      }
+    ],
     [
       {
         "aid": "2651276696_1",
@@ -8616,9 +8635,37 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276703&idx=1&sn=ca509102e6d3c942d58f6d8e88aa2734&chksm=bd489c1b8a3f150ddc66881121b2c9e99bc8e12c437337c462eb993cd7df4e4c73588b262671#rd",
         "create_time": 1750116587,
         "update_time": 1750118400
+      },
+      {
+        "aid": "2247526559_1",
+        "appmsgid": 2247526559,
+        "from": "程序员成长指北",
+        "title": "从卡顿到丝滑，AI 应用体验跃升的幕后推手是它！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526559&idx=1&sn=987d17f2e16d9efd3b92de31db3201a9&chksm=f9926e4ecee5e75894134348f4f520c5031a2d5c9e8bad0df56730ec4c448319bd669089d595#rd",
+        "create_time": 1750132209,
+        "update_time": 1750132209
+      },
+      {
+        "aid": "2247515623_1",
+        "appmsgid": 2247515623,
+        "from": "奇舞精选",
+        "title": "如何看待 Claude 团队 95% 的代码都由 AI 生成",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247515623&idx=1&sn=affb4160d56ac324d2103a1f616bef65&chksm=cf6198cdf81611db9a1d06fd772232e152ac5616751a06ae2d6009793f8677cacb490629e655#rd",
+        "create_time": 1750150030,
+        "update_time": 1750154400
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651276714_1",
+        "appmsgid": 2651276714,
+        "from": "前端早读课",
+        "title": "【第3531期】了解声明式 Web推送",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276714&idx=1&sn=645fa1df37dd571ccd07f1593bea5877&chksm=bd489c2e8a3f15388c52a32ec5348adef7b479e9660e8c024b263a53da53e1e7ab2cd16d8fed#rd",
+        "create_time": 1750202745,
+        "update_time": 1750204800
+      }
+    ],
     [],
     [],
     [],
