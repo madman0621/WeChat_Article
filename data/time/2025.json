@@ -8443,6 +8443,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622608&idx=2&sn=ed72daf288552172f135f179c56ab24f&chksm=80225b11b755d207f97460b9b4181c0580f99b50f4bb5c192f1b329c61e889cd235cba88a227#rd",
         "create_time": 1749602021,
         "update_time": 1749602280
+      },
+      {
+        "aid": "2247506091_1",
+        "appmsgid": 2247506091,
+        "from": "字节前端 ByteFE",
+        "title": "豆包AI编程：零门槛的应用创作工具",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506091&idx=1&sn=1d437725945818b8f792f584734e1ed4&chksm=cea96faaf9dee6bcef50719e72e0aa5cef7b234e20affb3cae9d500cad7600c89b7bdfb8e696#rd",
+        "create_time": 1749634083,
+        "update_time": 1749634083
       }
     ],
     [
@@ -8555,6 +8564,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTkwMTY3Mg==&mid=2247488107&idx=1&sn=666263c4cd8214f14e9585bdb081329d&chksm=cfe5956cf8921c7a3044093aca48ba73cd0874de2c91ad196e7c3e01103ce926fc03d015f380#rd",
         "create_time": 1749808829,
         "update_time": 1750032000
+      },
+      {
+        "aid": "2247506097_1",
+        "appmsgid": 2247506097,
+        "from": "字节前端 ByteFE",
+        "title": "字节跳动技术副总裁洪定坤：TRAE 想做 AI Development",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506097&idx=1&sn=13ce2f9aa6f5a4fd95046953a058bdc9&chksm=cea96fb0f9dee6a6116ef5ae31e7cd7d9a4d127db424f4c39ef6fb26ce60f6681f9536440f36#rd",
+        "create_time": 1749787352,
+        "update_time": 1749787352
       }
     ],
     [
@@ -8740,11 +8758,58 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276735&idx=1&sn=53efe1dcb5f8e4b494a08d80e84f6689&chksm=bd489c3b8a3f152d1cb6ee75dbc137ec6df560db892cc717943ee1ef876bd7d040a88aa2af98#rd",
         "create_time": 1750375397,
         "update_time": 1750377600
+      },
+      {
+        "aid": "2247526657_1",
+        "appmsgid": 2247526657,
+        "from": "程序员成长指北",
+        "title": "移动端布局避坑指南：从100vh到dvh，彻底解决动态视口适配难题",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526657&idx=1&sn=3393a64baa4c2eb00499d428809459f5&chksm=f9926fd0cee5e6c611b776c64c0ad879bf12a650462d29f1d4eff2f7da0efa1e3e2fb91c7a36#rd",
+        "create_time": 1750391284,
+        "update_time": 1750392360
+      },
+      {
+        "aid": "2247515637_1",
+        "appmsgid": 2247515637,
+        "from": "奇舞精选",
+        "title": "奇舞周刊第559期：分享一个讲透任意知识点的万能框架，程序员提升个人技术影响力必备！",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247515637&idx=1&sn=75204a1ea4b1897891b5c42074124d31&chksm=cf6198dff81611c978a883848b861ef6729478d2f8e33587f8af33f6191efbb0f833caad1fd9#rd",
+        "create_time": 1750406350,
+        "update_time": 1750413600
+      },
+      {
+        "aid": "2650540634_1",
+        "appmsgid": 2650540634,
+        "from": "大淘宝技术",
+        "title": "淘宝直播数字人LLM推理优化：模型蒸馏与路径压缩实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540634&idx=1&sn=d3dbd01a78bda38eb2045fefc3fd3287&chksm=8390c242b4e74b54a415ed36b90e4def126c2f7db280d0b165bc9c488ae7ec702aaf86489ca7#rd",
+        "create_time": 1750404659,
+        "update_time": 1750404659
+      }
+    ],
+    [
+      {
+        "aid": "2247526666_1",
+        "appmsgid": 2247526666,
+        "from": "程序员成长指北",
+        "title": "NodeJS+LLM搭建一个属于自己的知识库",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526666&idx=1&sn=5e3915ebbdab4b4ca543592f6712d901&chksm=f9926fdbcee5e6cd65b01383133f00d06e4bb9331ec4b6716e993fcc6e4f1dc18728c29dbcdc#rd",
+        "create_time": 1750516007,
+        "update_time": 1750516007
       }
     ],
     [],
-    [],
-    [],
+    [
+      {
+        "aid": "2651276753_1",
+        "appmsgid": 2651276753,
+        "from": "前端早读课",
+        "title": "【第3534期】让 Bug 自动“蒸发”！AI 神器——AIFix",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276753&idx=1&sn=a4c00879cb8ff8d899b97d1459020a98&chksm=bd489c558a3f154353c3432bdd4800516457428707b2c51cb000ba498b63df9145e3d90afa9d#rd",
+        "create_time": 1750634911,
+        "update_time": 1750636800
+      }
+    ],
     [],
     [],
     [],
