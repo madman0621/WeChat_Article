@@ -8808,9 +8808,55 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276753&idx=1&sn=a4c00879cb8ff8d899b97d1459020a98&chksm=bd489c558a3f154353c3432bdd4800516457428707b2c51cb000ba498b63df9145e3d90afa9d#rd",
         "create_time": 1750634911,
         "update_time": 1750636800
+      },
+      {
+        "aid": "2247526680_1",
+        "appmsgid": 2247526680,
+        "from": "程序员成长指北",
+        "title": "离谱！裁员裁出新高度了。。。",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526680&idx=1&sn=cfe21226e5e159da486219821230ebf0&chksm=f9926fc9cee5e6df00e81eeefe7b9821f8167a2f4f67d9e4801dd3cd5cf65bcea4b1b92ecb76#rd",
+        "create_time": 1750646772,
+        "update_time": 1750646772
+      },
+      {
+        "aid": "2247526680_2",
+        "appmsgid": 2247526680,
+        "from": "程序员成长指北",
+        "title": "怎么办？微信小程序主包又双叒叕不够用了！！！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526680&idx=2&sn=14d4f4052783ca4054e3839ab3fa4c39&chksm=f9926fc9cee5e6dfa0c96ae64dc092d840dca2a91e1c359be896f8e35844c7f65ea0f4232171#rd",
+        "create_time": 1750646772,
+        "update_time": 1750646772
+      },
+      {
+        "aid": "2247515650_1",
+        "appmsgid": 2247515650,
+        "from": "奇舞精选",
+        "title": "一键生成 3D 模型：MCP-Blender 全流程实测",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247515650&idx=1&sn=bad27176d8915d76a4183e6c8034caae&chksm=cf619b28f816123e5bb36c74f0d121d2e71bef22651506f704dbc5872c86d48bb8a8a1be0e64#rd",
+        "create_time": 1750657816,
+        "update_time": 1750672800
+      },
+      {
+        "aid": "2650540709_1",
+        "appmsgid": 2650540709,
+        "from": "大淘宝技术",
+        "title": "淘宝直播数字人：LLM文案生成技术",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540709&idx=1&sn=af29bb9831d31a6f1a0f1c1fe80b2926&chksm=8390c2bdb4e74bab968027583a7f52651d71a1ec7912d10ac090a560e652e0c4b8090e98dced#rd",
+        "create_time": 1750670608,
+        "update_time": 1750670607
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651276774_1",
+        "appmsgid": 2651276774,
+        "from": "前端早读课",
+        "title": "【第3535期】滴滴开源新项目Dimina星河，打造灵活轻量的小程序框架",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276774&idx=1&sn=da2be17301bd3f4658e5e30bd23c5f68&chksm=bd489c628a3f15747df9b8e5ba4e3ff13aba232d00403e0464166d55ce0afa614b3c5ba41217#rd",
+        "create_time": 1750721138,
+        "update_time": 1750723200
+      }
+    ],
     [],
     [],
     [],
