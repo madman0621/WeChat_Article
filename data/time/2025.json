@@ -8844,6 +8844,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540709&idx=1&sn=af29bb9831d31a6f1a0f1c1fe80b2926&chksm=8390c2bdb4e74bab968027583a7f52651d71a1ec7912d10ac090a560e652e0c4b8090e98dced#rd",
         "create_time": 1750670608,
         "update_time": 1750670607
+      },
+      {
+        "aid": "2247503025_1",
+        "appmsgid": 2247503025,
+        "from": "哔哩哔哩技术",
+        "title": "从拥塞控制算法热交换到内核错误修复",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503025&idx=1&sn=f4517a23d23b938279b57a640f5fe864&chksm=cf2f0994f85880823346239dd6a3f4a4fba1bd23fb889a92049b7bc055ea0d64e6714701511b#rd",
+        "create_time": 1750672902,
+        "update_time": 1750737600
       }
     ],
     [
@@ -8893,10 +8902,102 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276796&idx=2&sn=3c2952944096aafd08c84fd31b5284a7&chksm=bd489c788a3f156ebdf0bdc9d80fa29a45355c6b5b437fff40362aa306e9c2a534a56e699586#rd",
         "create_time": 1750807923,
         "update_time": 1750809600
+      },
+      {
+        "aid": "2247526741_1",
+        "appmsgid": 2247526741,
+        "from": "程序员成长指北",
+        "title": "AI 编程时代，我仍离不开的 VSCode 插件清单（2025 版）",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526741&idx=1&sn=d8cd57cbcb1adcca0941326b820df787&chksm=f9926f84cee5e6925218c0d561421898bfc5228b3bb0457d1051a2f20e4a4180f15db76cc70c#rd",
+        "create_time": 1750823461,
+        "update_time": 1750823461
+      },
+      {
+        "aid": "2247503032_1",
+        "appmsgid": 2247503032,
+        "from": "哔哩哔哩技术",
+        "title": "站庆福利丨2024-2025哔哩哔哩技术内容合集",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503032&idx=1&sn=fe5bb429bc3ecf81a23a817a07eb3db9&chksm=cf2f099df858808b9be594018e9a7569418be74789adca12aa4c6662c186dc0cfbb10eb3858a#rd",
+        "create_time": 1750855432,
+        "update_time": 1750910400
+      },
+      {
+        "aid": "2247503032_2",
+        "appmsgid": 2247503032,
+        "from": "哔哩哔哩技术",
+        "title": "16周年特别企划丨来聊聊你和哔哩哔哩技术的故事",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503032&idx=2&sn=abe48b17eb895d245788a49286b3500b&chksm=cf2f099df858808bc98ba6b5e289d6bee2c36e31ff904bc2c28c043dcc9ede3264fba0fa78c8#rd",
+        "create_time": 1750855432,
+        "update_time": 1750910400
+      },
+      {
+        "aid": "2650540760_1",
+        "appmsgid": 2650540760,
+        "from": "大淘宝技术",
+        "title": "淘宝直播数字人：LLM弹幕互动技术",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540760&idx=1&sn=4831d0b0e04908ed9f70abbef86c5b6e&chksm=8390c2c0b4e74bd6cda3ee049a7eff6c808e45a379370f2fb6494b6ec1d8cf8bc547d51971cc#rd",
+        "create_time": 1750837423,
+        "update_time": 1750837422
       }
     ],
-    [],
-    [],
+    [
+      {
+        "aid": "2247526785_1",
+        "appmsgid": 2247526785,
+        "from": "程序员成长指北",
+        "title": "pnpm 正逐步走出差异化路线，难怪其月下载量已经逼近 1 亿！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526785&idx=1&sn=34250a38f6dee5fc49f8f9dc95d22ac0&chksm=f9926f50cee5e646675b7554d447878c75556ede4c773ef77e9bd024dc5eb74f5d38b1d3384a#rd",
+        "create_time": 1750911916,
+        "update_time": 1750911915
+      },
+      {
+        "aid": "2651276808_1",
+        "appmsgid": 2651276808,
+        "from": "前端早读课",
+        "title": "【第3537期】事件优先的用户界面：前端如何融入事件驱动的架构",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276808&idx=1&sn=5fffe8eced0fad0d40f652b1a80d9fcb&chksm=bd489f8c8a3f169a32948bf4ceda942b2bb3de3a08fc8b5ef1c8e99df07d4e016a3c47850c64#rd",
+        "create_time": 1750894503,
+        "update_time": 1750896000
+      },
+      {
+        "aid": "2651276808_2",
+        "appmsgid": 2651276808,
+        "from": "前端早读课",
+        "title": "【图书】MCP轻松学——全能AI实战宝典",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276808&idx=2&sn=f93da25f3d88a5a35c146cbc9e7364af&chksm=bd489f8c8a3f169a086749186604cd17fae1081eb2134a2bf5a6d793b00006be17034b22187d#rd",
+        "create_time": 1750894503,
+        "update_time": 1750896000
+      },
+      {
+        "aid": "2247515790_1",
+        "appmsgid": 2247515790,
+        "from": "奇舞精选",
+        "title": "严肃编程时代已来！智领·开悟 AI Team，一键生成高水准专业应用！",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247515790&idx=1&sn=e3ebd24982e085c2e8411a5d313c945f&chksm=cf619ba4f81612b223fae6ec72957752710db6fa95ce97dd8edff14ae4371ac5b0001c9fc675#rd",
+        "create_time": 1750930778,
+        "update_time": 1750933200
+      }
+    ],
+    [
+      {
+        "aid": "2651276816_1",
+        "appmsgid": 2651276816,
+        "from": "前端早读课",
+        "title": "【第3538期】为什么 Chrome DevTools 不够用 —— 分析终端用户性能",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276816&idx=1&sn=7709b2d3a30c019c478cb33468f26a0d&chksm=bd489f948a3f168260a4c59157a28ab2a5a36d66c0328203491abb0224998e1930b634806fae#rd",
+        "create_time": 1750981587,
+        "update_time": 1750982400
+      },
+      {
+        "aid": "2651276816_2",
+        "appmsgid": 2651276816,
+        "from": "前端早读课",
+        "title": "【图书】MCP极简开发：轻松打造高效智能体",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276816&idx=2&sn=90330fde1b39db5372604f1c0e8624f3&chksm=bd489f948a3f16826afd58520ef1e6c0da79c39591388dbb17b551e58d5bbec55f881496dff4#rd",
+        "create_time": 1750981587,
+        "update_time": 1750982400
+      }
+    ],
     [],
     [],
     [],

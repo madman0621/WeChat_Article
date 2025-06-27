@@ -1,5 +1,41 @@
 [
   {
+    "aid": "2651276816_1",
+    "appmsgid": 2651276816,
+    "from": "前端早读课",
+    "title": "【第3538期】为什么 Chrome DevTools 不够用 —— 分析终端用户性能",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276816&idx=1&sn=7709b2d3a30c019c478cb33468f26a0d&chksm=bd489f948a3f168260a4c59157a28ab2a5a36d66c0328203491abb0224998e1930b634806fae#rd",
+    "create_time": 1750981587,
+    "update_time": 1750982400
+  },
+  {
+    "aid": "2651276816_2",
+    "appmsgid": 2651276816,
+    "from": "前端早读课",
+    "title": "【图书】MCP极简开发：轻松打造高效智能体",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276816&idx=2&sn=90330fde1b39db5372604f1c0e8624f3&chksm=bd489f948a3f16826afd58520ef1e6c0da79c39591388dbb17b551e58d5bbec55f881496dff4#rd",
+    "create_time": 1750981587,
+    "update_time": 1750982400
+  },
+  {
+    "aid": "2651276808_1",
+    "appmsgid": 2651276808,
+    "from": "前端早读课",
+    "title": "【第3537期】事件优先的用户界面：前端如何融入事件驱动的架构",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276808&idx=1&sn=5fffe8eced0fad0d40f652b1a80d9fcb&chksm=bd489f8c8a3f169a32948bf4ceda942b2bb3de3a08fc8b5ef1c8e99df07d4e016a3c47850c64#rd",
+    "create_time": 1750894503,
+    "update_time": 1750896000
+  },
+  {
+    "aid": "2651276808_2",
+    "appmsgid": 2651276808,
+    "from": "前端早读课",
+    "title": "【图书】MCP轻松学——全能AI实战宝典",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276808&idx=2&sn=f93da25f3d88a5a35c146cbc9e7364af&chksm=bd489f8c8a3f169a086749186604cd17fae1081eb2134a2bf5a6d793b00006be17034b22187d#rd",
+    "create_time": 1750894503,
+    "update_time": 1750896000
+  },
+  {
     "aid": "2651276796_1",
     "appmsgid": 2651276796,
     "from": "前端早读课",
