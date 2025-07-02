@@ -1,3 +1,4 @@
+2025-06-19 15:10:49 [Galacean 引擎：轻量高效的多端互动图形引擎](http://mp.weixin.qq.com/s?__biz=MzkyMTIzOTA1NQ==&mid=2247486618&idx=1&sn=33b92ac2e968c990d519174d0e5402aa&chksm=c187e7faf6f06eec191ce070b4789a63464ad08a4ec48bd8eebf2aefd098d639976d009c1ef4#rd)  
 2025-05-29 14:30:43 [Galacean 引擎 1.5 发布｜支持 AIGC 图生模型 ！](http://mp.weixin.qq.com/s?__biz=MzkyMTIzOTA1NQ==&mid=2247486602&idx=1&sn=4c8db3457b063c7ad6e38b2267329e14&chksm=c187e7eaf6f06efc517b254e072189a63b8344d333b6362364b2ede1631ac25068e711d5b8f8#rd)  
 2025-01-24 21:20:05 [Galacean 引擎 1.4 发布！](http://mp.weixin.qq.com/s?__biz=MzkyMTIzOTA1NQ==&mid=2247486510&idx=1&sn=644d49c6c1898f0a65eac03201930100&chksm=c187e74ef6f06e588a5628c78eb5fe64bd23c89dd438c37426c0b7fd7c1c6462c95f68f9575b#rd)  
 2024-11-07 15:55:29 [今年的 1122 体验技术日就要来了，赶紧报名看看？](http://mp.weixin.qq.com/s?__biz=MzkyMTIzOTA1NQ==&mid=2247486468&idx=1&sn=5c6368315c03f56763b5ee26081b4502&chksm=c187e764f6f06e72b4456eed6f3ba3168a69f7554269e5c8b36b0e59f10cf64d5a49d32e560c#rd)  
