@@ -10140,6 +10140,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516080&idx=1&sn=29931a16001a9a0ac3e2bc57297b3429&chksm=cf619a9af816138cf9924ce8025a24ba6deafdb97a83ccb59035a136e1c6d8833f5f8b4a96d9#rd",
         "create_time": 1753356798,
         "update_time": 1753356797
+      },
+      {
+        "aid": "2247503279_1",
+        "appmsgid": 2247503279,
+        "from": "哔哩哔哩技术",
+        "title": "B站大数据平台元数据血缘建设与应用",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503279&idx=1&sn=425a35303a7a10aa0658efeb007ca823&chksm=cf2f088af858819ca8b567e4fbf580271d1d9dff73c067911149da5c12157383f927a8ef0801#rd",
+        "create_time": 1753360814,
+        "update_time": 1753416000
       }
     ],
     [
@@ -10210,9 +10219,46 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277068&idx=1&sn=34adce747d9223736622cc406d77cd24&chksm=bd489e888a3f179e60536769506d1db7b37acc492f40e66b5e86660ac51a979664549e312e24#rd",
         "create_time": 1753658283,
         "update_time": 1753660800
+      },
+      {
+        "aid": "2247527370_1",
+        "appmsgid": 2247527370,
+        "from": "程序员成长指北",
+        "title": "别再乱用 as 了，TypeScript 的 satisfies 更香！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527370&idx=1&sn=dc02935d0c5698aed8e141d07c619a6b&chksm=f9926d1bcee5e40dc741e905977ecb5890ed2e25b2a7d6a5e02bd8966134e40b7f4f480762c4#rd",
+        "create_time": 1753694508,
+        "update_time": 1753694507
+      },
+      {
+        "aid": "2247516117_1",
+        "appmsgid": 2247516117,
+        "from": "奇舞精选",
+        "title": "长音频离线语音识别系统——基于Whisper.cpp的本地部署方案",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516117&idx=1&sn=a721790eb2254fdcf40772ecb2230477&chksm=cf619afff81613e9bd5c047f86caa2dccfbc45f399ff73ffa3e3c7b7f1508a8228e6cbfa4396#rd",
+        "create_time": 1753708115,
+        "update_time": 1753708114
+      },
+      {
+        "aid": "2650540986_1",
+        "appmsgid": 2650540986,
+        "from": "大淘宝技术",
+        "title": "NL2SQL：从自然语言到SQL的智能转换技术深度解析",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540986&idx=1&sn=01da2d69f5d90d9655ddff075f49d422&chksm=8390c3a2b4e74ab4198bb47a48b0c5be729e297dd6e7ddfab3135510d1443a00be6a1b905a92#rd",
+        "create_time": 1753690044,
+        "update_time": 1753690044
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651277094_1",
+        "appmsgid": 2651277094,
+        "from": "前端早读课",
+        "title": "【第3560期】事件驱动架构 vs 请求-响应架构：2025 开发者完整指南",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277094&idx=1&sn=58c57bd761c2c42527c829c989c2d537&chksm=bd489ea28a3f17b4d65960e8b9b3f76cc224a8699c3fd535e6364686336654d5660ef95572de#rd",
+        "create_time": 1753745878,
+        "update_time": 1753747200
+      }
+    ],
     [],
     []
   ],
