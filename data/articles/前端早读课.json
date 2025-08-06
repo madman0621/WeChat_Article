@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2651277174_1",
+    "appmsgid": 2651277174,
+    "from": "前端早读课",
+    "title": "【早阅】Claude Code最佳实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277174&idx=1&sn=d81df1c1c4dc24d36015408f5f8f3c7c&chksm=bd489ef28a3f17e4818c3240fa7ae317ffc1834b00efe05512ca4810576d277180e9a84110df#rd",
+    "create_time": 1754437117,
+    "update_time": 1754438400
+  },
+  {
+    "aid": "2651277174_2",
+    "appmsgid": 2651277174,
+    "from": "前端早读课",
+    "title": "【第3566期】UI 的未来：从命令行到对话式 AI",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277174&idx=2&sn=2305e2835aafc1e0b1e293dc62393c99&chksm=bd489ef28a3f17e441ff952b70c0a50fd80481238ba9518109b9f485e6ce1ba27fcaae43c1f2#rd",
+    "create_time": 1754437117,
+    "update_time": 1754438400
+  },
+  {
     "aid": "2651277161_1",
     "appmsgid": 2651277161,
     "from": "前端早读课",
