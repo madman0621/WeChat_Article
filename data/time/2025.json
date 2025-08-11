@@ -10656,11 +10656,68 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277190&idx=1&sn=673ab56d992bd74088941d7939fdf840&chksm=bd489e028a3f1714c3cdfe5a63b6c114a1c3e6776a8a3bb67628c558ec95cb91cb81ea809f93#rd",
         "create_time": 1754609300,
         "update_time": 1754611200
+      },
+      {
+        "aid": "2247527503_1",
+        "appmsgid": 2247527503,
+        "from": "程序员成长指北",
+        "title": "GPT-5 真的来了！全网最全中文解读！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527503&idx=1&sn=bdb8997ab4163818896911bb8886b262&chksm=f9926a9ecee5e388772483cfae8dee59e3200d7288a561a354acd338c395f42391f2be46c489#rd",
+        "create_time": 1754625101,
+        "update_time": 1754625101
+      },
+      {
+        "aid": "2650541220_1",
+        "appmsgid": 2650541220,
+        "from": "大淘宝技术",
+        "title": "淘宝交易前端AI生码技术的创新实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541220&idx=1&sn=6dff8b53d47dfd2f5fc451fe1ce08e01&chksm=8390c4bcb4e74daabc0e041c395fd505198a006490b3a4215569f8f6954044c3bbefbb42fd19#rd",
+        "create_time": 1754645886,
+        "update_time": 1754645885
       }
     ],
-    [],
-    [],
-    [],
+    [
+      {
+        "aid": "2649014665_1",
+        "appmsgid": 2649014665,
+        "from": "前端新世界",
+        "title": "上海某电商公司表扬加班，榜一单月加班 160 小时",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI1MzI3OQ==&mid=2649014665&idx=1&sn=2311dab87ab8d1360091eaa5998c1cd9&chksm=83005e39b477d72f0a573107df11605b64ad6b37522a73f3a648ae90c8e6e9dc42a0937a65ac#rd",
+        "create_time": 1754746132,
+        "update_time": 1754746132
+      }
+    ],
+    [
+      {
+        "aid": "2649014671_1",
+        "appmsgid": 2649014671,
+        "from": "前端新世界",
+        "title": "强制996 or 拿钱滚？Cognition收购逼程序员二选一",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI1MzI3OQ==&mid=2649014671&idx=1&sn=844f6695fbf6a936a9be420a76972a80&chksm=83005e3fb477d729118e3769c24dd5552ea31df34e5632bff75f48383aa8be0e1d1e3a6d2bc2#rd",
+        "create_time": 1754791710,
+        "update_time": 1754791710
+      },
+      {
+        "aid": "2247527512_1",
+        "appmsgid": 2247527512,
+        "from": "程序员成长指北",
+        "title": "模块联邦（Module Federation）新的微前端方案？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527512&idx=1&sn=681f54f73cb6c1ffc9d1ef8d9e7d3e9a&chksm=f9926a89cee5e39f4c1d359ac8a202a9cc6f6fe6431079805dc670a4675863fb703d0d0a05ef#rd",
+        "create_time": 1754831873,
+        "update_time": 1754831873
+      }
+    ],
+    [
+      {
+        "aid": "2651277197_1",
+        "appmsgid": 2651277197,
+        "from": "前端早读课",
+        "title": "【第3568期】使用 Git Worktree 进行开发",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277197&idx=1&sn=2e8ebe9823216531c8e5b28581ccf48d&chksm=bd489e098a3f171f97c86eaab60bf661af5625e16859e59babed754ac955c1dd4c6fe303029f#rd",
+        "create_time": 1754868019,
+        "update_time": 1754870400
+      }
+    ],
     [],
     [],
     [],
