@@ -10705,6 +10705,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527512&idx=1&sn=681f54f73cb6c1ffc9d1ef8d9e7d3e9a&chksm=f9926a89cee5e39f4c1d359ac8a202a9cc6f6fe6431079805dc670a4675863fb703d0d0a05ef#rd",
         "create_time": 1754831873,
         "update_time": 1754831873
+      },
+      {
+        "aid": "2247503967_1",
+        "appmsgid": 2247503967,
+        "from": "大转转FE",
+        "title": "转转前端周刊第164期:AI在实际生成环境中的提效实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247503967&idx=1&sn=d124949fa7c4e7702bdf5197d23bf1c2&chksm=fbb65b96ccc1d28014d888be506a809cebbbdef09435382efbfb9552e09f5b538a3511b61d82#rd",
+        "create_time": 1754834660,
+        "update_time": 1754874000
       }
     ],
     [
@@ -10716,9 +10725,37 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277197&idx=1&sn=2e8ebe9823216531c8e5b28581ccf48d&chksm=bd489e098a3f171f97c86eaab60bf661af5625e16859e59babed754ac955c1dd4c6fe303029f#rd",
         "create_time": 1754868019,
         "update_time": 1754870400
+      },
+      {
+        "aid": "2247516174_1",
+        "appmsgid": 2247516174,
+        "from": "奇舞精选",
+        "title": "借助CSS实现点赞粒子动效",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516174&idx=1&sn=2d0296b72f6eb41fb3ddd9c829cc875e&chksm=cf61a524f8162c32092c8401a5bca83366e4f37f84e31c332d48f8793e57d2a6465f74564de8#rd",
+        "create_time": 1754906468,
+        "update_time": 1754908200
+      },
+      {
+        "aid": "2650541239_1",
+        "appmsgid": 2650541239,
+        "from": "大淘宝技术",
+        "title": "大模型驱动SPU",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541239&idx=1&sn=d45ed1a3ceadda90bb66e5001922f8aa&chksm=8390c4afb4e74db96289581151508c0c42243a47aa5ebdd16c9dea5fdb4d4de6707d0aba2295#rd",
+        "create_time": 1754902706,
+        "update_time": 1754902706
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651277209_1",
+        "appmsgid": 2651277209,
+        "from": "前端早读课",
+        "title": "【早阅】JavaScript 的真正演进之路：与 Daniel Ehrenberg 一起深入 TC39",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277209&idx=1&sn=23eca8422c47c12118e26cd312939ee0&chksm=bd489e1d8a3f170b077b5e369d72980542bbc52d125ffca5592b1c16c56aa6c28568db18f1b8#rd",
+        "create_time": 1754954782,
+        "update_time": 1754956800
+      }
+    ],
     [],
     [],
     [],
