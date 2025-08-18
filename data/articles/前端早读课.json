@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2651277249_1",
+    "appmsgid": 2651277249,
+    "from": "前端早读课",
+    "title": "【早阅】OpenAI工程师：沟通是编程的核心价值",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277249&idx=1&sn=3785b80105ed8f47ea54de68a1fec60a&chksm=bd489e458a3f17531ed872cd83ad5f089de0fc0080c6c389c38714c3bf4f6a1cfdcfef742038#rd",
+    "create_time": 1755473329,
+    "update_time": 1755475200
+  },
+  {
+    "aid": "2651277249_2",
+    "appmsgid": 2651277249,
+    "from": "前端早读课",
+    "title": "【图书】这就是MCP",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277249&idx=2&sn=8c1479ca229f43b7fd3d400429dd5c34&chksm=bd489e458a3f1753c88a25155d31512b0aa09d4752c5a114eb3b8062204294a64c0a53b0a2c9#rd",
+    "create_time": 1755473329,
+    "update_time": 1755475200
+  },
+  {
     "aid": "2651277241_1",
     "appmsgid": 2651277241,
     "from": "前端早读课",

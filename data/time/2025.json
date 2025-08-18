@@ -10859,11 +10859,67 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277241&idx=1&sn=3f007c49970bfd2bbb9d28c52799b121&chksm=bd489e3d8a3f172b58302973b36b5e1bd8cc0abc10a4b07b31b3e969fb1ea779761a744445fb#rd",
         "create_time": 1755213816,
         "update_time": 1755216000
+      },
+      {
+        "aid": "2247527619_1",
+        "appmsgid": 2247527619,
+        "from": "程序员成长指北",
+        "title": "Node.js中构建可用的 MCP 服务器：从入门到实战",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527619&idx=1&sn=c8cc5396ea806ab25e476f26e41872b3&chksm=f9926a12cee5e30496428a53f1694a28d085a59ed9943cd993ab0e8242549a88d0fe79185220#rd",
+        "create_time": 1755237815,
+        "update_time": 1755237815
+      },
+      {
+        "aid": "2247516242_1",
+        "appmsgid": 2247516242,
+        "from": "奇舞精选",
+        "title": "奇舞周刊第564期：从认知到实践：AI 友好的 MCP 工具构建指南",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516242&idx=1&sn=3a2e3dc21a9bc3cd2fa2bb093eae6014&chksm=cf61a578f8162c6e8cb93ee570705528c36849419fe093c317105d49eaef1f85dec84496810a#rd",
+        "create_time": 1755225656,
+        "update_time": 1755225656
+      },
+      {
+        "aid": "2650541282_1",
+        "appmsgid": 2650541282,
+        "from": "大淘宝技术",
+        "title": "MNN LLM Chat iOS 流式输出优化实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541282&idx=1&sn=c7e80789f8a1e4ebaebc8e34c55a9829&chksm=8390c4fab4e74dec23bf1f8bdfc5237bb35af618657c71ade2f3da68864ea3308d2ad146e47e#rd",
+        "create_time": 1755247508,
+        "update_time": 1755247508
       }
     ],
     [],
-    [],
-    [],
+    [
+      {
+        "aid": "2247504037_1",
+        "appmsgid": 2247504037,
+        "from": "大转转FE",
+        "title": "转转前端周刊第165期: CodeBuddy AI Coding 企业场景落地实践与思考",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504037&idx=1&sn=2910141bb6b57839d430b52bb1dcef8c&chksm=fbb65b6cccc1d27ad3be2f1efab7aa25c052ba3ce380297f705bdd808113e5acea19a2bc6785#rd",
+        "create_time": 1755441534,
+        "update_time": 1755478800
+      }
+    ],
+    [
+      {
+        "aid": "2651277249_1",
+        "appmsgid": 2651277249,
+        "from": "前端早读课",
+        "title": "【早阅】OpenAI工程师：沟通是编程的核心价值",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277249&idx=1&sn=3785b80105ed8f47ea54de68a1fec60a&chksm=bd489e458a3f17531ed872cd83ad5f089de0fc0080c6c389c38714c3bf4f6a1cfdcfef742038#rd",
+        "create_time": 1755473329,
+        "update_time": 1755475200
+      },
+      {
+        "aid": "2651277249_2",
+        "appmsgid": 2651277249,
+        "from": "前端早读课",
+        "title": "【图书】这就是MCP",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277249&idx=2&sn=8c1479ca229f43b7fd3d400429dd5c34&chksm=bd489e458a3f1753c88a25155d31512b0aa09d4752c5a114eb3b8062204294a64c0a53b0a2c9#rd",
+        "create_time": 1755473329,
+        "update_time": 1755475200
+      }
+    ],
     [],
     [],
     [],
