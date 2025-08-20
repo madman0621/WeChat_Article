@@ -10956,9 +10956,37 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277257&idx=1&sn=ef5867750ddcd1c8dd1586c30e6577fc&chksm=bd489e4d8a3f175b26dbd5258ba7102d5e91a6cb3a3ebf14dd4ffe87cf04aa91734e1983e613#rd",
         "create_time": 1755559062,
         "update_time": 1755561600
+      },
+      {
+        "aid": "2247527634_1",
+        "appmsgid": 2247527634,
+        "from": "程序员成长指北",
+        "title": "面试官：如何减少页面卡顿？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527634&idx=1&sn=7799cb2c4690757b614fe75202904378&chksm=f9926a03cee5e31552fe9ef019238ab72b5bf1d88ab0345d4725854a18eab29e16c0ebccf231#rd",
+        "create_time": 1755574076,
+        "update_time": 1755575340
+      },
+      {
+        "aid": "2247516402_1",
+        "appmsgid": 2247516402,
+        "from": "奇舞精选",
+        "title": "如何为大语言模型准备嵌入向量",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516402&idx=1&sn=f6d48ca574f2e433339b3425d2c506ea&chksm=cf61a5d8f8162cce3ca2653c8e77d97895f6a8f68902943d77e502662f1ee27714e63204a737#rd",
+        "create_time": 1755594654,
+        "update_time": 1755597600
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651277262_1",
+        "appmsgid": 2651277262,
+        "from": "前端早读课",
+        "title": "【第3573期】初高级开发者：如何使用 ChatGPT 编程（关键区别解析）",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277262&idx=1&sn=4624ca688bfa73a974c9c03129c5f195&chksm=bd489e4a8a3f175c96522cfd11d1b32d9f28193c120c66b7783bd80349d80f1189b7b51461a6#rd",
+        "create_time": 1755645803,
+        "update_time": 1755648000
+      }
+    ],
     [],
     [],
     [],
