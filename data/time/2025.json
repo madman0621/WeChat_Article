@@ -11297,9 +11297,46 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277328&idx=1&sn=36651ba5d2e57954793aadc84c1c434c&chksm=bd4891948a3f18829c22dab3c2e4f1390f65117756fabadf4c625c475705db772ba21f44204d#rd",
         "create_time": 1756683203,
         "update_time": 1756684800
+      },
+      {
+        "aid": "2247527709_1",
+        "appmsgid": 2247527709,
+        "from": "程序员成长指北",
+        "title": "大模型应用中，前端绕不开的 SSE",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527709&idx=1&sn=5d001f8ee75bfbdff7862fa2b58cd1bc&chksm=f9926bcccee5e2da7214b28478afdd3d1e3a26a5f0a1e42ca3096afd824cbb3c66b007ae4d1d#rd",
+        "create_time": 1756697313,
+        "update_time": 1756698600
+      },
+      {
+        "aid": "2247516688_1",
+        "appmsgid": 2247516688,
+        "from": "奇舞精选",
+        "title": "Nano Banana 如何为前端注入 AI 控制力",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516688&idx=1&sn=fca3a63d650a21602e30c1b53c382079&chksm=cf61a73af8162e2ccaca31c32cb7ebd1664847532faf1aac47c84413b42de3a0e6801cc8ec4d#rd",
+        "create_time": 1756716832,
+        "update_time": 1756722600
+      },
+      {
+        "aid": "2650541404_1",
+        "appmsgid": 2650541404,
+        "from": "大淘宝技术",
+        "title": "AI Agent工程化融合：分享我的实践经验和选型技巧",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541404&idx=1&sn=7cbcd6b92f9944226c48890129be0bec&chksm=8390c544b4e74c52003308152141ff2f9a59723d380eacdb31765bbfa66b8678d52b6fa97909#rd",
+        "create_time": 1756716990,
+        "update_time": 1756716989
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651277336_1",
+        "appmsgid": 2651277336,
+        "from": "前端早读课",
+        "title": "【第3580期】Claude Code 为什么这么好用？拆解背后的“魔法”与复刻方法",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277336&idx=1&sn=745486da64a982a5c1ad68ee0dbe5aaa&chksm=bd48919c8a3f188afcd42d2e02476ad86fd07370fa0d0d457c39d397f95b0eaa93e0d216cce5#rd",
+        "create_time": 1756769524,
+        "update_time": 1756771200
+      }
+    ],
     [],
     [],
     [],
