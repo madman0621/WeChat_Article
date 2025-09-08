@@ -1,5 +1,32 @@
 [
   {
+    "aid": "2247516711_1",
+    "appmsgid": 2247516711,
+    "from": "奇舞精选",
+    "title": "奇舞周刊第566期：AI Agent工程化融合：分享我的实践经验和选型技巧",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516711&idx=1&sn=3cb782d391862c5a04b2afe4982c7eea&chksm=cf61a70df8162e1b295175040335027bbc7ce84952644a994bb08a21060e20e4c767e88077b3#rd",
+    "create_time": 1757066389,
+    "update_time": 1757066389
+  },
+  {
+    "aid": "2247516706_1",
+    "appmsgid": 2247516706,
+    "from": "奇舞精选",
+    "title": "Restful api 最佳实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516706&idx=1&sn=e1f91ccc2f68a36455769658abf1360f&chksm=cf61a708f8162e1eb4a45cd7db66d8e4f6ca84d218ec16408e545e53c934c95165d648698fef#rd",
+    "create_time": 1756980940,
+    "update_time": 1756980939
+  },
+  {
+    "aid": "2247516701_1",
+    "appmsgid": 2247516701,
+    "from": "奇舞精选",
+    "title": "超越Siri的耳朵：ASR与Whisper零代码部署实战指南",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516701&idx=1&sn=645958a8b68c919898ad0ca0bd9235e7&chksm=cf61a737f8162e21562a71822af6b0ed0cd7e12a3a7f0bca88100bfdfed460bc21805f2a771b#rd",
+    "create_time": 1756900319,
+    "update_time": 1756900319
+  },
+  {
     "aid": "2247516688_1",
     "appmsgid": 2247516688,
     "from": "奇舞精选",

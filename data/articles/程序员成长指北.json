@@ -1,5 +1,32 @@
 [
   {
+    "aid": "2247527753_1",
+    "appmsgid": 2247527753,
+    "from": "程序员成长指北",
+    "title": "使用 Cursor 不会这个超牛 MCP 还没用过吧！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527753&idx=1&sn=9cf8129d9d62d15ffbbe13fd6929474e&chksm=f9926b98cee5e28ebd45d203e1184a8824c00589b12bc08a86c111d7a3a461f04a81a12cc587#rd",
+    "create_time": 1757043349,
+    "update_time": 1757044200
+  },
+  {
+    "aid": "2247527751_1",
+    "appmsgid": 2247527751,
+    "from": "程序员成长指北",
+    "title": "轻松在网页中集成专业思维导图功能 - Mind Elixir",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527751&idx=1&sn=b0a7aa2c949b6f5bbcebc92fdc254db5&chksm=f9926b96cee5e28013ff85404ba113811ebc3d86852d378f234a318f2a592dbcb0d298a274aa#rd",
+    "create_time": 1756958377,
+    "update_time": 1756958377
+  },
+  {
+    "aid": "2247527715_1",
+    "appmsgid": 2247527715,
+    "from": "程序员成长指北",
+    "title": "为什么 Chrome DevTools 不够用 —— 分析终端用户性能",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527715&idx=1&sn=b9d1b6e47c6a23fb93025528da223622&chksm=f9926bf2cee5e2e4c63ac71b6d89468c27c97a1261a20f7eea203e75587b06febab8f1baf6fb#rd",
+    "create_time": 1756871632,
+    "update_time": 1756871632
+  },
+  {
     "aid": "2247527709_1",
     "appmsgid": 2247527709,
     "from": "程序员成长指北",
