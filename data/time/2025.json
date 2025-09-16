@@ -11628,9 +11628,37 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277417&idx=1&sn=3c266637264771e1a91b4364ca196509&chksm=bd4891ed8a3f18fb1648bf45e80c584921c34ac1d1392f5f86de7c6c4669ee1de4ee0f9d32a6#rd",
         "create_time": 1757892808,
         "update_time": 1757894400
+      },
+      {
+        "aid": "2247527841_1",
+        "appmsgid": 2247527841,
+        "from": "程序员成长指北",
+        "title": "Vue3 后台分页写腻了？我用 1 个 Hook 删掉 90% 重复代码（附源码）",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527841&idx=1&sn=53d202f7265b52d28313cbefab0a53b0&chksm=f9926b70cee5e2661b44663248a8ee732c98c0f63e8e0bbc337c6dfefa116f309dc631465cba#rd",
+        "create_time": 1757908271,
+        "update_time": 1757908271
+      },
+      {
+        "aid": "2247516752_1",
+        "appmsgid": 2247516752,
+        "from": "奇舞精选",
+        "title": "万字详解让大模型写出好代码：上下文窗口的工程化实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516752&idx=1&sn=1a0d9c1f95cb6f49088611b19ed6e29e&chksm=cf61a77af8162e6cd30a77d81456dcaa3908024fb0b7fcb2babc47d1fdf12f2e8684e4013474#rd",
+        "create_time": 1757927597,
+        "update_time": 1757930400
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651277430_1",
+        "appmsgid": 2651277430,
+        "from": "前端早读课",
+        "title": "【第3588期】基于AI的规范驱动开发：使用全新开源工具包快速上手",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277430&idx=1&sn=4a713087dc6c8d7ad2c1b84918fe04f5&chksm=bd4891f28a3f18e479040310ab9d7004ac5f2750b9e74d391e644c8cde4c66937665ba2a1271#rd",
+        "create_time": 1757979382,
+        "update_time": 1757980800
+      }
+    ],
     [],
     [],
     [],
