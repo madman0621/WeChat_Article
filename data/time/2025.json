@@ -11657,9 +11657,37 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277430&idx=1&sn=4a713087dc6c8d7ad2c1b84918fe04f5&chksm=bd4891f28a3f18e479040310ab9d7004ac5f2750b9e74d391e644c8cde4c66937665ba2a1271#rd",
         "create_time": 1757979382,
         "update_time": 1757980800
+      },
+      {
+        "aid": "2247527846_1",
+        "appmsgid": 2247527846,
+        "from": "程序员成长指北",
+        "title": "再也不用背命令！Cursor 终端 Cmd+K = 你的专属 Linux & Git 智能助手",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527846&idx=1&sn=7256a65d4f4f91d20577830e8924bd96&chksm=f9926b77cee5e261e6b0240af86462ba9942c2f28dee011fd47e501b46e2eb44a49ec96a1c82#rd",
+        "create_time": 1757995024,
+        "update_time": 1757995024
+      },
+      {
+        "aid": "2247516757_1",
+        "appmsgid": 2247516757,
+        "from": "奇舞精选",
+        "title": "2025年上半年前端技术圈生态总结",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516757&idx=1&sn=784faf16c314acf324d7f7ce7dde973b&chksm=cf61a77ff8162e697368f3fc093e3d0f16ca0164781b4fd4ce90d41f00b84535e98fbe8ee995#rd",
+        "create_time": 1757993979,
+        "update_time": 1758016800
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651277436_1",
+        "appmsgid": 2651277436,
+        "from": "前端早读课",
+        "title": "【第3589期】写好工具，智能体才更聪明：Claude 的自我优化实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277436&idx=1&sn=c42d1bb443644528beae154177405565&chksm=bd4891f88a3f18ee76cbed7b4bf483140fcf64a8c159d2ff6fa8aeb68d319ccda1a284803f61#rd",
+        "create_time": 1758065748,
+        "update_time": 1758067200
+      }
+    ],
     [],
     [],
     [],
