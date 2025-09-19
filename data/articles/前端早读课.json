@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2651277468_1",
+    "appmsgid": 2651277468,
+    "from": "前端早读课",
+    "title": "【第3591期】GitHub Spec-Kit：规范驱动开发走在正确的方向上 - 严谨、渐进式的 Vibe Coding",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277468&idx=1&sn=555fad29ddf6adaed65dd6b2032b9ec7&chksm=bd4891188a3f180e10c7f60fc4e6e221f61544fb8fb8e1ea998f9d2607266b9b61720c84deb0#rd",
+    "create_time": 1758237575,
+    "update_time": 1758240000
+  },
+  {
+    "aid": "2651277458_1",
+    "appmsgid": 2651277458,
+    "from": "前端早读课",
+    "title": "【第3590期】Node.js 搭建 MCP Server，实时获取最新 API 文档",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277458&idx=1&sn=ef790ada9d8afb6d7dae669f30af16c2&chksm=bd4891168a3f18002a3d58a18a3b5b8926cf14d6a4c3d8f5bdd76cff689d24b0f87124149caf#rd",
+    "create_time": 1758151890,
+    "update_time": 1758153600
+  },
+  {
     "aid": "2651277436_1",
     "appmsgid": 2651277436,
     "from": "前端早读课",
