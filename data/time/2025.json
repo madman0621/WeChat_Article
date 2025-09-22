@@ -11751,6 +11751,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516764&idx=1&sn=e11ea2d8860056671fcbf0848db8aa99&chksm=cf61a776f8162e60a4df512e7c6787158f24da992c0b3c11a6eb651ab0a0921e54f5f170f223#rd",
         "create_time": 1758184234,
         "update_time": 1758189600
+      },
+      {
+        "aid": "2247504157_1",
+        "appmsgid": 2247504157,
+        "from": "大转转FE",
+        "title": "188工时压到149！揭秘我们如何用Cursor让前端效率狂飙",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504157&idx=1&sn=04848840af516e32ff66b5c5f045f503&chksm=fbb65ad4ccc1d3c24d08b2bc76ea445cfb378d168ee097b318e906a06a1c3aad7bb870dfee41#rd",
+        "create_time": 1758195692,
+        "update_time": 1758243600
       }
     ],
     [
@@ -11762,11 +11771,39 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277468&idx=1&sn=555fad29ddf6adaed65dd6b2032b9ec7&chksm=bd4891188a3f180e10c7f60fc4e6e221f61544fb8fb8e1ea998f9d2607266b9b61720c84deb0#rd",
         "create_time": 1758237575,
         "update_time": 1758240000
+      },
+      {
+        "aid": "2247527875_1",
+        "appmsgid": 2247527875,
+        "from": "程序员成长指北",
+        "title": "React 中的并发与并行：打造极速前端应用的隐藏关键",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527875&idx=1&sn=50d032bbc5a7002f2748822af5af1243&chksm=f9926b12cee5e204b49b337d4b01ed8eb643da8ed487edd69a2c804c7557df2585436d9623ee#rd",
+        "create_time": 1758254126,
+        "update_time": 1758254126
+      },
+      {
+        "aid": "2247516768_1",
+        "appmsgid": 2247516768,
+        "from": "奇舞精选",
+        "title": "奇舞周刊第568期：初探：从0开始的AI-Agent开发踩坑实录",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516768&idx=1&sn=b4571a42ad22924ea6d1f5f98c7e2f62&chksm=cf61a74af8162e5cd84b73d214fbb824966f118a6a7d737b8230d7be78d2f947fe8ad403fb6c#rd",
+        "create_time": 1758254429,
+        "update_time": 1758276000
       }
     ],
     [],
     [],
-    [],
+    [
+      {
+        "aid": "2651277484_1",
+        "appmsgid": 2651277484,
+        "from": "前端早读课",
+        "title": "【第3592期】揭秘 Bolt.new 背后的技术",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277484&idx=1&sn=5feeb0f40ba2ea2d950d8445c1a1d00e&chksm=bd4891288a3f183e998af3466b715e853dea32e998f71a4f709f9bca9f2360ec7a47acf876f6#rd",
+        "create_time": 1758496413,
+        "update_time": 1758499200
+      }
+    ],
     [],
     [],
     [],
