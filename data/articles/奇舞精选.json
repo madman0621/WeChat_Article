@@ -1,5 +1,32 @@
 [
   {
+    "aid": "2247516875_1",
+    "appmsgid": 2247516875,
+    "from": "奇舞精选",
+    "title": "告别 Prompt 魔法与 JSON 解析：用 PydanticAI 构建类型安全的智能应用",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516875&idx=1&sn=6f6f0f33db8110d9cd42d62b25584375&chksm=cf61a7e1f8162ef7f31662ef2a87f390702b162383e831764254068b2d4d1233b4897a01b1ad#rd",
+    "create_time": 1759990632,
+    "update_time": 1759990632
+  },
+  {
+    "aid": "2247516865_1",
+    "appmsgid": 2247516865,
+    "from": "奇舞精选",
+    "title": "别再瞎读源码了！高手都是这样拆解大型项目的",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516865&idx=1&sn=0b7235479e1030f98a0ca6fda0a23504&chksm=cf61a7ebf8162efdc74c42ae065a2a0cf750098fa6a90b8e720d514f2d9339a213ea64c1271e#rd",
+    "create_time": 1759118545,
+    "update_time": 1759140000
+  },
+  {
+    "aid": "2247516860_1",
+    "appmsgid": 2247516860,
+    "from": "奇舞精选",
+    "title": "奇舞周刊第569期：Claude Code 深度拆解：一个顶级AI编程工具的核心架构",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247516860&idx=1&sn=1936f1a12774ffcaf1e2e4ba30ceb771&chksm=cf61a796f8162e80f29ffe7e64dd20307286282c1ae22438a3147a81ab5846da9af488811a73#rd",
+    "create_time": 1758875677,
+    "update_time": 1758880800
+  },
+  {
     "aid": "2247516856_1",
     "appmsgid": 2247516856,
     "from": "奇舞精选",
