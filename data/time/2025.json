@@ -12809,11 +12809,39 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277705&idx=1&sn=c904937939770c2b0fb87581b93d348d&chksm=bd48900d8a3f191bbc07b96153e7516f07876b6a428c4898ade67b7198d6a191ad395eb5ad69#rd",
         "create_time": 1761262115,
         "update_time": 1761264000
+      },
+      {
+        "aid": "2247517390_1",
+        "appmsgid": 2247517390,
+        "from": "奇舞精选",
+        "title": "奇舞周刊第572期：信息量很大！AI结对编程核心思维模型",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517390&idx=1&sn=9ac0552a5f6fbaa1c84aa1c6c2ad7f95&chksm=cf61a1e4f81628f2ffd11707ae7f6fcdce689a10274f398fec59aeb6012c585f7baf6598fb0a#rd",
+        "create_time": 1761299149,
+        "update_time": 1761300000
+      },
+      {
+        "aid": "2247503649_1",
+        "appmsgid": 2247503649,
+        "from": "哔哩哔哩技术",
+        "title": "代码筑梦，优雅永存 | B站2025程序员节高能回顾：一场献给技术人的硬核浪漫",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503649&idx=1&sn=6f72386b455385893fd2be2f57734980&chksm=cf2f0a04f8588312eb7d9d5b30d692fb4328f30f5d7ff32940be23c3b2e5c47f3405b8c9a12a#rd",
+        "create_time": 1761310171,
+        "update_time": 1761310800
       }
     ],
     [],
     [],
-    [],
+    [
+      {
+        "aid": "2651277719_1",
+        "appmsgid": 2651277719,
+        "from": "前端早读课",
+        "title": "【早阅】使用 Web API 构建浏览器 AI 应用",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277719&idx=1&sn=0c428a2dd83ef8732b6c87cc7b4fffca&chksm=bd4890138a3f19051bffe956d2e784dd8f24d3c0cf84d36af5e77111361d524c9b9246dd48a9#rd",
+        "create_time": 1761521102,
+        "update_time": 1761523200
+      }
+    ],
     [],
     [],
     [],
