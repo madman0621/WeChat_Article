@@ -12878,9 +12878,37 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277725&idx=1&sn=d8867e2c8125eb5409ce978449a155c7&chksm=bd4890198a3f190f73f1183a4f73a34c8ca8e40379cf5888ecf50ae998ccbf7925e338172d27#rd",
         "create_time": 1761606659,
         "update_time": 1761609600
+      },
+      {
+        "aid": "2247528078_1",
+        "appmsgid": 2247528078,
+        "from": "程序员成长指北",
+        "title": "程序员必知的核心指标一：UV/PV/P95 完全指南",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528078&idx=1&sn=f9b1f1c4d685c512b0f9a2b01d86ca8b&chksm=f992685fcee5e149a2e9f648e4dd8e0291828b68e42e19d5021c4adae0621e64d6e81a52404b#rd",
+        "create_time": 1761623512,
+        "update_time": 1761623512
+      },
+      {
+        "aid": "2247517417_1",
+        "appmsgid": 2247517417,
+        "from": "奇舞精选",
+        "title": "从 npm 到 pnpm：包管理器的进化与 pnpm 核心原理解析",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517417&idx=1&sn=144a45e2cae7675730452f848fc754c6&chksm=cf61a1c3f81628d50bd1864b4b69508fa874c2a67d472ec04161b389bd03116cb4637bdeea8e#rd",
+        "create_time": 1761642760,
+        "update_time": 1761645600
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651277763_1",
+        "appmsgid": 2651277763,
+        "from": "前端早读课",
+        "title": "【第3605期】通过规范驱动开发提升你的 AI 开发水平",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277763&idx=1&sn=238e98aaf698e4d4c02de0aa4f3e37ca&chksm=bd4890478a3f1951076d17659e9e5a6c47cdf53607b20961160c23c903d7a0b30ae9c9034150#rd",
+        "create_time": 1761693647,
+        "update_time": 1761696000
+      }
+    ],
     [],
     []
   ],
