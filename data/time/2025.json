@@ -13034,10 +13034,29 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503649&idx=1&sn=6f72386b455385893fd2be2f57734980&chksm=cf2f0a04f8588312eb7d9d5b30d692fb4328f30f5d7ff32940be23c3b2e5c47f3405b8c9a12a#rd",
         "create_time": 1761310171,
         "update_time": 1761310800
+      },
+      {
+        "aid": "2247504438_1",
+        "appmsgid": 2247504438,
+        "from": "大转转FE",
+        "title": "转转商品中心微前端升级之路",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504438&idx=1&sn=a3acffe1223a4989e4af81f06515b406&chksm=fbb659ffccc1d0e9e9e8fd71fa8a12432befc0d0322444cdb539fa2ee24a81fd0b9b183828cb#rd",
+        "create_time": 1761270695,
+        "update_time": 1761270695
       }
     ],
     [],
-    [],
+    [
+      {
+        "aid": "2247504441_1",
+        "appmsgid": 2247504441,
+        "from": "大转转FE",
+        "title": "转转前端周刊第172期: vivo 前端三剑客发展历程及原理揭秘",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504441&idx=1&sn=82712c7dadc742b82e6fad09876469fa&chksm=fbb659f0ccc1d0e6ba8f777745892cf864c9b8d1e47dd8c11459608bd043fe6c7ae1828855d2#rd",
+        "create_time": 1761492159,
+        "update_time": 1761526800
+      }
+    ],
     [
       {
         "aid": "2651277719_1",
@@ -13188,6 +13207,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517427&idx=1&sn=d0de7ae15cc29c8df1e078c7ce1fd431&chksm=cf61a1d9f81628cf6088b058ee431036e56c01bba3c5ffb5fda306b8a21040cf1df58c7a0ec0#rd",
         "create_time": 1761820983,
         "update_time": 1761820983
+      },
+      {
+        "aid": "2247503686_1",
+        "appmsgid": 2247503686,
+        "from": "哔哩哔哩技术",
+        "title": "RIVAL：面向机器翻译的迭代对抗强化学习",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503686&idx=1&sn=fb40d52cc0b3be6fee309aa932a1f4fa&chksm=cf2f0a63f85883751bd8697a4f1ae0d7019772c3c15c8acd6eba2b90bf6ce22928ebb774f6ba#rd",
+        "create_time": 1761813465,
+        "update_time": 1761883200
       }
     ],
     [
@@ -13217,9 +13245,80 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277798&idx=1&sn=f595cc4365c163ce75cfc2c7572f2989&chksm=bd4890628a3f197418be8da9d5ee6a8982384bb41562219dbf3dbb28e99e4231243c47a066af#rd",
         "create_time": 1761867393,
         "update_time": 1761868800
+      },
+      {
+        "aid": "2247517431_1",
+        "appmsgid": 2247517431,
+        "from": "奇舞精选",
+        "title": "奇舞周刊第573期：AI Coding 长文分享：如何真正把工具用起来，从原理到实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517431&idx=1&sn=cd91ea5dc1c275093ebd6e5e24fd927b&chksm=cf61a1ddf81628cbb0713e7ac3715037e7e726c5547fb1e1e357bca3e289a76ad009845c5bef#rd",
+        "create_time": 1761904866,
+        "update_time": 1761904865
       }
     ]
   ],
-  [],
+  [
+    [
+      {
+        "aid": "2247528108_1",
+        "appmsgid": 2247528108,
+        "from": "程序员成长指北",
+        "title": "聊聊如何写好提示词，AI 回答质量直接翻倍！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528108&idx=1&sn=2f1e78f7219997699ca1c774a1509057&chksm=f992687dcee5e16b25d021af7132fabc7765fd8cdb5ae02c25e941903e01f7d5eb8dcf02b401#rd",
+        "create_time": 1762008750,
+        "update_time": 1762008750
+      }
+    ],
+    [
+      {
+        "aid": "2247504445_1",
+        "appmsgid": 2247504445,
+        "from": "大转转FE",
+        "title": "转转前端周刊第173期: 李沐年度演讲谈智能体！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504445&idx=1&sn=0822f4cf49966eb3dc1a7daf518f20f4&chksm=fbb659f4ccc1d0e22744bec1776a2dc95cfb06d01e4ba7384aa5b9ea0ee4927ebcde0fbf2949#rd",
+        "create_time": 1762098624,
+        "update_time": 1762131600
+      }
+    ],
+    [
+      {
+        "aid": "2651277814_1",
+        "appmsgid": 2651277814,
+        "from": "前端早读课",
+        "title": "【早阅】OpenSpec：全新工具包告别Vibe编码！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277814&idx=1&sn=4e3f0dbced653507f7eefdcbac58f84a&chksm=bd4890728a3f196486669f0069026d0baa7b992bd0ad05002e8d887a71d9efa038ccb0b3ef87#rd",
+        "create_time": 1762126456,
+        "update_time": 1762128000
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
   []
 ]
