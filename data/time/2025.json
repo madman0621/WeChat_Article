@@ -12178,6 +12178,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503507&idx=1&sn=4e64c3e2481d267d1a0f8b487a22b477&chksm=cf2f0bb6f85882a0a0bc36692a1aa8903f581b3e8bd0165432925d1cb3218fecd28c114648bc#rd",
         "create_time": 1758801964,
         "update_time": 1758859200
+      },
+      {
+        "aid": "2247486634_1",
+        "appmsgid": 2247486634,
+        "from": "Galacean 引擎爱好者",
+        "title": "Galacean Engine 1.6 现已发布",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzkyMTIzOTA1NQ==&mid=2247486634&idx=1&sn=58197e6d0d7682e8f27bedf535841ea7&chksm=c187e7caf6f06edca5e10cb0e7fa289c28d14f12fb13f7ea35503f8551e684c8997e2fd4e043#rd",
+        "create_time": 1758795235,
+        "update_time": 1758795235
       }
     ],
     [
@@ -13254,6 +13263,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517431&idx=1&sn=cd91ea5dc1c275093ebd6e5e24fd927b&chksm=cf61a1ddf81628cbb0713e7ac3715037e7e726c5547fb1e1e357bca3e289a76ad009845c5bef#rd",
         "create_time": 1761904866,
         "update_time": 1761904865
+      },
+      {
+        "aid": "2247488295_1",
+        "appmsgid": 2247488295,
+        "from": "Goodme前端团队",
+        "title": "快速掌握MCP精髓，让AI为我们提效",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTkwMTY3Mg==&mid=2247488295&idx=1&sn=04904652f98e2457c008520cee10b2e1&chksm=cfe59420f8921d36800fd3f43883af5c6b8ce4dbc57c143c666b7a1511b1dbc4f562c577250b#rd",
+        "create_time": 1761879880,
+        "update_time": 1762128000
       }
     ]
   ],
@@ -13289,12 +13307,133 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277814&idx=1&sn=4e3f0dbced653507f7eefdcbac58f84a&chksm=bd4890728a3f196486669f0069026d0baa7b992bd0ad05002e8d887a71d9efa038ccb0b3ef87#rd",
         "create_time": 1762126456,
         "update_time": 1762128000
+      },
+      {
+        "aid": "2247528149_1",
+        "appmsgid": 2247528149,
+        "from": "程序员成长指北",
+        "title": "JavaScript还能这样写？！ES2025新语法让代码优雅到极致",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528149&idx=1&sn=dd89a41cd04c2ef554c0cde2a01377f7&chksm=f9926804cee5e112a4625280de26e37653e2b6fffeca84f27aae7a5b3a2d36c018dc197bab07#rd",
+        "create_time": 1762141114,
+        "update_time": 1762141740
+      },
+      {
+        "aid": "2247517436_1",
+        "appmsgid": 2247517436,
+        "from": "奇舞精选",
+        "title": "ECharts 万字入门指南",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517436&idx=1&sn=a3e4613f10c96c42e21881ad35370547&chksm=cf61a1d6f81628c01a825cb5add1a1f8d6b9987281e8f5a261a8413c5285a9ed642cfa71903b#rd",
+        "create_time": 1762140960,
+        "update_time": 1762140960
+      },
+      {
+        "aid": "2650541882_1",
+        "appmsgid": 2650541882,
+        "from": "大淘宝技术",
+        "title": "别让故障复盘流于形式：用AI挖掘每一次“跌倒”的价值",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541882&idx=1&sn=cf6e8f4d1e5c68c5a44f82cf24c8f98d&chksm=8390c722b4e74e34d52eff2960a9647fcf3055f3319ab96da9e7bbb9b06e54eada9e0841a8c6#rd",
+        "create_time": 1762162344,
+        "update_time": 1762162343
       }
     ],
-    [],
-    [],
-    [],
-    [],
+    [
+      {
+        "aid": "2247528155_1",
+        "appmsgid": 2247528155,
+        "from": "程序员成长指北",
+        "title": "Cursor 原理之窥探提示词",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528155&idx=1&sn=15be02cf1051e4e2886d409496e2909b&chksm=f992680acee5e11c031f93746b269657ecfd6fae69cdb4b21a7bceb43b94781fabea22a7e30f#rd",
+        "create_time": 1762232897,
+        "update_time": 1762236000
+      },
+      {
+        "aid": "2651277850_1",
+        "appmsgid": 2651277850,
+        "from": "前端早读课",
+        "title": "【第3607期】如何编写有用的提交信息",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277850&idx=1&sn=6eeefb699a1d9fafc9d8c738b201c9ad&chksm=bd48939e8a3f1a88b18e50aad450fe1c65dd1f239517fe96857a25a1a1f311521016e4f8d166#rd",
+        "create_time": 1762211859,
+        "update_time": 1762214400
+      }
+    ],
+    [
+      {
+        "aid": "2247499480_1",
+        "appmsgid": 2247499480,
+        "from": "iCSS前端趣闻",
+        "title": "当 AI 开始「偷懒」：一次对抗 AI 架构限制的工程实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499480&idx=1&sn=27d88512f315fb8857adc465f5c35766&chksm=ce269d2ef9511438ef5d9ad2ceeee6852d81e2a63aa56105f6ed10aa36af66f4ab0bda2ef7ed#rd",
+        "create_time": 1762351326,
+        "update_time": 1762351326
+      },
+      {
+        "aid": "2247528201_1",
+        "appmsgid": 2247528201,
+        "from": "程序员成长指北",
+        "title": "这份HTTP重定向问题快速排查指南，真的帮了大忙！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528201&idx=1&sn=539ad6a4590d63eb43c513822bcecd79&chksm=f99269d8cee5e0ce77d0950406e166f425873bd87c0ed35d8d2ab37081572f5abd4ecc7085bd#rd",
+        "create_time": 1762316098,
+        "update_time": 1762316097
+      },
+      {
+        "aid": "2651277855_1",
+        "appmsgid": 2651277855,
+        "from": "前端早读课",
+        "title": "【第3608期】Next.js 16 新特性解读：从异步参数到 Turbopack 默认化",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277855&idx=1&sn=5e61452f4d216189051162d44606e4cc&chksm=bd48939b8a3f1a8dbf1b6fdf9e9415fe2bf1e34a4b493b2c370df53256f14cea55c2b3a046f2#rd",
+        "create_time": 1762298904,
+        "update_time": 1762300800
+      },
+      {
+        "aid": "2247517446_1",
+        "appmsgid": 2247517446,
+        "from": "奇舞精选",
+        "title": "AI时代的前端知识拾遗：前端事件循环机制详解（基于 WHATWG 最新规范）",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517446&idx=1&sn=c5399ff119e565241f546077fbc0c954&chksm=cf61a02cf816293aa92e9be24b8a44f57ef41b19b2fe8417da06371ee061597b03ba9ff15399#rd",
+        "create_time": 1762339367,
+        "update_time": 1762339366
+      }
+    ],
+    [
+      {
+        "aid": "2247528213_1",
+        "appmsgid": 2247528213,
+        "from": "程序员成长指北",
+        "title": "HTML 的隐藏宝藏：<output> 标签",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528213&idx=1&sn=fba6fd62c591544bb6e4c228865b6027&chksm=f99269c4cee5e0d233e25fece5ac0df9a943a6264ba85f2ac0435242fa7b46bfec5d0c0b0417#rd",
+        "create_time": 1762401276,
+        "update_time": 1762401276
+      },
+      {
+        "aid": "2651277864_1",
+        "appmsgid": 2651277864,
+        "from": "前端早读课",
+        "title": "【第3609期】使用 Chrome DevTools MCP 进行调试：让 AI 在浏览器中“拥有双眼”",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277864&idx=1&sn=d1791d51add2a47c4007595ce4dbc08a&chksm=bd4893ac8a3f1abadd51e230acc3b8067dd15dc63a59a5dddbf6fd26d3dfa3ef27dff70dc9c8#rd",
+        "create_time": 1762385130,
+        "update_time": 1762387200
+      },
+      {
+        "aid": "2247517466_1",
+        "appmsgid": 2247517466,
+        "from": "奇舞精选",
+        "title": "理解 LangChain 智能体：create_react_agent 与 create_tool_calling_agent",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517466&idx=1&sn=8a61157c786432fbca90644210a83898&chksm=cf61a030f8162926070d98b35df7ceceb0a642de8d0959cdf7c840ababb83c13a3a8a2c1fe21#rd",
+        "create_time": 1762424406,
+        "update_time": 1762424640
+      }
+    ],
+    [
+      {
+        "aid": "2651277871_1",
+        "appmsgid": 2651277871,
+        "from": "前端早读课",
+        "title": "【第3610期】OpenSpec 与 Spec Kit：为你的团队选择合适的 AI 驱动开发流程",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277871&idx=1&sn=3af22db9e0ffa2d71ff4cd8b4435bccb&chksm=bd4893ab8a3f1abdb59cb29d81468cbc954b681742b5a54a29f640153a2fa4ad18441b10966f#rd",
+        "create_time": 1762471500,
+        "update_time": 1762473600
+      }
+    ],
     [],
     [],
     [],

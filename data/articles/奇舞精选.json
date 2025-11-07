@@ -1,5 +1,32 @@
 [
   {
+    "aid": "2247517466_1",
+    "appmsgid": 2247517466,
+    "from": "奇舞精选",
+    "title": "理解 LangChain 智能体：create_react_agent 与 create_tool_calling_agent",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517466&idx=1&sn=8a61157c786432fbca90644210a83898&chksm=cf61a030f8162926070d98b35df7ceceb0a642de8d0959cdf7c840ababb83c13a3a8a2c1fe21#rd",
+    "create_time": 1762424406,
+    "update_time": 1762424640
+  },
+  {
+    "aid": "2247517446_1",
+    "appmsgid": 2247517446,
+    "from": "奇舞精选",
+    "title": "AI时代的前端知识拾遗：前端事件循环机制详解（基于 WHATWG 最新规范）",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517446&idx=1&sn=c5399ff119e565241f546077fbc0c954&chksm=cf61a02cf816293aa92e9be24b8a44f57ef41b19b2fe8417da06371ee061597b03ba9ff15399#rd",
+    "create_time": 1762339367,
+    "update_time": 1762339366
+  },
+  {
+    "aid": "2247517436_1",
+    "appmsgid": 2247517436,
+    "from": "奇舞精选",
+    "title": "ECharts 万字入门指南",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517436&idx=1&sn=a3e4613f10c96c42e21881ad35370547&chksm=cf61a1d6f81628c01a825cb5add1a1f8d6b9987281e8f5a261a8413c5285a9ed642cfa71903b#rd",
+    "create_time": 1762140960,
+    "update_time": 1762140960
+  },
+  {
     "aid": "2247517431_1",
     "appmsgid": 2247517431,
     "from": "奇舞精选",
