@@ -13697,6 +13697,33 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277885&idx=1&sn=3d82e2fa828aafc9d42753388b907d4d&chksm=bd4893b98a3f1aafa268b9da55b7375aeb62127a22d7f774336c84fdb6a3da832b16bb314153#rd",
         "create_time": 1762731374,
         "update_time": 1762732800
+      },
+      {
+        "aid": "2247528227_1",
+        "appmsgid": 2247528227,
+        "from": "程序员成长指北",
+        "title": "有效防止重复提交的6个方法",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528227&idx=1&sn=39a73385b8621b312c2aa62e301e5576&chksm=f99269f2cee5e0e4fff3a755541bd2f41b9fc25fa7853e0c8bc8b3a892ad73af556a904bf3d9#rd",
+        "create_time": 1762747235,
+        "update_time": 1762747235
+      },
+      {
+        "aid": "2247517480_1",
+        "appmsgid": 2247517480,
+        "from": "奇舞精选",
+        "title": "Claude Agent Skills：将 Workflow 打进技能包",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517480&idx=1&sn=ebe6e5ef0d8675e721b93035ff08201b&chksm=cf61a002f8162914c64d92fe09f0ec4ed11f44a9472f160da092ea9033760350fc0826401a8b#rd",
+        "create_time": 1762753839,
+        "update_time": 1762768800
+      },
+      {
+        "aid": "2650541896_1",
+        "appmsgid": 2650541896,
+        "from": "大淘宝技术",
+        "title": "从0到1：天猫AI测试用例生成的实践与突破",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541896&idx=1&sn=55fb4c42cda750d35e32b1b5c8d573ea&chksm=8390c750b4e74e46719ea43af4fb75730392de65ef4d0dee587917e8c3872d75e91230e8eb8c#rd",
+        "create_time": 1762768598,
+        "update_time": 1762768597
       }
     ],
     [],
