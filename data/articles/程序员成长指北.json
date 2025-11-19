@@ -1,5 +1,50 @@
 [
   {
+    "aid": "2247528344_1",
+    "appmsgid": 2247528344,
+    "from": "程序员成长指北",
+    "title": "大模型时代最讽刺的职业出现了：“大模型善后工程师”",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528344&idx=1&sn=0b51bdbdd34ef02821adc8ce530caebb&chksm=f9926949cee5e05fde052629f74f422d71148d223a15f8919cff3ce10e5548f2125f7a21a5ad#rd",
+    "create_time": 1763437544,
+    "update_time": 1763437920
+  },
+  {
+    "aid": "2247528314_1",
+    "appmsgid": 2247528314,
+    "from": "程序员成长指北",
+    "title": "教你通过规范驱动开发提升你的 AI 编程水平",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528314&idx=1&sn=6ed7799f6401bf346319a6513f801453&chksm=f99269abcee5e0bd72211ac54d4ea9543af63ac0f8502906c0092a3c3301b6e5da17242593cc#rd",
+    "create_time": 1763352019,
+    "update_time": 1763352018
+  },
+  {
+    "aid": "2247528306_1",
+    "appmsgid": 2247528306,
+    "from": "程序员成长指北",
+    "title": "用这 9 个 API，我把页面性能干到了 90+",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528306&idx=1&sn=123119980f9a33dba2a6b3d5343f5e2c&chksm=f99269a3cee5e0b5d73a673ec4f707ce52cc6cf5e58d96205714713172d1a6e18762e29fa4e9#rd",
+    "create_time": 1763091881,
+    "update_time": 1763092200
+  },
+  {
+    "aid": "2247528267_1",
+    "appmsgid": 2247528267,
+    "from": "程序员成长指北",
+    "title": "转转商品中心微前端升级之路",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528267&idx=1&sn=5b61a3c83713139b8f27073183d136f1&chksm=f992699acee5e08c02118bc92a16fa44c1b22de62fce43e77356889b879c046373860baefeb6#rd",
+    "create_time": 1763006588,
+    "update_time": 1763006587
+  },
+  {
+    "aid": "2247528265_1",
+    "appmsgid": 2247528265,
+    "from": "程序员成长指北",
+    "title": "我用AI重构了一段500行的屎山代码，这是我的Prompt和思考过程",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528265&idx=1&sn=f926cb76c8336dcd7d2844d997c5eea0&chksm=f9926998cee5e08e48ae80179998e93c37b3ef3c4ad88bb4ea31467f5222722677418cc1a8e6#rd",
+    "create_time": 1762932425,
+    "update_time": 1762932424
+  },
+  {
     "aid": "2247528236_1",
     "appmsgid": 2247528236,
     "from": "程序员成长指北",

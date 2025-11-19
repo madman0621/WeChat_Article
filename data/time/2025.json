@@ -13764,15 +13764,155 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277894&idx=1&sn=6e94fcd9fdb978cb884517b28aa770cb&chksm=bd4893c28a3f1ad40b56d7d5d09c1333a9c3b9382fd4d148d7e2d69102f17d6fed01356447bb#rd",
         "create_time": 1762904771,
         "update_time": 1762909200
+      },
+      {
+        "aid": "2247528265_1",
+        "appmsgid": 2247528265,
+        "from": "程序员成长指北",
+        "title": "我用AI重构了一段500行的屎山代码，这是我的Prompt和思考过程",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528265&idx=1&sn=f926cb76c8336dcd7d2844d997c5eea0&chksm=f9926998cee5e08e48ae80179998e93c37b3ef3c4ad88bb4ea31467f5222722677418cc1a8e6#rd",
+        "create_time": 1762932425,
+        "update_time": 1762932424
+      },
+      {
+        "aid": "2247517490_1",
+        "appmsgid": 2247517490,
+        "from": "奇舞精选",
+        "title": "重磅！刚刚字节 Trae SOLO 正式发布，限时免费！",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517490&idx=1&sn=7cd58d31fb66ce511873defe7d504883&chksm=cf61a018f816290e9cb46f062f4d37709a4f23371b6d400ff0289db310d987895a8ba84dc7b6#rd",
+        "create_time": 1762943286,
+        "update_time": 1762943285
+      }
+    ],
+    [
+      {
+        "aid": "2247528267_1",
+        "appmsgid": 2247528267,
+        "from": "程序员成长指北",
+        "title": "转转商品中心微前端升级之路",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528267&idx=1&sn=5b61a3c83713139b8f27073183d136f1&chksm=f992699acee5e08c02118bc92a16fa44c1b22de62fce43e77356889b879c046373860baefeb6#rd",
+        "create_time": 1763006588,
+        "update_time": 1763006587
+      },
+      {
+        "aid": "2651277901_1",
+        "appmsgid": 2651277901,
+        "from": "前端早读课",
+        "title": "【早阅】Web性能之旅的7个层级",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277901&idx=1&sn=333e2375349d1bdd871553a85abb2541&chksm=bd4893c98a3f1adf5354847246075fee907e127b63bce34a17a9789669e49bb0fc38a3544e98#rd",
+        "create_time": 1762990017,
+        "update_time": 1762995600
+      },
+      {
+        "aid": "2247517523_1",
+        "appmsgid": 2247517523,
+        "from": "奇舞精选",
+        "title": "Agent skills：AI 能力扩展的新范式",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517523&idx=1&sn=4fbaab41d1003a2663ae4bf5ddf5223e&chksm=cf61a079f816296fd12305c741467a9e5bd73a19f78621c565c6afb7e829725c5ac21ffeb798#rd",
+        "create_time": 1763002706,
+        "update_time": 1763028000
+      }
+    ],
+    [
+      {
+        "aid": "2247528306_1",
+        "appmsgid": 2247528306,
+        "from": "程序员成长指北",
+        "title": "用这 9 个 API，我把页面性能干到了 90+",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528306&idx=1&sn=123119980f9a33dba2a6b3d5343f5e2c&chksm=f99269a3cee5e0b5d73a673ec4f707ce52cc6cf5e58d96205714713172d1a6e18762e29fa4e9#rd",
+        "create_time": 1763091881,
+        "update_time": 1763092200
+      },
+      {
+        "aid": "2651277910_1",
+        "appmsgid": 2651277910,
+        "from": "前端早读课",
+        "title": "【第3612期】状态驱动 vs Signal驱动渲染",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277910&idx=1&sn=6f0e42078d52518928a8b7c6101a6d44&chksm=bd4893d28a3f1ac4f63e61a3e34c12deb891005fbf8cafd6e78d6ce3cd20e7c7bb7a9714ef79#rd",
+        "create_time": 1763076238,
+        "update_time": 1763082000
+      },
+      {
+        "aid": "2650541931_1",
+        "appmsgid": 2650541931,
+        "from": "大淘宝技术",
+        "title": "页面搭建方案(TurboUIBuilder)在穿搭星球的实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541931&idx=1&sn=a1687e2bfec0083ce651f23407115543&chksm=8390c773b4e74e65c579848f5f489ee9520f678265794ee84f1d63f2cf67d702fcb36977612b#rd",
+        "create_time": 1763111838,
+        "update_time": 1763111838
       }
     ],
     [],
     [],
-    [],
-    [],
-    [],
-    [],
-    [],
+    [
+      {
+        "aid": "2247528314_1",
+        "appmsgid": 2247528314,
+        "from": "程序员成长指北",
+        "title": "教你通过规范驱动开发提升你的 AI 编程水平",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528314&idx=1&sn=6ed7799f6401bf346319a6513f801453&chksm=f99269abcee5e0bd72211ac54d4ea9543af63ac0f8502906c0092a3c3301b6e5da17242593cc#rd",
+        "create_time": 1763352019,
+        "update_time": 1763352018
+      },
+      {
+        "aid": "2651277928_1",
+        "appmsgid": 2651277928,
+        "from": "前端早读课",
+        "title": "【早阅】Node.js 2025 现状解读",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277928&idx=1&sn=f5778f9a2742921f784157ea11f6eb8c&chksm=bd4893ec8a3f1afaeff85b434ed0f8cbf1e0b9d4e1660d15a365f55db44e41e1dcbe0a421bfc#rd",
+        "create_time": 1763335374,
+        "update_time": 1763341200
+      },
+      {
+        "aid": "2247517541_1",
+        "appmsgid": 2247517541,
+        "from": "奇舞精选",
+        "title": "打造一个可定制工作流的桌面女友",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517541&idx=1&sn=fbf3fa771c2e92418d8e763403305a4a&chksm=cf61a04ff81629598948e0781e24370b628c79727e864712b543300eeca0d8df1ea3db54f171#rd",
+        "create_time": 1763374382,
+        "update_time": 1763374382
+      },
+      {
+        "aid": "2247517540_1",
+        "appmsgid": 2247517540,
+        "from": "奇舞精选",
+        "title": "LangChain 1.0 变革",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517540&idx=1&sn=cc040004b11ca50204502d4a06436ed8&chksm=cf61a04ef8162958a7199a6356502e7f8b5853085ea1693a554547827b5c5d211048494b48c1#rd",
+        "create_time": 1763360082,
+        "update_time": 1763460000
+      }
+    ],
+    [
+      {
+        "aid": "2247528344_1",
+        "appmsgid": 2247528344,
+        "from": "程序员成长指北",
+        "title": "大模型时代最讽刺的职业出现了：“大模型善后工程师”",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528344&idx=1&sn=0b51bdbdd34ef02821adc8ce530caebb&chksm=f9926949cee5e05fde052629f74f422d71148d223a15f8919cff3ce10e5548f2125f7a21a5ad#rd",
+        "create_time": 1763437544,
+        "update_time": 1763437920
+      },
+      {
+        "aid": "2651277933_1",
+        "appmsgid": 2651277933,
+        "from": "前端早读课",
+        "title": "【第3613期】JavaScript 中的错误链：用 Error.cause 让调试更清晰",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277933&idx=1&sn=d6d1eacd20690c6271a78026f2eaed23&chksm=bd4893e98a3f1aff2aea60104e2b0185384da9d004407706ba43a527f81fae23610f98f5cf6f#rd",
+        "create_time": 1763420941,
+        "update_time": 1763427600
+      }
+    ],
+    [
+      {
+        "aid": "2651277949_1",
+        "appmsgid": 2651277949,
+        "from": "前端早读课",
+        "title": "【早阅】使用本地优先数据构建原生级 Web 应用",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277949&idx=1&sn=eb45bfa094736598fcf81938dfa8fd1d&chksm=bd4893f98a3f1aefe81694be5a866a475ad1fa467c18fd2b80668d719675b86fb9be49413902#rd",
+        "create_time": 1763508127,
+        "update_time": 1763514000
+      }
+    ],
     [],
     [],
     [],
