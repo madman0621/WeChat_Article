@@ -13550,6 +13550,24 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg2OTYyODU0NQ==&mid=2247520806&idx=1&sn=b5d2a466a19c2ee6eade74964143cdd9&chksm=ce98fdc8f9ef74ded4f2052bc27071db3a5308f6d716c3cc1bc5e8bc6c8dbb41ea5947eaa0f7#rd",
         "create_time": 1762166029,
         "update_time": 1762166029
+      },
+      {
+        "aid": "2651623252_1",
+        "appmsgid": 2651623252,
+        "from": "前端大全",
+        "title": "好家伙！尤雨溪公司融 8890 万，要终结 JS 工具碎片化。网友：早点统一吧",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623252&idx=1&sn=37398be8e42774cdb28e14a0bc98f452&chksm=80225895b755d183a6eb49ea8003d1fb781488e664681ce995f4d1a095d31ea91de28b51dfb5#rd",
+        "create_time": 1762164340,
+        "update_time": 1762164480
+      },
+      {
+        "aid": "2651623252_2",
+        "appmsgid": 2651623252,
+        "from": "前端大全",
+        "title": "中国程序员学习压力排全球第二、TypeScript和AI工具成新宠，2025开发者生态报告出炉！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623252&idx=2&sn=58c5e4fecf1883f06a5504c745ec8790&chksm=80225895b755d1831f713766cc1dd7cc6466860ac62451d8526ec494afa58f9cf8e39b69ddd5#rd",
+        "create_time": 1762164340,
+        "update_time": 1762164480
       }
     ],
     [
@@ -13570,6 +13588,24 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277850&idx=1&sn=6eeefb699a1d9fafc9d8c738b201c9ad&chksm=bd48939e8a3f1a88b18e50aad450fe1c65dd1f239517fe96857a25a1a1f311521016e4f8d166#rd",
         "create_time": 1762211859,
         "update_time": 1762214400
+      },
+      {
+        "aid": "2651623264_1",
+        "appmsgid": 2651623264,
+        "from": "前端大全",
+        "title": "山姆改版遭差评轰炸！会员怒喷：开除 X 里高管，让 X 里系滚蛋。山姆连夜行动…",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623264&idx=1&sn=0bac501acefbd41bc24ad1416342ee6d&chksm=802258a1b755d1b788fbec76059eb5de4b8bce943bf95635dba2e3d515f215fcf605f773e37b#rd",
+        "create_time": 1762264162,
+        "update_time": 1762264380
+      },
+      {
+        "aid": "2651623264_2",
+        "appmsgid": 2651623264,
+        "from": "前端大全",
+        "title": "双 Token 认证机制：从原理到实践的完整实现",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623264&idx=2&sn=012e7c8fd0f2bd4b1d35f9ec7b237ac7&chksm=802258a1b755d1b7973e80bb4b50d80bd1a9ad0271d614055e04b87e6d2bd2b3fca54931db20#rd",
+        "create_time": 1762264162,
+        "update_time": 1762264380
       }
     ],
     [
@@ -13724,6 +13760,33 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541896&idx=1&sn=55fb4c42cda750d35e32b1b5c8d573ea&chksm=8390c750b4e74e46719ea43af4fb75730392de65ef4d0dee587917e8c3872d75e91230e8eb8c#rd",
         "create_time": 1762768598,
         "update_time": 1762768597
+      },
+      {
+        "aid": "2651623312_1",
+        "appmsgid": 2651623312,
+        "from": "前端大全",
+        "title": "确认裁员了，很严重，大家做好准备吧。。。",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623312&idx=1&sn=c8649bfbed9480fe0a1a009cfb15b6dc&chksm=80225851b755d147edcf17b81a9d5b7ed2728d5f4c92dd48cb7a61d5d6030fd441249e2cf554#rd",
+        "create_time": 1762777337,
+        "update_time": 1762826400
+      },
+      {
+        "aid": "2651623303_1",
+        "appmsgid": 2651623303,
+        "from": "前端大全",
+        "title": "放下技术焦虑：越来越多公司重回单体架构的真相",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623303&idx=1&sn=de012e4a13375428c6bc9e23e4e1f8b8&chksm=80225846b755d150ce5c82eadb7ac96f8006163eaf6e8ff07b4bad0be630a697efd8c03ce15a#rd",
+        "create_time": 1762741487,
+        "update_time": 1762746600
+      },
+      {
+        "aid": "2651623303_2",
+        "appmsgid": 2651623303,
+        "from": "前端大全",
+        "title": "大模型应用中，前端绕不开的 SSE",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623303&idx=2&sn=8e8703b4c48fb82ee821b8a7d850733b&chksm=80225846b755d150a130ac96b33d5374d1ee70c20d1cd3e254f289eab85512ac75c04576e09f#rd",
+        "create_time": 1762741487,
+        "update_time": 1762746600
       }
     ],
     [
@@ -13811,6 +13874,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517523&idx=1&sn=4fbaab41d1003a2663ae4bf5ddf5223e&chksm=cf61a079f816296fd12305c741467a9e5bd73a19f78621c565c6afb7e829725c5ac21ffeb798#rd",
         "create_time": 1763002706,
         "update_time": 1763028000
+      },
+      {
+        "aid": "2247503701_1",
+        "appmsgid": 2247503701,
+        "from": "哔哩哔哩技术",
+        "title": "VisionWeaver：从“现象识别”到“病因诊断”，开启AI视觉幻觉研究新篇章",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503701&idx=1&sn=6ca4ff76ca955db7350d14556e814b2c&chksm=cf2f0a70f85883662dac8d313d5e3b9156b9d1bb6610e60fbe39bf295533a5eb73780326ad8c#rd",
+        "create_time": 1763038263,
+        "update_time": 1763092800
       }
     ],
     [
@@ -13840,6 +13912,24 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541931&idx=1&sn=a1687e2bfec0083ce651f23407115543&chksm=8390c773b4e74e65c579848f5f489ee9520f678265794ee84f1d63f2cf67d702fcb36977612b#rd",
         "create_time": 1763111838,
         "update_time": 1763111838
+      },
+      {
+        "aid": "2651623357_1",
+        "appmsgid": 2651623357,
+        "from": "前端大全",
+        "title": "把 Bug 曝光到全网，谷歌逼 FFmpeg 维护者“按时修复”，遭怒怼：别光用 AI 找 Bug，有本事你自己修啊！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623357&idx=1&sn=476ca5c2fd4969eacd1fd86bdbebd341&chksm=8022587cb755d16af0aa771c3a36dce3100a85c5e7e1353d8e2c56a566801888ff6f70816953#rd",
+        "create_time": 1763086499,
+        "update_time": 1763092200
+      },
+      {
+        "aid": "2651623357_2",
+        "appmsgid": 2651623357,
+        "from": "前端大全",
+        "title": "前端到底用Nginx来做啥",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623357&idx=2&sn=7894ac713a23bded3a709e1bf69bf67e&chksm=8022587cb755d16a6cb94cb522c7a9ff12e4a0bb9bb37f5535db4de923e5fe9e0fccda535102#rd",
+        "create_time": 1763086499,
+        "update_time": 1763092200
       }
     ],
     [],
@@ -13900,6 +13990,24 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277933&idx=1&sn=d6d1eacd20690c6271a78026f2eaed23&chksm=bd4893e98a3f1aff2aea60104e2b0185384da9d004407706ba43a527f81fae23610f98f5cf6f#rd",
         "create_time": 1763420941,
         "update_time": 1763427600
+      },
+      {
+        "aid": "2651623368_1",
+        "appmsgid": 2651623368,
+        "from": "前端大全",
+        "title": "曾被乔布斯逼到崩溃，苹果8号工程师反手做了个工具“让老板自己设计”，竟在10分钟内定下Mac计算器原型，一用就是近20年",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623368&idx=1&sn=a5965b34b41fc78ccb4d17c975232248&chksm=80225809b755d11f8a626c97441213dbcd2a5f78eab04ee9c8a754d6c20c996182aeea871994#rd",
+        "create_time": 1763430654,
+        "update_time": 1763430780
+      },
+      {
+        "aid": "2651623368_2",
+        "appmsgid": 2651623368,
+        "from": "前端大全",
+        "title": "一个函数超过20行? 聊聊我的函数式代码洁癖",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623368&idx=2&sn=42464fd273cd5c1f16492822792a9614&chksm=80225809b755d11f0aed1781c632e185db76ec2507e92de291f8894f82fa55fba42eb87f8547#rd",
+        "create_time": 1763430654,
+        "update_time": 1763430780
       }
     ],
     [
@@ -13911,10 +14019,102 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277949&idx=1&sn=eb45bfa094736598fcf81938dfa8fd1d&chksm=bd4893f98a3f1aefe81694be5a866a475ad1fa467c18fd2b80668d719675b86fb9be49413902#rd",
         "create_time": 1763508127,
         "update_time": 1763514000
+      },
+      {
+        "aid": "2247528358_1",
+        "appmsgid": 2247528358,
+        "from": "程序员成长指北",
+        "title": "React 如何处理高频的实时数据？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528358&idx=1&sn=2f34394f5da438873ae967d829cf074c&chksm=f9926977cee5e06123fa1df3f267e4d0e5477426e9eeef6968e2d78c70a29c7266d65c980fa6#rd",
+        "create_time": 1763523946,
+        "update_time": 1763524200
+      },
+      {
+        "aid": "2247517550_1",
+        "appmsgid": 2247517550,
+        "from": "奇舞精选",
+        "title": "前端，不止于 AI。12 月 20 日，FEDAY 2025，长沙见！",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517550&idx=1&sn=73b44015b9753f8db121e879b739499b&chksm=cf61a044f816295230c62cb77468c482d9ce1dd86baeda7f1be93f9f47764594939f55beae7a#rd",
+        "create_time": 1763521509,
+        "update_time": 1763521509
+      },
+      {
+        "aid": "2650541948_1",
+        "appmsgid": 2650541948,
+        "from": "大淘宝技术",
+        "title": "交易订单表如何做索引优化",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541948&idx=1&sn=99c44ca3235744eeb090fb63c6aa9769&chksm=8390c764b4e74e72100a3f9db852b376a26038278abef0ec29e722f437e9f051587db588a6c7#rd",
+        "create_time": 1763543672,
+        "update_time": 1763543672
       }
     ],
-    [],
-    [],
+    [
+      {
+        "aid": "2651623378_1",
+        "appmsgid": 2651623378,
+        "from": "前端大全",
+        "title": "Linus谈“氛围编程”：可以接受，但不适合在生产环境使用",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623378&idx=1&sn=7598512f131307e7d54f6188b07f69ac&chksm=80225813b755d1058e080b127d00db514a36a317652448d97c2c51d6b03c5c75d1acd5261680#rd",
+        "create_time": 1763598301,
+        "update_time": 1763598540
+      },
+      {
+        "aid": "2651623378_2",
+        "appmsgid": 2651623378,
+        "from": "前端大全",
+        "title": "用这 9 个 API，我把页面性能干到了 90+",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623378&idx=2&sn=d231ed0542acc152778bc17816e44655&chksm=80225813b755d1059db4e5445ad5395ab04918056d0ac8087235d49f93ef9b6d832ea515f5e1#rd",
+        "create_time": 1763598301,
+        "update_time": 1763598540
+      },
+      {
+        "aid": "2649014795_1",
+        "appmsgid": 2649014795,
+        "from": "前端新世界",
+        "title": "在职场被孤立排挤？三步完成漂亮反杀",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI1MzI3OQ==&mid=2649014795&idx=1&sn=17936921059a8b26ab03ed02ed384377&chksm=83005dbbb477d4adee97bed21366fb612133953ecdcf10049048cda418547b7140594c41d690#rd",
+        "create_time": 1763631286,
+        "update_time": 1763631286
+      },
+      {
+        "aid": "2247528371_1",
+        "appmsgid": 2247528371,
+        "from": "程序员成长指北",
+        "title": "高级前端开发人员最佳实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528371&idx=1&sn=cc4dffdca703c3065f53e20e2e9f6fa6&chksm=f9926962cee5e074e7038de358d2c969fe69428131c3e1893cbfefb8457dbf6564c8ff458bc2#rd",
+        "create_time": 1763612938,
+        "update_time": 1763612937
+      },
+      {
+        "aid": "2651277957_1",
+        "appmsgid": 2651277957,
+        "from": "前端早读课",
+        "title": "【第3614期】常被忽视的 Node.js 功能，彻底改善了日志体验",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277957&idx=1&sn=f82c3d371bd6336a7ade9a37849bbe90&chksm=bd4893018a3f1a1736ba4c4c6f69d191c02c10e448088e71bfa180db48c6c9cab447833020c9#rd",
+        "create_time": 1763594935,
+        "update_time": 1763600400
+      },
+      {
+        "aid": "2247517554_1",
+        "appmsgid": 2247517554,
+        "from": "奇舞精选",
+        "title": "15 种高级 RAG 技术大比拼，值得收藏！",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517554&idx=1&sn=0a3689c13cf339a9eb03007d80774d80&chksm=cf61a058f816294ec96a42ab8fb853944e09539b76b28878c9d50697bde22f7e95a200d7a7e9#rd",
+        "create_time": 1763628642,
+        "update_time": 1763628641
+      }
+    ],
+    [
+      {
+        "aid": "2651277961_1",
+        "appmsgid": 2651277961,
+        "from": "前端早读课",
+        "title": "【第3615期】前端安全：setHTML()、Trusted Types 和 Sanitizer API 使用指南",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277961&idx=1&sn=8233a680cb05111a5e2d4f66619baedb&chksm=bd48930d8a3f1a1b73fff5d175cedcf3d5350dfaa7a4be4cd35ce9dde1f6260c0cd06c284e94#rd",
+        "create_time": 1763680911,
+        "update_time": 1763686800
+      }
+    ],
     [],
     [],
     [],
