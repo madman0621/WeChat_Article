@@ -13720,6 +13720,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541895&idx=1&sn=6f5f8af100dba54c4675b2c2db62e416&chksm=8390c75fb4e74e49a468adbc1def8010715922b10642a4080feacde2802811377e1238109d52#rd",
         "create_time": 1762512030,
         "update_time": 1762512030
+      },
+      {
+        "aid": "2247488307_1",
+        "appmsgid": 2247488307,
+        "from": "Goodme前端团队",
+        "title": "公司项目水太深，AI Agent它把握不住！",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTkwMTY3Mg==&mid=2247488307&idx=1&sn=0e071064b23693005db1db8dfa3085f4&chksm=cfe59434f8921d22433be091eb179d27806136d3541dfdd6f14a2a82107c96f1dab2beb3a65e#rd",
+        "create_time": 1762500912,
+        "update_time": 1762732800
       }
     ],
     [],
@@ -14121,6 +14130,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517554&idx=1&sn=0a3689c13cf339a9eb03007d80774d80&chksm=cf61a058f816294ec96a42ab8fb853944e09539b76b28878c9d50697bde22f7e95a200d7a7e9#rd",
         "create_time": 1763628642,
         "update_time": 1763628641
+      },
+      {
+        "aid": "2247503755_1",
+        "appmsgid": 2247503755,
+        "from": "哔哩哔哩技术",
+        "title": "B站消息新架构升级",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503755&idx=1&sn=bd23c345d87a50bbfc833e442081843c&chksm=cf2f0aaef85883b82f3f0a29e67461bd0efa6b2a6bc6b51c13d4c0f2aa0eeb5d96c791f0038f#rd",
+        "create_time": 1763641107,
+        "update_time": 1763697600
       }
     ],
     [
@@ -14192,10 +14210,84 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277982&idx=1&sn=7e2f24da357206da210422c8c0c33e61&chksm=bd48931a8a3f1a0c92f17d8885f56ccf2ff4831c0f8a0ace115f8d5dc8ad589edcc4a448411f#rd",
         "create_time": 1763939853,
         "update_time": 1763946000
+      },
+      {
+        "aid": "2247528397_1",
+        "appmsgid": 2247528397,
+        "from": "程序员成长指北",
+        "title": "常被忽视的 Node.js 功能，彻底改善了日志体验",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528397&idx=1&sn=127aa113e933093d4c2665fb198eb5b4&chksm=f992691ccee5e00a6efc0dc98a2e3399d2b82ce758ef438998c2589bf4e46fbb9e1646c9118a#rd",
+        "create_time": 1763955420,
+        "update_time": 1763956200
+      },
+      {
+        "aid": "2247488319_1",
+        "appmsgid": 2247488319,
+        "from": "Goodme前端团队",
+        "title": "用Demo理解Fiber",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4OTkwMTY3Mg==&mid=2247488319&idx=1&sn=0b231aadbe98deb801e6b0031121e657&chksm=cfe59438f8921d2e9a9c5b0690d14eecbcf2e44bc2cd83a1073332ea059c1008266e300aa608#rd",
+        "create_time": 1763951529,
+        "update_time": 1763953200
+      },
+      {
+        "aid": "2650541979_1",
+        "appmsgid": 2650541979,
+        "from": "大淘宝技术",
+        "title": "AI互动前端开发的思考和实践_",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541979&idx=1&sn=faf282e03be44adb359e802303d2b61d&chksm=8390c783b4e74e958515dec2e69f8d7229cda5c3c4d88cbeb7d31c6758d4cf2b68974a0f10c7#rd",
+        "create_time": 1763976514,
+        "update_time": 1763976514
       }
     ],
-    [],
-    [],
+    [
+      {
+        "aid": "2247528437_1",
+        "appmsgid": 2247528437,
+        "from": "程序员成长指北",
+        "title": "工具浪潮下 Babel 的定位与未来演进！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528437&idx=1&sn=e0ae498850d44acc76c7dab772055df2&chksm=f9926924cee5e0322193f298eae8f0d45d32ee0586d9045ac607e4234bbd23ddbad361cccf93#rd",
+        "create_time": 1764041277,
+        "update_time": 1764042540
+      },
+      {
+        "aid": "2651277986_1",
+        "appmsgid": 2651277986,
+        "from": "前端早读课",
+        "title": "【第3617期】DNS 解析的成本",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277986&idx=1&sn=4063489bced887279279bf63bab31739&chksm=bd4893268a3f1a30f115dbc59c6bcd36947cf60c7c5eaf95a50ab74c62860b52c0775958c25c#rd",
+        "create_time": 1764025997,
+        "update_time": 1764032400
+      },
+      {
+        "aid": "2247517561_1",
+        "appmsgid": 2247517561,
+        "from": "奇舞精选",
+        "title": "Agent全面爆发！一文搞懂Agent开发核心链路",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517561&idx=1&sn=9bbaa39ce160989e21730554e4aab02a&chksm=cf61a053f8162945ade6bc2a67d743fc63ae4fd15406418a3ce0346c8254419dfe6475cb012b#rd",
+        "create_time": 1764062468,
+        "update_time": 1764066300
+      }
+    ],
+    [
+      {
+        "aid": "2651277995_1",
+        "appmsgid": 2651277995,
+        "from": "前端早读课",
+        "title": "【第3618期】React 19.2：步入「Sigma」时代",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277995&idx=1&sn=4597002bb82c8995bbdbb6e94ee323b6&chksm=bd48932f8a3f1a39c9561bfd7f0335f17241f6ca735d83ebe5024fad0a2d5719a7abb245d3d4#rd",
+        "create_time": 1764113471,
+        "update_time": 1764118800
+      },
+      {
+        "aid": "2651277995_2",
+        "appmsgid": 2651277995,
+        "from": "前端早读课",
+        "title": "12月20日，FEDAY 2025，长沙见【前端，不止于 AI。】",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277995&idx=2&sn=59cda3825fbfcb4d9b48ef0d884b1a07&chksm=bd48932f8a3f1a39d262e2e298943608c78fc49c32946e8a16469bafe9583dd77130b637e5f1#rd",
+        "create_time": 1764113471,
+        "update_time": 1764118800
+      }
+    ],
     [],
     [],
     [],
