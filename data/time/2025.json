@@ -13835,6 +13835,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517485&idx=1&sn=ba099b9d729d318b80b0cba2fca72122&chksm=cf61a007f81629119e7a20601adcc2676a1eaa0896fcc0a8e6111ea10bb20af1f918df5bb519#rd",
         "create_time": 1762831148,
         "update_time": 1762855200
+      },
+      {
+        "aid": "2247506117_1",
+        "appmsgid": 2247506117,
+        "from": "字节前端 ByteFE",
+        "title": "豆包-应用生成「一点都不技术」创作挑战赛开启，20 万奖池等你解锁！",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506117&idx=1&sn=12d55f5997d80ba0bd62340d5a678cf7&chksm=cea96fc4f9dee6d26238dc73e2f37486c0b2f5688bb22ea3032ba6826b73c7ab0c7876f47318#rd",
+        "create_time": 1762828292,
+        "update_time": 1762833600
       }
     ],
     [
@@ -14074,6 +14083,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541948&idx=1&sn=99c44ca3235744eeb090fb63c6aa9769&chksm=8390c764b4e74e72100a3f9db852b376a26038278abef0ec29e722f437e9f051587db588a6c7#rd",
         "create_time": 1763543672,
         "update_time": 1763543672
+      },
+      {
+        "aid": "2247506123_1",
+        "appmsgid": 2247506123,
+        "from": "字节前端 ByteFE",
+        "title": "和“动物塑”创作者面对面！豆包-应用生成“一点都不技术”挑战赛的创作分享来啦",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506123&idx=1&sn=469d203c58b7734f580c0a0fc622e1c3&chksm=cea96fcaf9dee6dc48075a1cb7e56be8752cfe5c0fc82d1912e1abb4b6b0bfa80a7c5ac6f7b7#rd",
+        "create_time": 1763554677,
+        "update_time": 1763564700
       }
     ],
     [
@@ -14286,9 +14304,55 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277995&idx=2&sn=59cda3825fbfcb4d9b48ef0d884b1a07&chksm=bd48932f8a3f1a39d262e2e298943608c78fc49c32946e8a16469bafe9583dd77130b637e5f1#rd",
         "create_time": 1764113471,
         "update_time": 1764118800
+      },
+      {
+        "aid": "2247528439_1",
+        "appmsgid": 2247528439,
+        "from": "程序员成长指北",
+        "title": "当 AI 走进前端开发：代理插件的全流程开发实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528439&idx=1&sn=664562629b8007d6875a8e45ef6df182&chksm=f9926926cee5e030b2cd302787229da77146f14db729ed7d37cef61da1bd5d0207983200219c#rd",
+        "create_time": 1764129482,
+        "update_time": 1764129482
+      },
+      {
+        "aid": "2247517568_1",
+        "appmsgid": 2247517568,
+        "from": "奇舞精选",
+        "title": "我用 Chrome 扩展验证了 MCP 的安全风险，结果发现......",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517568&idx=1&sn=dede49fbc3ebc7e1a021d2102e400f78&chksm=cf61a0aaf81629bc76cadfacf9b824dceddea4932ce9874a2c1ac035376b2692638232f98330#rd",
+        "create_time": 1764141434,
+        "update_time": 1764152400
       }
     ],
-    [],
+    [
+      {
+        "aid": "2247528452_1",
+        "appmsgid": 2247528452,
+        "from": "程序员成长指北",
+        "title": "Ant Design 6.0 来了！这一次它终于想通了什么？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528452&idx=1&sn=c955872543d5738c6dd24f48c83b61af&chksm=f99276d5cee5ffc323b6c8599844d032167db6bfa75f208d19a58ac8098f8353276c6c99b62c#rd",
+        "create_time": 1764215472,
+        "update_time": 1764215471
+      },
+      {
+        "aid": "2651278003_1",
+        "appmsgid": 2651278003,
+        "from": "前端早读课",
+        "title": "【第3619期】让字距随字体自适应变化的 CSS 技巧",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278003&idx=1&sn=72f8517f9201eabd058015706fcacc14&chksm=bd4893378a3f1a218f7a6110dd30a2f6f2f8a9376e12ffe3a164ea39c3b8007d7f111232c74f#rd",
+        "create_time": 1764199526,
+        "update_time": 1764205200
+      },
+      {
+        "aid": "2247517579_1",
+        "appmsgid": 2247517579,
+        "from": "奇舞精选",
+        "title": "知识库（Knowledge Base）与知识图谱（Knowledge Graph）到底该怎么选？",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517579&idx=1&sn=542892f01adb7567cfb74461fb781028&chksm=cf61a0a1f81629b7f2af5a7fde961bc5c7cf1a41b4f9496c58397bbbb92d690c9b1b71b0d1f5#rd",
+        "create_time": 1764214616,
+        "update_time": 1764239580
+      }
+    ],
     [],
     [],
     [],
