@@ -1,5 +1,32 @@
 [
   {
+    "aid": "2651278071_1",
+    "appmsgid": 2651278071,
+    "from": "前端早读课",
+    "title": "【第3622期】深入浅出：用 URLPattern 打造轻量级 SPA 路由",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278071&idx=1&sn=3bc9e4bb8bdd2e318b79450b8779891c&chksm=bd4893738a3f1a65a4eb9408701084f4d6b4862a91e8deff4955f9b141142cf89f1145bf41aa#rd",
+    "create_time": 1764890661,
+    "update_time": 1764896400
+  },
+  {
+    "aid": "2651278066_1",
+    "appmsgid": 2651278066,
+    "from": "前端早读课",
+    "title": "【早阅】10倍工程：生成式AI工具如何转团队生产力",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278066&idx=1&sn=172add087fcbee6363473f6aa82f78ed&chksm=bd4893768a3f1a60ecf609d3216d85f6bc5fee5ef2b02a2674e08f4c15e95f0424abea7d4c65#rd",
+    "create_time": 1764804359,
+    "update_time": 1764810000
+  },
+  {
+    "aid": "2651278059_1",
+    "appmsgid": 2651278059,
+    "from": "前端早读课",
+    "title": "【第3621期】浅谈 AI 搜索前端打字机效果的实现方案演进",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278059&idx=1&sn=5a5447da3d7484b5b9d7178a3aa36ad9&chksm=bd48936f8a3f1a798972a5afdc1c669c6de3a10bde6dfb678dc9174fb6fb7129e61f18de3fc6#rd",
+    "create_time": 1764717847,
+    "update_time": 1764723600
+  },
+  {
     "aid": "2651278041_1",
     "appmsgid": 2651278041,
     "from": "前端早读课",
