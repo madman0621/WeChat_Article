@@ -1,5 +1,41 @@
 [
   {
+    "aid": "2247504660_1",
+    "appmsgid": 2247504660,
+    "from": "大转转FE",
+    "title": "转转前端周刊第178期: 如何用Claude Code 生成顶级UI",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504660&idx=1&sn=23698a3ca444e12a98c26d98013e15d5&chksm=fbb658ddccc1d1cbba90e82e19a4ed52e047b249e36b82d52b81cd4ec4e2db59b6a6ba92ad82#rd",
+    "create_time": 1765118388,
+    "update_time": 1765155600
+  },
+  {
+    "aid": "2247504657_1",
+    "appmsgid": 2247504657,
+    "from": "大转转FE",
+    "title": "🧭 浏览器自动化革命：从 Selenium 到 AI Browser 的 20 年进化史",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504657&idx=1&sn=3c92f8b3dfc8b119340d2e2bdce86866&chksm=fbb658d8ccc1d1ceb7939ec3bcee0048dc0d4861e7bfc62a5d5bd93b67ad6c47a8e30924e5a9#rd",
+    "create_time": 1764763410,
+    "update_time": 1764813600
+  },
+  {
+    "aid": "2247504622_1",
+    "appmsgid": 2247504622,
+    "from": "大转转FE",
+    "title": "转转前端周刊第177期: 从Prd到代码生成",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504622&idx=1&sn=0d443089031171e50de9740f158ca588&chksm=fbb65927ccc1d031770551eec7b8eee61b90757fc71c91d64c1575ba4328946046985f02763f#rd",
+    "create_time": 1764509402,
+    "update_time": 1764550800
+  },
+  {
+    "aid": "2247504619_1",
+    "appmsgid": 2247504619,
+    "from": "大转转FE",
+    "title": "VDOM 编年史",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504619&idx=1&sn=25d8001f84c0b43c3566ece8f023a6b6&chksm=fbb65922ccc1d034434df95dfa6e0e2d58762f0469b64fd9044ca59eb7b77d76747d2bd3ead9#rd",
+    "create_time": 1764059075,
+    "update_time": 1764122400
+  },
+  {
     "aid": "2247504535_1",
     "appmsgid": 2247504535,
     "from": "大转转FE",

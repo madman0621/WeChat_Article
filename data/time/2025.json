@@ -14293,6 +14293,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517561&idx=1&sn=9bbaa39ce160989e21730554e4aab02a&chksm=cf61a053f8162945ade6bc2a67d743fc63ae4fd15406418a3ce0346c8254419dfe6475cb012b#rd",
         "create_time": 1764062468,
         "update_time": 1764066300
+      },
+      {
+        "aid": "2247504619_1",
+        "appmsgid": 2247504619,
+        "from": "大转转FE",
+        "title": "VDOM 编年史",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504619&idx=1&sn=25d8001f84c0b43c3566ece8f023a6b6&chksm=fbb65922ccc1d034434df95dfa6e0e2d58762f0469b64fd9044ca59eb7b77d76747d2bd3ead9#rd",
+        "create_time": 1764059075,
+        "update_time": 1764122400
       }
     ],
     [
@@ -14438,6 +14447,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623396&idx=1&sn=6bb86e02957d83b0ef19751372bcea7f&chksm=80225825b755d133ef53e33aa3138b1c63ba8d2837bb7fc2207069de3b4a59d31a9823554a9a#rd",
         "create_time": 1764474948,
         "update_time": 1764475200
+      },
+      {
+        "aid": "2247504622_1",
+        "appmsgid": 2247504622,
+        "from": "大转转FE",
+        "title": "转转前端周刊第177期: 从Prd到代码生成",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504622&idx=1&sn=0d443089031171e50de9740f158ca588&chksm=fbb65927ccc1d031770551eec7b8eee61b90757fc71c91d64c1575ba4328946046985f02763f#rd",
+        "create_time": 1764509402,
+        "update_time": 1764550800
       }
     ],
     []
@@ -14537,6 +14555,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623418&idx=1&sn=7c3f560db0837b29a5d6bbd301c9ea0b&chksm=8022583bb755d12dc363cac45da9c130fa6c9c84b4c5171e9552ea7e64947e5f70ef1f919aa3#rd",
         "create_time": 1764720022,
         "update_time": 1764720600
+      },
+      {
+        "aid": "2247504657_1",
+        "appmsgid": 2247504657,
+        "from": "大转转FE",
+        "title": "🧭 浏览器自动化革命：从 Selenium 到 AI Browser 的 20 年进化史",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504657&idx=1&sn=3c92f8b3dfc8b119340d2e2bdce86866&chksm=fbb658d8ccc1d1ceb7939ec3bcee0048dc0d4861e7bfc62a5d5bd93b67ad6c47a8e30924e5a9#rd",
+        "create_time": 1764763410,
+        "update_time": 1764813600
       }
     ],
     [
@@ -14644,7 +14671,17 @@
         "update_time": 1764990033
       }
     ],
-    [],
+    [
+      {
+        "aid": "2247504660_1",
+        "appmsgid": 2247504660,
+        "from": "大转转FE",
+        "title": "转转前端周刊第178期: 如何用Claude Code 生成顶级UI",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504660&idx=1&sn=23698a3ca444e12a98c26d98013e15d5&chksm=fbb658ddccc1d1cbba90e82e19a4ed52e047b249e36b82d52b81cd4ec4e2db59b6a6ba92ad82#rd",
+        "create_time": 1765118388,
+        "update_time": 1765155600
+      }
+    ],
     [
       {
         "aid": "2651623475_1",
@@ -14663,9 +14700,46 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623475&idx=2&sn=502e8eea994a373f9f92d76582df70a2&chksm=802247f2b755cee49541e1c3585dfe2118a0f671503fe488f84397958ee769e6969444b89144#rd",
         "create_time": 1765152716,
         "update_time": 1765152960
+      },
+      {
+        "aid": "2651278080_1",
+        "appmsgid": 2651278080,
+        "from": "前端早读课",
+        "title": "【早阅】深入理解 Web Components：如何利用自定义元素和 Shadow DOM 打造可复用表单组件？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278080&idx=1&sn=8c662524c3c1d64fff6d988898dbe8bd&chksm=bd4892848a3f1b92cccdd3cdcd0809e1218cfc697a3abe2cac687c92d1e0cca8781bbcd4056c#rd",
+        "create_time": 1765149307,
+        "update_time": 1765155600
+      },
+      {
+        "aid": "2247517602_1",
+        "appmsgid": 2247517602,
+        "from": "奇舞精选",
+        "title": "Vercel AI SDK：构建现代 Web AI 应用指南",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517602&idx=1&sn=c92e5dd68da3cf8d61eefcf5ad407192&chksm=cf61a088f816299e6edcb13b98f1428eaa2aa54a12e1e492d741757cc64d1fb081e78f5c559f#rd",
+        "create_time": 1765179339,
+        "update_time": 1765188000
+      },
+      {
+        "aid": "2650542021_1",
+        "appmsgid": 2650542021,
+        "from": "大淘宝技术",
+        "title": "2025淘宝直播双11花花乐动画实现方案思考&分享",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542021&idx=1&sn=7a6602a2f66c962b2d69934938727815&chksm=8390c7ddb4e74ecb7260738532c8257c0dde2b6a491ac68acddcf475b0bcab9abf3d75a88202#rd",
+        "create_time": 1765184489,
+        "update_time": 1765184489
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651278107_1",
+        "appmsgid": 2651278107,
+        "from": "前端早读课",
+        "title": "【第3623期】从混乱到纯净：用 Effect System 重塑你的 JS 架构",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278107&idx=1&sn=93a5e42214119670b46eb3168701e2d4&chksm=bd48929f8a3f1b89b5a2bd2dd0a5302ae2363c7c9cef64c02180a789f77125c44f971f5bb74c#rd",
+        "create_time": 1765235292,
+        "update_time": 1765242000
+      }
+    ],
     [],
     [],
     [],
