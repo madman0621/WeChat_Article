@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2651278138_1",
+    "appmsgid": 2651278138,
+    "from": "前端早读课",
+    "title": "【第3624期】SVG Filters - Clickjacking 2.0：一种全新的网络攻击技术",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278138&idx=1&sn=695b4035b94470500180e5e1215d108c&chksm=bd4892be8a3f1ba8e5148533b3ebc1f5f36853ce04658b40b6b62af76d520560c6d19ce7a4c3#rd",
+    "create_time": 1765411079,
+    "update_time": 1765414800
+  },
+  {
+    "aid": "2651278125_1",
+    "appmsgid": 2651278125,
+    "from": "前端早读课",
+    "title": "【早阅】复杂代码库中的AI提效秘籍：如何通过上下文工程避开大模型的“愚蠢区”",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278125&idx=1&sn=689d86070f1fcdc4534398b94e55b494&chksm=bd4892a98a3f1bbf12cb7f38d45c395f29a653c5fd9d52f81cd5ac9c0194a0355f173d38725c#rd",
+    "create_time": 1765323177,
+    "update_time": 1765328400
+  },
+  {
     "aid": "2651278107_1",
     "appmsgid": 2651278107,
     "from": "前端早读课",
