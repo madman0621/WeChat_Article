@@ -14886,6 +14886,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517614&idx=1&sn=e82c2de57f7a905e1bc84831fc65d43a&chksm=cf61a084f8162992452b5d127003ec53a81afd88e722f66fc983f71558d35222bd70a5b9a2e6#rd",
         "create_time": 1765438133,
         "update_time": 1765447200
+      },
+      {
+        "aid": "2247503836_1",
+        "appmsgid": 2247503836,
+        "from": "哔哩哔哩技术",
+        "title": "从JS云函数到MCP：打造跨平台AI Agent工具的工程实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503836&idx=1&sn=d84b2e1c6ce9330751cd4d58b3ec32ef&chksm=cf2f0af9f85883ef267c23db61663f8ea74e939373e5b8ad7096fd1c5bf3f83b0043f62e84b1#rd",
+        "create_time": 1765457960,
+        "update_time": 1765512000
       }
     ],
     [
@@ -14920,7 +14929,35 @@
       }
     ],
     [],
-    [],
+    [
+      {
+        "aid": "2247528586_1",
+        "appmsgid": 2247528586,
+        "from": "程序员成长指北",
+        "title": "为什么95%的前端开发人员在系统设计面试中失败",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528586&idx=1&sn=083d802b453eaa6ae15e2e84a592993c&chksm=f992765bcee5ff4d7048ea1dd4d5bcfe0e8bf3106de2f4c510da0e150ba483a95fb577157453#rd",
+        "create_time": 1765772462,
+        "update_time": 1765772462
+      },
+      {
+        "aid": "2651278175_1",
+        "appmsgid": 2651278175,
+        "from": "前端早读课",
+        "title": "【第3625期】写 TypeScript 不等于安全：边界设计才是关键",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278175&idx=1&sn=2da60babc2929aa6137423c66bf21839&chksm=bd4892db8a3f1bcdc130bb3f4010365cf1a994d74f5a087aff46388c4065e57b90b58873c18f#rd",
+        "create_time": 1765754631,
+        "update_time": 1765760400
+      },
+      {
+        "aid": "2650542043_1",
+        "appmsgid": 2650542043,
+        "from": "大淘宝技术",
+        "title": "AI编码实践：从Vibe Coding到SDD",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542043&idx=1&sn=2da4173e8fc94e55f31ffd01f4f8f67a&chksm=8390c7c3b4e74ed58f454c08b63b7ab674c672e0432a0b9ebac6bc4819024196d4d9712bc726#rd",
+        "create_time": 1765792033,
+        "update_time": 1765792032
+      }
+    ],
     [],
     [],
     [],
