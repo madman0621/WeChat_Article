@@ -1,5 +1,32 @@
 [
   {
+    "aid": "2247517647_1",
+    "appmsgid": 2247517647,
+    "from": "奇舞精选",
+    "title": "奇舞周刊第576期：AI在泛前端领域的思考和实践-上篇",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517647&idx=1&sn=df753f1e4d3a6c505b63f608d7644bcb&chksm=cf61a0e5f81629f3bb8cb7fb9bdc05adbf4164ddcf09b5c4c135f798f0c4c21e10f3d4c41955#rd",
+    "create_time": 1766131308,
+    "update_time": 1766131308
+  },
+  {
+    "aid": "2247517643_1",
+    "appmsgid": 2247517643,
+    "from": "奇舞精选",
+    "title": "Antigravity-氛围感编码之死",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517643&idx=1&sn=3c2ff639bb8d50050a887a7082d0853e&chksm=cf61a0e1f81629f7e214b438b9a7a4be69079b791c59bce66042a4240af988d05a06cb925302#rd",
+    "create_time": 1766053071,
+    "update_time": 1766053920
+  },
+  {
+    "aid": "2247517623_1",
+    "appmsgid": 2247517623,
+    "from": "奇舞精选",
+    "title": "性能突破：WebGPU + WebAssembly（WASM）技术深度解析",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517623&idx=1&sn=61d603600796fa4b237a8a90402659e5&chksm=cf61a09df816298bdf00d870c4053636299c2e0e610638c6d073d43819e90bb8c87d9e19be4f#rd",
+    "create_time": 1765964249,
+    "update_time": 1765967880
+  },
+  {
     "aid": "2247517616_1",
     "appmsgid": 2247517616,
     "from": "奇舞精选",

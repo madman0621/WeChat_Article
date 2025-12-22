@@ -1,5 +1,32 @@
 [
   {
+    "aid": "2651278216_1",
+    "appmsgid": 2651278216,
+    "from": "前端早读课",
+    "title": "【早阅】从Vibe Coding到Vibe Engineering：LLM时代开发者的生存法则",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278216&idx=1&sn=a35f1a3a919a834c82c3e2e8faa1d8c4&chksm=bd48920c8a3f1b1a960f1242ac1a0752feb09613192037bc9604bbde9ec12adcf829215e0977#rd",
+    "create_time": 1766103349,
+    "update_time": 1766106000
+  },
+  {
+    "aid": "2651278210_1",
+    "appmsgid": 2651278210,
+    "from": "前端早读课",
+    "title": "【第3627期】从媒体查询到样式查询：Chrome 142 如何让 CSS 更懂“数值”",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278210&idx=1&sn=64ba5c14880aae308f0e311a22024cc6&chksm=bd4892068a3f1b10852f659ec8544a76e043354f303c0e30c45d5f451dd260f14a3027ccd08e#rd",
+    "create_time": 1766013472,
+    "update_time": 1766019600
+  },
+  {
+    "aid": "2651278196_1",
+    "appmsgid": 2651278196,
+    "from": "前端早读课",
+    "title": "【早阅】氛围编程：AI 幻觉让你错失 20% 实际生产力，并累积巨额技术债务！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278196&idx=1&sn=6f699934e9709252fde77db6624a3065&chksm=bd4892f08a3f1be66f72bf64669739cbfd3e24bfd3023dd5ea57bb7bd35d29f9a29e1fa3dd26#rd",
+    "create_time": 1765927479,
+    "update_time": 1765933200
+  },
+  {
     "aid": "2651278180_1",
     "appmsgid": 2651278180,
     "from": "前端早读课",
