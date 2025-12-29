@@ -14931,6 +14931,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503836&idx=1&sn=d84b2e1c6ce9330751cd4d58b3ec32ef&chksm=cf2f0af9f85883ef267c23db61663f8ea74e939373e5b8ad7096fd1c5bf3f83b0043f62e84b1#rd",
         "create_time": 1765457960,
         "update_time": 1765512000
+      },
+      {
+        "aid": "2247504703_1",
+        "appmsgid": 2247504703,
+        "from": "大转转FE",
+        "title": "别再只会“配个 Webpack”了：前端工程化全景图和主流打包工具深度对比",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504703&idx=1&sn=0e1957133c3e186d69b9017f7305e089&chksm=fbb658f6ccc1d1e0ab4af749fe951a316c3055d68c71dd321a13800d2278c88dfb2ea1835027#rd",
+        "create_time": 1765460381,
+        "update_time": 1765504800
       }
     ],
     [
@@ -14960,6 +14969,24 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623513&idx=1&sn=8625e6907af8e112d66a5747e52490d1&chksm=80224798b755ce8e6ecdda9e664877f9d7030d3786d155b75ad4a1150f446a6cda8a685f76da#rd",
         "create_time": 1765496870,
         "update_time": 1765499400
+      },
+      {
+        "aid": "2247504705_1",
+        "appmsgid": 2247504705,
+        "from": "大转转FE",
+        "title": "别再只会“配个 Webpack”了：前端工程化全景图和主流打包工具深度对比",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504705&idx=1&sn=0083e4e6954b847bb405807c5ff4dd83&chksm=fbb65888ccc1d19e9695f4d6279707cfe1d397f031b3c137267e2884d92cd419ce15a4ed5928#rd",
+        "create_time": 1765530800,
+        "update_time": 1765530800
+      },
+      {
+        "aid": "2247504704_1",
+        "appmsgid": 2247504704,
+        "from": "大转转FE",
+        "title": "别再只会“配个 Webpack”了：前端工程化全景图和主流打包工具深度对比",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504704&idx=1&sn=8b28c6c9a377ea5bfa66a1945b4a88ac&chksm=fbb65889ccc1d19f2a425b022e4124dc9e4500a8191ff9b3e143863381a199f8e3fa33b0811b#rd",
+        "create_time": 1765506312,
+        "update_time": 1765506312
       }
     ],
     [
@@ -14973,7 +15000,17 @@
         "update_time": 1765597200
       }
     ],
-    [],
+    [
+      {
+        "aid": "2247504708_1",
+        "appmsgid": 2247504708,
+        "from": "大转转FE",
+        "title": "转转前端周刊第179期: 2025淘宝直播双11花花乐动画实现方案思考&分享",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504708&idx=1&sn=3ec952ed39f4f534f5480f127b642e8c&chksm=fbb6588dccc1d19b8b35686b0684a811dc6d16802c1e9ccd1b41ce1ed21a059c864235b33f02#rd",
+        "create_time": 1765704292,
+        "update_time": 1765760400
+      }
+    ],
     [
       {
         "aid": "2247528586_1",
@@ -15086,6 +15123,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517623&idx=1&sn=61d603600796fa4b237a8a90402659e5&chksm=cf61a09df816298bdf00d870c4053636299c2e0e610638c6d073d43819e90bb8c87d9e19be4f#rd",
         "create_time": 1765964249,
         "update_time": 1765967880
+      },
+      {
+        "aid": "2247504723_1",
+        "appmsgid": 2247504723,
+        "from": "大转转FE",
+        "title": "前端开发应了解的浏览器背后的黑科技",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504723&idx=1&sn=39242d7168bf53da02444462a4fd1950&chksm=fbb6589accc1d18c636fc733089936dbb42042f2295344b33a0ac171591c6b7473b7789e8ea2#rd",
+        "create_time": 1765974296,
+        "update_time": 1766023800
       }
     ],
     [
@@ -15183,7 +15229,17 @@
       }
     ],
     [],
-    [],
+    [
+      {
+        "aid": "2247504726_1",
+        "appmsgid": 2247504726,
+        "from": "大转转FE",
+        "title": "转转前端周刊第180期: 2025 年 RAG 技术年终总结",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504726&idx=1&sn=2d3c15fa538dac4233323ba3cf17e39b&chksm=fbb6589fccc1d1892a6a5402da5b16c11c74d72fe43d344e5aa37215d74cd0489f58b6be1f04#rd",
+        "create_time": 1766326516,
+        "update_time": 1766365200
+      }
+    ],
     [
       {
         "aid": "2651623557_1",
@@ -15202,15 +15258,156 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623557&idx=2&sn=229c58547357a584f48d2f10651688ec&chksm=80224744b755ce528160e518c5dd7b7b635d9fbf87af16b9feb6447ff0dc16a6774ef7d7154a#rd",
         "create_time": 1766361538,
         "update_time": 1766362200
+      },
+      {
+        "aid": "2247528659_1",
+        "appmsgid": 2247528659,
+        "from": "程序员成长指北",
+        "title": "我写了一个超级简单的浏览器插件Vue开发模板",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528659&idx=1&sn=9e055a98475aa14ba0189323b96e0483&chksm=f9927602cee5ff141c026c9c66ffeb8e4a2d3c848fc8887cff23d25f4b6f69726ef75c82dfdd#rd",
+        "create_time": 1766373971,
+        "update_time": 1766375400
+      },
+      {
+        "aid": "2651278223_1",
+        "appmsgid": 2651278223,
+        "from": "前端早读课",
+        "title": "【第3628期】默认参数：写出更简洁、更安全的函数代码",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278223&idx=1&sn=f7fa67b2ad3477766a8df709d3ee5789&chksm=bd48920b8a3f1b1d7ab8bbdce88fa1bb67a99c9e9c509fb0288a306aa8b2995a0a61b412d9e7#rd",
+        "create_time": 1766362519,
+        "update_time": 1766365200
+      },
+      {
+        "aid": "2650542164_1",
+        "appmsgid": 2650542164,
+        "from": "大淘宝技术",
+        "title": "从代码生成到自主决策：打造一个Coding驱动的“自我编程”Agent",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542164&idx=1&sn=6db14a557f822f58df04ade3d2121572&chksm=8390d84cb4e7515ae7f95e337c4b7ff6b5c5aae114aef826ec809386164fe0f67bc75a1b9b4b#rd",
+        "create_time": 1766396893,
+        "update_time": 1766396893
+      }
+    ],
+    [
+      {
+        "aid": "2247528668_1",
+        "appmsgid": 2247528668,
+        "from": "程序员成长指北",
+        "title": "CSS if() 函数上线啦！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528668&idx=1&sn=1587f30ba73cecbdff86eab41dbd110f&chksm=f992760dcee5ff1b18a895a5329e1bd79728201b2d3f34f3c214d91ac29eae14bd24df1dd7a2#rd",
+        "create_time": 1766461847,
+        "update_time": 1766461847
+      },
+      {
+        "aid": "2651278227_1",
+        "appmsgid": 2651278227,
+        "from": "前端早读课",
+        "title": "【第3629期】2025版现代 Node.js 开发模式",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278227&idx=1&sn=15f7d73db285cdb284e2a5bfd0aee702&chksm=bd4892178a3f1b013be5154a79f506f943836da29790b081ff0d654d3f6ef8793f867a9028ad#rd",
+        "create_time": 1766445177,
+        "update_time": 1766451600
+      },
+      {
+        "aid": "2247504764_1",
+        "appmsgid": 2247504764,
+        "from": "大转转FE",
+        "title": "基于微前端 qiankun 多实例保活的工程实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504764&idx=1&sn=cdda1353fb26c39f214edf1395ce49e2&chksm=fbb658b5ccc1d1a3b51701d6fc8ab2b092054c6e8a57043af6b45320f20a3a061a7da1399372#rd",
+        "create_time": 1766491316,
+        "update_time": 1766538000
+      }
+    ],
+    [
+      {
+        "aid": "2247528681_1",
+        "appmsgid": 2247528681,
+        "from": "程序员成长指北",
+        "title": "一种新HTML页面转换成 PDF 技术方案",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528681&idx=1&sn=c78a15d86c9379404c2c28f0c95c1f88&chksm=f9927638cee5ff2e1dfacb4ba7ca124f1a54b6112b6a67b0dd56c51852d43a1b7764c0064fac#rd",
+        "create_time": 1766549992,
+        "update_time": 1766549991
+      },
+      {
+        "aid": "2651278232_1",
+        "appmsgid": 2651278232,
+        "from": "前端早读课",
+        "title": "【第3630期】从依赖到原生：15 个 Node.js 新特性提升开发效率与安全性",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278232&idx=1&sn=d4c12993848286edfac7b9a0baa4c0ad&chksm=bd48921c8a3f1b0ac38784fd142e7be23ac79c2cadf987169d32de762bcd5486af95c230fa42#rd",
+        "create_time": 1766532164,
+        "update_time": 1766538000
+      },
+      {
+        "aid": "2650542238_1",
+        "appmsgid": 2650542238,
+        "from": "大淘宝技术",
+        "title": "AI 辅助前端动画开发",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542238&idx=1&sn=cd1abf99bd651f4e7c891d9d4c9905f8&chksm=8390d886b4e7519059b1e74cd1201abce73921406d5737efb221782a4e3aa7300fc51ac82ef5#rd",
+        "create_time": 1766569749,
+        "update_time": 1766569749
+      }
+    ],
+    [
+      {
+        "aid": "2247528688_1",
+        "appmsgid": 2247528688,
+        "from": "程序员成长指北",
+        "title": "浅谈 AI 搜索前端打字机效果的实现方案演进",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528688&idx=1&sn=5c3c0721d61fc7af8293735ff46238b6&chksm=f9927621cee5ff372e1564cf058c1ef4cab92afa31e3c06b64de441a8f3260b564c847e21856#rd",
+        "create_time": 1766634237,
+        "update_time": 1766634600
+      },
+      {
+        "aid": "2651278239_1",
+        "appmsgid": 2651278239,
+        "from": "前端早读课",
+        "title": "【第3631期】No-Vary-Search：用一个新 HTTP 头拯救你的缓存性能！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278239&idx=1&sn=713d01d28d51c2f060ac516ddd8556f8&chksm=bd48921b8a3f1b0df3ec7a00ce928d0f47b7f40f00078c55e3f330bcf8018ffcf18383708e71#rd",
+        "create_time": 1766623507,
+        "update_time": 1766624400
+      }
+    ],
+    [
+      {
+        "aid": "2651278272_1",
+        "appmsgid": 2651278272,
+        "from": "前端早读课",
+        "title": "【早阅】谁才是你的 AI 职场搭档？这份数据告诉你答案",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278272&idx=1&sn=7ca1a5f5d8554c86449b75c417c569e3&chksm=bd4892448a3f1b520a33a4467e320cca9b92dbadc728b659cfdecc26273a3397d01fad6dbf3d#rd",
+        "create_time": 1766711096,
+        "update_time": 1766711096
+      },
+      {
+        "aid": "2247517651_1",
+        "appmsgid": 2247517651,
+        "from": "奇舞精选",
+        "title": "奇舞周刊第577期：教你从零“手搓”一个大模型，别再只会调用API了",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517651&idx=1&sn=7b5c19b477a2c65b4ca85f5800e6f71e&chksm=cf61a0f9f81629efa6a3d8f9eac6fe984f073a95dc7b8797aacfdcc2441f4183f08c6c02823b#rd",
+        "create_time": 1766735843,
+        "update_time": 1766735843
       }
     ],
     [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
+    [
+      {
+        "aid": "2247504767_1",
+        "appmsgid": 2247504767,
+        "from": "大转转FE",
+        "title": "转转前端周刊第181期: AI 辅助前端动画开发",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504767&idx=1&sn=e499ca01dd11ca9ee38ef03a3afab316&chksm=fbb658b6ccc1d1a08b1edbef5a9763af1676cb491f63ca4aaca10fa8f354ff8c24fee68b4a97#rd",
+        "create_time": 1766934342,
+        "update_time": 1766970000
+      }
+    ],
+    [
+      {
+        "aid": "2651278276_1",
+        "appmsgid": 2651278276,
+        "from": "前端早读课",
+        "title": "【第3632期】真相揭秘：JavaScript 中根本没有真正的“取消异步”",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278276&idx=1&sn=3f36efc7cba4f4d0e2108117f7d66f69&chksm=bd4892408a3f1b56c986014ea7313f47ec7732dfab2901988c47e5f148eb300d5499f67a1eec#rd",
+        "create_time": 1766964699,
+        "update_time": 1766970000
+      }
+    ],
     [],
     []
   ]
