@@ -1,3 +1,4 @@
+2025-12-26 18:14:59 [用 NAudio 做一个音频播放器及原理](http://mp.weixin.qq.com/s?__biz=Mzg4OTkwMTY3Mg==&mid=2247488356&idx=1&sn=c6e6f785febf30d9ae3f906d279217c1&chksm=cfe59463f8921d750869b419d34111ad863a18c6d215bbc182b4cddcc99ddebc32434c099c54#rd)  
 2025-11-24 10:32:09 [用Demo理解Fiber](http://mp.weixin.qq.com/s?__biz=Mzg4OTkwMTY3Mg==&mid=2247488319&idx=1&sn=0b231aadbe98deb801e6b0031121e657&chksm=cfe59438f8921d2e9a9c5b0690d14eecbcf2e44bc2cd83a1073332ea059c1008266e300aa608#rd)  
 2025-11-07 15:35:12 [公司项目水太深，AI Agent它把握不住！](http://mp.weixin.qq.com/s?__biz=Mzg4OTkwMTY3Mg==&mid=2247488307&idx=1&sn=0e071064b23693005db1db8dfa3085f4&chksm=cfe59434f8921d22433be091eb179d27806136d3541dfdd6f14a2a82107c96f1dab2beb3a65e#rd)  
 2025-10-31 11:04:40 [快速掌握MCP精髓，让AI为我们提效](http://mp.weixin.qq.com/s?__biz=Mzg4OTkwMTY3Mg==&mid=2247488295&idx=1&sn=04904652f98e2457c008520cee10b2e1&chksm=cfe59420f8921d36800fd3f43883af5c6b8ce4dbc57c143c666b7a1511b1dbc4f562c577250b#rd)  

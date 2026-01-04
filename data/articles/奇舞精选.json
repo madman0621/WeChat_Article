@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2247517673_1",
+    "appmsgid": 2247517673,
+    "from": "奇舞精选",
+    "title": "Claude Code 配置 Figma MCP 实战指南",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517673&idx=1&sn=7e373b687eb01ea9c28cd509e44c6ccf&chksm=cf61a0c3f81629d527c7e3686cfe6647cdcea157a5f460d1f9ec7c88ac73882c76b3e80cf437#rd",
+    "create_time": 1766998625,
+    "update_time": 1767088800
+  },
+  {
+    "aid": "2247517669_1",
+    "appmsgid": 2247517669,
+    "from": "奇舞精选",
+    "title": "Milvus 向量数据库实战：从零构建高性能 RAG 系统",
+    "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517669&idx=1&sn=4d46e70975eb5b7d92b390f702035861&chksm=cf61a0cff81629d983aedc5d296fb2812549dcd76d01a176054697570722985978c1d1b8b4da#rd",
+    "create_time": 1766998420,
+    "update_time": 1767002400
+  },
+  {
     "aid": "2247517651_1",
     "appmsgid": 2247517651,
     "from": "奇舞精选",

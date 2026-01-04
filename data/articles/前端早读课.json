@@ -1,5 +1,32 @@
 [
   {
+    "aid": "2651278322_1",
+    "appmsgid": 2651278322,
+    "from": "前端早读课",
+    "title": "【第3634期】React Grab for Agents：让浏览器直接变成你的智能编码助手",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278322&idx=1&sn=c43cce27b410fbb89591247416026b52&chksm=bd4892768a3f1b607026eb85244f40e37a6dda65024e9a7239d0b08d3f3b8125512c0a85dace#rd",
+    "create_time": 1767483357,
+    "update_time": 1767488400
+  },
+  {
+    "aid": "2651278317_1",
+    "appmsgid": 2651278317,
+    "from": "前端早读课",
+    "title": "【第3633期】管理依赖，其实是管理工程思维",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278317&idx=1&sn=553ce6e2c4ea7e5969e1a05673b1e22a&chksm=bd4892698a3f1b7fe72d035d8a90832779390f0a925106b67e31d4194d985093772422217a9e#rd",
+    "create_time": 1767137286,
+    "update_time": 1767142800
+  },
+  {
+    "aid": "2651278292_1",
+    "appmsgid": 2651278292,
+    "from": "前端早读课",
+    "title": "【早阅】技术债治理手册：五步作战计划",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278292&idx=1&sn=bf2044a51442a2d8090f5a78180b2a05&chksm=bd4892508a3f1b46fc6275bf3039b84940eb2fa5e511188fd6f3f5cc3ddd1d6224ca13ee40a3#rd",
+    "create_time": 1767050289,
+    "update_time": 1767056400
+  },
+  {
     "aid": "2651278276_1",
     "appmsgid": 2651278276,
     "from": "前端早读课",
