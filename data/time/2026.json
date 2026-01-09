@@ -81,9 +81,46 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278364&idx=1&sn=0bbaa9b16eda03067396f840cdf1da4a&chksm=bd4895988a3f1c8ed7a48f706e8dd56e362e23a26ecc9cb6c1f9bae499c59410603e7a2b8723#rd",
         "create_time": 1767741863,
         "update_time": 1767747600
+      },
+      {
+        "aid": "2247528838_1",
+        "appmsgid": 2247528838,
+        "from": "程序员成长指北",
+        "title": "从失败中重生：一个 AI Agent 前端落地的真实复盘",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528838&idx=1&sn=61a2d1dc7d698b9f563b3de741301f10&chksm=f9927757cee5fe41c971cd869f2d22f7543423de7570ae26b1eac75011eb864e40c0eb9d6348#rd",
+        "create_time": 1767758729,
+        "update_time": 1767758729
+      },
+      {
+        "aid": "2650542372_1",
+        "appmsgid": 2650542372,
+        "from": "大淘宝技术",
+        "title": "GenAI输出内容控制的5种设计模式",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542372&idx=1&sn=2ce340a20243f07f5e8ff950539e7d61&chksm=8390d93cb4e7502a6fbdce1318fafe0c71bf092c8bc3ff3c393938f8ce535ba559620545bdb8#rd",
+        "create_time": 1767780998,
+        "update_time": 1767780998
       }
     ],
-    [],
+    [
+      {
+        "aid": "2247528897_1",
+        "appmsgid": 2247528897,
+        "from": "程序员成长指北",
+        "title": "浅谈 import.meta.env 和 process.env 的区别",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247528897&idx=1&sn=e2376b422982b6d06d72409e12feffde&chksm=f9927710cee5fe0698d7fad3b3474af024d6f52e994b5ccbb0dc301ae5ea2c4cf3366d476c33#rd",
+        "create_time": 1767845019,
+        "update_time": 1767845018
+      },
+      {
+        "aid": "2651278368_1",
+        "appmsgid": 2651278368,
+        "from": "前端早读课",
+        "title": "【第3638期】从 DevTools 到智能性能代理：用 AI 重塑前端性能分析的新方式",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278368&idx=1&sn=2fc907be01c3b32ada38b3fa9a4d2108&chksm=bd4895a48a3f1cb2397bb89c920c0f8176f7c01f9beddea9cbba09e50b88824398f6fde0744c#rd",
+        "create_time": 1767828596,
+        "update_time": 1767834000
+      }
+    ],
     [],
     [],
     [],
