@@ -346,20 +346,20 @@ if __name__ == '__main__':
         # getLastWeChatArticle(
         #     {"name": "前端早读课","fakeid": "MjM5MTA1MjAxMQ=="})
 
-        # for infoItem in weChatConfig:
-        #     gapNum = infoItem.get('gapNum',1)
-        #     gapDay = infoItem.get('gapDay',0)
-        #     if(gapNum >= gapDay):
-        #         getLastWeChatArticle(infoItem)
-        #         infoItem['gapNum'] = 1
-        #     else:
-        #         infoItem['gapNum'] = gapNum+1
-        # print('数据抓取完成')
+        for infoItem in weChatConfig:
+            gapNum = infoItem.get('gapNum',1)
+            gapDay = infoItem.get('gapDay',0)
+            if(gapNum >= gapDay):
+                getLastWeChatArticle(infoItem)
+                infoItem['gapNum'] = 1
+            else:
+                infoItem['gapNum'] = gapNum+1
+        print('数据抓取完成')
 
-        # # 更新配置信息
-        # with open('./config/index.json', 'w+', encoding='utf-8') as dataFile:
-        #     config['weChatInfo'] = weChatConfig
-        #     json.dump(config, dataFile, indent=2,ensure_ascii=False)
+        # 更新配置信息
+        with open('./config/index.json', 'w+', encoding='utf-8') as dataFile:
+            config['weChatInfo'] = weChatConfig
+            json.dump(config, dataFile, indent=2,ensure_ascii=False)
 
         # 日报输出（目前短链接服务不可用）
         # getDayInfo()
