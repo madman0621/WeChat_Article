@@ -1,5 +1,32 @@
 [
   {
+    "aid": "2651278454_1",
+    "appmsgid": 2651278454,
+    "from": "前端早读课",
+    "title": "【第3642期】document.currentScript：被忽视却超实用的前端小技巧",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278454&idx=1&sn=ddabfeba4caf5df58de80e05fc4d1a22&chksm=bd4895f28a3f1ce4adbb54be6bd8e8b81791c76c7e371455097d3867464b551a06ae5b8f05df#rd",
+    "create_time": 1768520035,
+    "update_time": 1768525200
+  },
+  {
+    "aid": "2651278454_2",
+    "appmsgid": 2651278454,
+    "from": "前端早读课",
+    "title": "【招聘】杭州古茗招P6前端工程师",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278454&idx=2&sn=5dfc313b9d4fc13cbc9179258c2a65b0&chksm=bd4895f28a3f1ce41a9a73ebaaa4e02456eda55c8aa9ffd26ddc3a2033955228c3425def398f#rd",
+    "create_time": 1768520035,
+    "update_time": 1768525200
+  },
+  {
+    "aid": "2651278442_1",
+    "appmsgid": 2651278442,
+    "from": "前端早读课",
+    "title": "【第3641期】AI 在编写 React 代码方面到底有多强？Addy Osmani的实战指南",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278442&idx=1&sn=d5a2eae3672d1efbd822968c21d5df05&chksm=bd4895ee8a3f1cf8488c09f865b7f44454f05df514b94c372356f1fd215f1c9da3162807d081#rd",
+    "create_time": 1768433034,
+    "update_time": 1768438800
+  },
+  {
     "aid": "2651278399_1",
     "appmsgid": 2651278399,
     "from": "前端早读课",
