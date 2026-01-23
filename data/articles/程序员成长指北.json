@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2247529051_1",
+    "appmsgid": 2247529051,
+    "from": "程序员成长指北",
+    "title": "AI辅助研发的落地实践：工具、效率与成长",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529051&idx=1&sn=f8b10d0d259d7ff83cb3ceb728486225&chksm=f992748acee5fd9c009354a64f11386bdc052a1ca9df3e754c7cfed1cb2c0703b8f2c3a4dc50#rd",
+    "create_time": 1769053993,
+    "update_time": 1769053992
+  },
+  {
+    "aid": "2247529005_1",
+    "appmsgid": 2247529005,
+    "from": "程序员成长指北",
+    "title": "还在无脑 .map().filter()？实测改用 Iterator Helpers 后，内存占用降低了 99%",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529005&idx=1&sn=1706e31c1a458b8305843d15ffa01090&chksm=f99274fccee5fdea9e918201b9fcf2aa82ef4366de1fa48f227f567ee169b1cfd48238006454#rd",
+    "create_time": 1768968153,
+    "update_time": 1768968153
+  },
+  {
     "aid": "2247528972_1",
     "appmsgid": 2247528972,
     "from": "程序员成长指北",

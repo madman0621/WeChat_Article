@@ -584,9 +584,64 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278496&idx=1&sn=c5f31a8bd1651c1426d76f2f4ac462eb&chksm=bd4895248a3f1c321d940267e91c8da9dea3885ada145b516d36d66b13f811cc4ec9dc0d17aa#rd",
         "create_time": 1768951325,
         "update_time": 1768957200
+      },
+      {
+        "aid": "2247529005_1",
+        "appmsgid": 2247529005,
+        "from": "程序员成长指北",
+        "title": "还在无脑 .map().filter()？实测改用 Iterator Helpers 后，内存占用降低了 99%",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529005&idx=1&sn=1706e31c1a458b8305843d15ffa01090&chksm=f99274fccee5fdea9e918201b9fcf2aa82ef4366de1fa48f227f567ee169b1cfd48238006454#rd",
+        "create_time": 1768968153,
+        "update_time": 1768968153
+      },
+      {
+        "aid": "2247517780_1",
+        "appmsgid": 2247517780,
+        "from": "奇舞精选",
+        "title": "一文带你上手 Skills：构建可复用的 AI 能力体系",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517780&idx=1&sn=dcd198f32fef2d7f15b2981fbd4ca21f&chksm=cf61a37ef8162a6894bed7a37312db3cb9d126e36df532020159836fff8c679c06021a1796d2#rd",
+        "create_time": 1768990390,
+        "update_time": 1768990390
+      },
+      {
+        "aid": "2650542418_1",
+        "appmsgid": 2650542418,
+        "from": "大淘宝技术",
+        "title": "AI+时代工程师的空间在哪儿——从范式演进看技术机会",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542418&idx=1&sn=f27378938c15eb989e8a77554e890f55&chksm=8390d94ab4e7505cc6881606a2db41fb7352b189d7bd0f775d83107031d5615957087a34bb1e#rd",
+        "create_time": 1768986111,
+        "update_time": 1768986111
       }
     ],
-    [],
+    [
+      {
+        "aid": "2247529051_1",
+        "appmsgid": 2247529051,
+        "from": "程序员成长指北",
+        "title": "AI辅助研发的落地实践：工具、效率与成长",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529051&idx=1&sn=f8b10d0d259d7ff83cb3ceb728486225&chksm=f992748acee5fd9c009354a64f11386bdc052a1ca9df3e754c7cfed1cb2c0703b8f2c3a4dc50#rd",
+        "create_time": 1769053993,
+        "update_time": 1769053992
+      },
+      {
+        "aid": "2651278501_1",
+        "appmsgid": 2651278501,
+        "from": "前端早读课",
+        "title": "【第3646期】别再把一切都变成数组了！少做点无用功",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278501&idx=1&sn=4a13eb278c2f5ce66c4b46ede112eeb0&chksm=bd4895218a3f1c372fa8e03fef1b038583edea637ba1db0a05385ea24d51ccce25e57cb79139#rd",
+        "create_time": 1769037733,
+        "update_time": 1769043600
+      },
+      {
+        "aid": "2247517810_1",
+        "appmsgid": 2247517810,
+        "from": "奇舞精选",
+        "title": "Agent Skills使用指南：让AI智能体拥有“即插即用”的超能力",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517810&idx=1&sn=3b8f20c4e822d8bada37ee54dcd3f6da&chksm=cf61a358f8162a4e55ff1f562c07e2b0a5917e5e4c2a26048f56068730ef41a2ee285ab27ee6#rd",
+        "create_time": 1769076147,
+        "update_time": 1769076146
+      }
+    ],
     [],
     [],
     [],
