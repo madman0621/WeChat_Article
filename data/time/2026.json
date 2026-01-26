@@ -642,10 +642,48 @@
         "update_time": 1769076146
       }
     ],
+    [
+      {
+        "aid": "2651278525_1",
+        "appmsgid": 2651278525,
+        "from": "前端早读课",
+        "title": "【第3647期】在 Node.js 中使用require(esm)：从实验到稳定",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278525&idx=1&sn=a0e5717714ffe5ebbda22a6eebd6df89&chksm=bd4895398a3f1c2f606cf16abcedb684c15e459b77a4a7b34c231700929218ae4786305cd377#rd",
+        "create_time": 1769123815,
+        "update_time": 1769130000
+      },
+      {
+        "aid": "2247517815_1",
+        "appmsgid": 2247517815,
+        "from": "奇舞精选",
+        "title": "奇舞周刊第580期：一文读懂 Skills｜从概念到实操的完整指南",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517815&idx=1&sn=ac99c5cd94df5aefbb8fb78681f04105&chksm=cf61a35df8162a4bcf3a8f983c9e7647d79a0783b709b70583fb8518ab98d704f25a41d98f94#rd",
+        "create_time": 1769163755,
+        "update_time": 1769163754
+      },
+      {
+        "aid": "2650542475_1",
+        "appmsgid": 2650542475,
+        "from": "大淘宝技术",
+        "title": "ICCV25 | 淘宝人脸吸引力预测算法FPEM",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542475&idx=1&sn=fe3cb17e45ad4c97f79a11abb531dff9&chksm=8390d993b4e75085e65f61164acf170cbcb3886b6189e7177685ebb02646412f712934033446#rd",
+        "create_time": 1769157015,
+        "update_time": 1769157014
+      }
+    ],
     [],
     [],
-    [],
-    [],
+    [
+      {
+        "aid": "2651278530_1",
+        "appmsgid": 2651278530,
+        "from": "前端早读课",
+        "title": "【早阅】@Addy Osmani：在 Google 工作 14 年得到的 21 条经验",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278530&idx=1&sn=f3a8c152253f5dbdaff62bda2d91bbe5&chksm=bd4895468a3f1c50634393b9a8461e516fd65c7dd746477242f1a45f3b6c533a9ad2b034eaf2#rd",
+        "create_time": 1769383486,
+        "update_time": 1769389200
+      }
+    ],
     [],
     [],
     [],
