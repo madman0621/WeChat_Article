@@ -1,5 +1,32 @@
 [
   {
+    "aid": "2247504888_1",
+    "appmsgid": 2247504888,
+    "from": "大转转FE",
+    "title": "转转前端周刊第184期: 公司不再按技术栈，划分技术岗位",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504888&idx=1&sn=05020dc6015d4d06038ea23b34b38774&chksm=fbb65831ccc1d1278e98db34c76585501d194bfb88394a5b876c957d6a8bb3d97f0ac624f93c#rd",
+    "create_time": 1769342638,
+    "update_time": 1769389200
+  },
+  {
+    "aid": "2247504885_1",
+    "appmsgid": 2247504885,
+    "from": "大转转FE",
+    "title": "从痛点到架构：用 Chrome DevTools Panel 做埋点校验，我是怎么落地的",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504885&idx=1&sn=771ec8b5f8cdb05ce1ad8fa7a554b96f&chksm=fbb6583cccc1d12ab27a74e71d4546ee88bfe3d17d5da5246be091abd232397332e66aa75230#rd",
+    "create_time": 1768910106,
+    "update_time": 1768957200
+  },
+  {
+    "aid": "2247504815_1",
+    "appmsgid": 2247504815,
+    "from": "大转转FE",
+    "title": "转转前端周刊第183期: 极速开发Claude Agent Skills 最佳实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504815&idx=1&sn=dab759485e8e8b695df7f33810fb5e45&chksm=fbb65866ccc1d170d5fb97d6f3e23f7d19db0a5f421053ee1b038bf7b176f6e4a3cdf030dc52#rd",
+    "create_time": 1768743685,
+    "update_time": 1768784400
+  },
+  {
     "aid": "2247504812_1",
     "appmsgid": 2247504812,
     "from": "大转转FE",

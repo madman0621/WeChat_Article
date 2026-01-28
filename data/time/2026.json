@@ -607,6 +607,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623873&idx=1&sn=482f83eeaef5eee9219e4533d78f0303&chksm=80224600b755cf16a60e6efcc21b86ebe195d71279bc49209a514fa18db7fc6a0f6dad03ddea#rd",
         "create_time": 1768736162,
         "update_time": 1768736400
+      },
+      {
+        "aid": "2247504815_1",
+        "appmsgid": 2247504815,
+        "from": "大转转FE",
+        "title": "转转前端周刊第183期: 极速开发Claude Agent Skills 最佳实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504815&idx=1&sn=dab759485e8e8b695df7f33810fb5e45&chksm=fbb65866ccc1d170d5fb97d6f3e23f7d19db0a5f421053ee1b038bf7b176f6e4a3cdf030dc52#rd",
+        "create_time": 1768743685,
+        "update_time": 1768784400
       }
     ],
     [
@@ -710,6 +719,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623908&idx=2&sn=ea10ff6e0efd70490f0080d08277489d&chksm=80224625b755cf3336a306bbc54dc2dc9982a17574d5477470667d0d9f9f51faa79cc12e2e12#rd",
         "create_time": 1768871445,
         "update_time": 1768871700
+      },
+      {
+        "aid": "2247504885_1",
+        "appmsgid": 2247504885,
+        "from": "大转转FE",
+        "title": "从痛点到架构：用 Chrome DevTools Panel 做埋点校验，我是怎么落地的",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504885&idx=1&sn=771ec8b5f8cdb05ce1ad8fa7a554b96f&chksm=fbb6583cccc1d12ab27a74e71d4546ee88bfe3d17d5da5246be091abd232397332e66aa75230#rd",
+        "create_time": 1768910106,
+        "update_time": 1768957200
       }
     ],
     [
@@ -891,6 +909,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623972&idx=2&sn=b90dcd31828c7ecfdd27c782a0610acb&chksm=802245e5b755ccf382adfd16640178771e23a5ce69ad32a27e99e3e506b8e3153c1d0d9b90df#rd",
         "create_time": 1769300850,
         "update_time": 1769301060
+      },
+      {
+        "aid": "2247504888_1",
+        "appmsgid": 2247504888,
+        "from": "大转转FE",
+        "title": "转转前端周刊第184期: 公司不再按技术栈，划分技术岗位",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247504888&idx=1&sn=05020dc6015d4d06038ea23b34b38774&chksm=fbb65831ccc1d1278e98db34c76585501d194bfb88394a5b876c957d6a8bb3d97f0ac624f93c#rd",
+        "create_time": 1769342638,
+        "update_time": 1769389200
       }
     ],
     [
@@ -958,9 +985,37 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278535&idx=1&sn=74e108dbd7c5d4d957265752690614bf&chksm=bd4895438a3f1c55849720731f631fce9ca4a4912a7fc28c188cee6d05c5f210ba871da906a4#rd",
         "create_time": 1769469951,
         "update_time": 1769475600
+      },
+      {
+        "aid": "2247529069_1",
+        "appmsgid": 2247529069,
+        "from": "程序员成长指北",
+        "title": "Vercel 把自己 10 年 React 秘籍做成 Skill 开源了！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529069&idx=1&sn=acf4d5fdff563dcffa6d56752bc89367&chksm=f99274bccee5fdaa96fcc2d07e3d83bab694875f61e88096300eb3fe3080294e5a0fe77bcc10#rd",
+        "create_time": 1769485173,
+        "update_time": 1769485800
+      },
+      {
+        "aid": "2247517829_1",
+        "appmsgid": 2247517829,
+        "from": "奇舞精选",
+        "title": "词向量：AI理解语言的基石",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517829&idx=1&sn=8c62b23105ee91c57e5f9d2431050be3&chksm=cf61a3aff8162ab98a4ea9972734c180b7cb759d4f24a51c12e7ec478007c090e7064ca7613f#rd",
+        "create_time": 1769503964,
+        "update_time": 1769508000
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651278545_1",
+        "appmsgid": 2651278545,
+        "from": "前端早读课",
+        "title": "【第3649期】把 AI 当同事用：Rules、Commands、Skills 的清晰分工",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278545&idx=1&sn=1699ce9bb4053eb7788515d43c56953b&chksm=bd4895558a3f1c43811f91159c0f5788c7356fd80a01ce8092b7d2777d92335cb0171dc70d6c#rd",
+        "create_time": 1769556386,
+        "update_time": 1769562000
+      }
+    ],
     [],
     [],
     []
