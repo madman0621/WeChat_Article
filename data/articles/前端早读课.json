@@ -1,5 +1,14 @@
 [
   {
+    "aid": "2651278565_1",
+    "appmsgid": 2651278565,
+    "from": "前端早读课",
+    "title": "【第3652期】告别 dotenv？Node.js 原生支持 .env 文件加载了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278565&idx=1&sn=8fad43e39b148409f33d76e2510ec82d&chksm=bd4895618a3f1c777c84d38e5f23b28fda7490e8664c1edf837317d777b3b7bdf60fbd243425#rd",
+    "create_time": 1769987781,
+    "update_time": 1769994000
+  },
+  {
     "aid": "2651278559_1",
     "appmsgid": 2651278559,
     "from": "前端早读课",
