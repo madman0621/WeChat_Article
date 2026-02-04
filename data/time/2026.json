@@ -1170,9 +1170,37 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278571&idx=1&sn=66e4f199ff6c325a9415c9c4bf3dcaad&chksm=bd48956f8a3f1c796207f24c4fc15954cd2b247ef920c838902da5aaf22b0a5e15b89dc41321#rd",
         "create_time": 1770074575,
         "update_time": 1770080400
+      },
+      {
+        "aid": "2247529120_1",
+        "appmsgid": 2247529120,
+        "from": "程序员成长指北",
+        "title": "AI Skills 正在重构前端开发",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529120&idx=1&sn=5fdc33e4e4857ee16a39c2cd58610d11&chksm=f9927471cee5fd674b6375f6190eb28c8045abda9dd9d643480c75f3568a644206cf87ed88aa#rd",
+        "create_time": 1770092150,
+        "update_time": 1770092150
+      },
+      {
+        "aid": "2247517860_1",
+        "appmsgid": 2247517860,
+        "from": "奇舞精选",
+        "title": "如何高效的长时间运行智能体",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517860&idx=1&sn=0d74f74e7f2d8db71ca4fd7ac41976f4&chksm=cf61a38ef8162a987eff41474d1a9f3f35d708158e3044b8cbffa90c14f9ea9e32098d448524#rd",
+        "create_time": 1770106468,
+        "update_time": 1770106468
       }
     ],
-    [],
+    [
+      {
+        "aid": "2651278580_1",
+        "appmsgid": 2651278580,
+        "from": "前端早读课",
+        "title": "【早阅】Agent Trace：给 AI 写的代码留下一条“来龙去脉”",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278580&idx=1&sn=a403b60c4548ca106722bb492ed6f504&chksm=bd4895708a3f1c66de07959ef7286fb3262f30d627956b5d4421e2dc78ad29b380481d80c4d5#rd",
+        "create_time": 1770161209,
+        "update_time": 1770166800
+      }
+    ],
     [],
     [],
     [],
