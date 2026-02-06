@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2651278596_1",
+    "appmsgid": 2651278596,
+    "from": "前端早读课",
+    "title": "【第3655期】浏览器即运行时：一个零后端 AI 应用的前端架构实践",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278596&idx=1&sn=dea55dba00065e03f83445a08be9f33e&chksm=bd4894808a3f1d966f1f3d9d60647e7a825799cbe95d494f0ec425ca6d8a921fa048c4c1b6b2#rd",
+    "create_time": 1770334513,
+    "update_time": 1770339600
+  },
+  {
+    "aid": "2651278586_1",
+    "appmsgid": 2651278586,
+    "from": "前端早读课",
+    "title": "【第3654期】不再重置！在 React / Next.js 中实现跨页面“持续进化”的动画效果",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278586&idx=1&sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&chksm=bd48957e8a3f1c68ca74e5ae3b8cb5849cd6171a99e5e24f1a1d3012e8df1b58faa768505200#rd",
+    "create_time": 1770247741,
+    "update_time": 1770253200
+  },
+  {
     "aid": "2651278580_1",
     "appmsgid": 2651278580,
     "from": "前端早读课",
