@@ -1021,6 +1021,24 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503911&idx=1&sn=73d66c55e26bfe6da2c540e57ffb5ab3&chksm=cf2f1502f8589c14b5139812cdde456b73ee9fc27704e80c8e4cb7bddd2bc69f167f330fbcae#rd",
         "create_time": 1769517410,
         "update_time": 1769572800
+      },
+      {
+        "aid": "2651623994_1",
+        "appmsgid": 2651623994,
+        "from": "前端大全",
+        "title": "7×24h「全职AI员工」爆火硅谷！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623994&idx=1&sn=7f4c98165747f0496f8f2114c44d14ac&chksm=802245fbb755ccedeee49a9fcc59e2b52fe34ba671840385ac1a5becef8f9d8f61516732f40d#rd",
+        "create_time": 1769473586,
+        "update_time": 1769485800
+      },
+      {
+        "aid": "2651623994_2",
+        "appmsgid": 2651623994,
+        "from": "前端大全",
+        "title": "公司 React 应用感觉很慢，我把没必要的重复渲染砍掉了 40%!",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623994&idx=2&sn=19dbe9799d756e7f163efdcb6532ccf0&chksm=802245fbb755cced0f5521180006a0cf531acaf20d70db1dc6fdcb9fc9e1f7479eb2fd5b7703#rd",
+        "create_time": 1769473586,
+        "update_time": 1769485800
       }
     ],
     [
@@ -1059,6 +1077,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542665&idx=1&sn=12eac8f20e2b910af221672e2f02b01c&chksm=8390da51b4e7534740919aac90a991a622a7194cec7b330be1b04612bbbe1a10f0aea1530246#rd",
         "create_time": 1769589484,
         "update_time": 1769589484
+      },
+      {
+        "aid": "2651624004_1",
+        "appmsgid": 2651624004,
+        "from": "前端大全",
+        "title": "强烈建议尽快搞个软考证！（政策风口）",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624004&idx=1&sn=a893728d5afa630b641cbe1ce5c3df8c&chksm=80224585b755cc932a4ac13a540670f4edec7c5e5b2a9f3ace3f763d67b43f80261c2eb47bf3#rd",
+        "create_time": 1769571202,
+        "update_time": 1769572200
       }
     ],
     [
@@ -1126,6 +1153,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542681&idx=1&sn=3d5fbd695435dbba79e3ef2b38a1e92a&chksm=8390da41b4e753570df2775de250d934d5220ba3ec933bbf3f96abc208e0ac002a1351eaac49#rd",
         "create_time": 1769764231,
         "update_time": 1769764231
+      },
+      {
+        "aid": "2651624012_1",
+        "appmsgid": 2651624012,
+        "from": "前端大全",
+        "title": "一行Rust没写过！仅1个月，他用Claude迁移了10万行JavaScript代码",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624012&idx=1&sn=61e19f9aac3f1a1a8b6c2e8db3457015&chksm=8022458db755cc9b5a95e126d0e2666d16810ca3708444060220100b2e5f7081f2e1fab6690d#rd",
+        "create_time": 1769744673,
+        "update_time": 1769744940
       }
     ],
     []
@@ -1159,6 +1195,24 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542682&idx=1&sn=4a56846c13628675c01337e79b01d614&chksm=8390da42b4e753547975ab94ed9e40a4f4524a989918423bba32591249c891bf11f0c5f16121#rd",
         "create_time": 1770023062,
         "update_time": 1770023062
+      },
+      {
+        "aid": "2651624022_1",
+        "appmsgid": 2651624022,
+        "from": "前端大全",
+        "title": "上线72小时，150万Clawdbot密谋建国！一气之下，还把人类告上法庭",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624022&idx=1&sn=894c4b9d986e06288e9114825e4d143b&chksm=80224597b755cc81a5d63af2bcd582ef31f7e58d3ea2d59ffb97b267a075b0c9d46cdb8202eb#rd",
+        "create_time": 1769994372,
+        "update_time": 1769994600
+      },
+      {
+        "aid": "2651624022_2",
+        "appmsgid": 2651624022,
+        "from": "前端大全",
+        "title": "50万行代码不敢交给AI？TypeScript之父直言：它就像是个“高级复读机”",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624022&idx=2&sn=c54a4b6b914e678e063328864c5be322&chksm=80224597b755cc81fcdb54ced96d812d1eee8d42955782072774c425e89497be05a54a179fe3#rd",
+        "create_time": 1769994372,
+        "update_time": 1769994600
       }
     ],
     [
@@ -1188,6 +1242,24 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517860&idx=1&sn=0d74f74e7f2d8db71ca4fd7ac41976f4&chksm=cf61a38ef8162a987eff41474d1a9f3f35d708158e3044b8cbffa90c14f9ea9e32098d448524#rd",
         "create_time": 1770106468,
         "update_time": 1770106468
+      },
+      {
+        "aid": "2651624035_1",
+        "appmsgid": 2651624035,
+        "from": "前端大全",
+        "title": "底裤被扒！Moltbook 150 万 AI 用户几乎全是水军。网友：人骗人全是自导自演",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624035&idx=1&sn=23382308e27cdecee1ecabb33d44d5d0&chksm=802245a2b755ccb45593a93a393f477bad4aec2723f68f2c3451da477b1a707b646d715415cf#rd",
+        "create_time": 1770078595,
+        "update_time": 1770078840
+      },
+      {
+        "aid": "2651624035_2",
+        "appmsgid": 2651624035,
+        "from": "前端大全",
+        "title": "别再像新手一样使用 Tailwind 了！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624035&idx=2&sn=1647e2c8250514e5ff441673fa90aa54&chksm=802245a2b755ccb422479dce3dfa2abbf94a8a5e2b5f3f711a7e16304320c919a81bb91f3fd8#rd",
+        "create_time": 1770078595,
+        "update_time": 1770078840
       }
     ],
     [
@@ -1226,6 +1298,42 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542848&idx=1&sn=182f2cc442bb91d9e6db18d2e28bd403&chksm=8390db18b4e7520e63cda178585994a2be5ce471100c5e7827265834cd5d113c5c9ce2a2228e#rd",
         "create_time": 1770197308,
         "update_time": 1770197308
+      },
+      {
+        "aid": "2651624063_1",
+        "appmsgid": 2651624063,
+        "from": "前端大全",
+        "title": "20 年 IT 老兵转行“收废品”！200+ 场面试无果",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624063&idx=1&sn=71c3d38ecbd4f8ce41ed43d7682e85c1&chksm=802245beb755cca8626070945cfd54b03075adc8e576f6d9cd4645ed721c426dcfaef48cea51#rd",
+        "create_time": 1770214339,
+        "update_time": 1770249600
+      },
+      {
+        "aid": "2651624063_2",
+        "appmsgid": 2651624063,
+        "from": "前端大全",
+        "title": "前端指纹技术是如何实现的？（Canvas、Audio、硬件API 核心原理解密）",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624063&idx=2&sn=c1ebcf9c38f9370e5b91b1dd25f2811a&chksm=802245beb755cca85a464a3fe9042ef36cefeff901bf92391db1448949ee722ac4bb3515f510#rd",
+        "create_time": 1770214339,
+        "update_time": 1770249600
+      },
+      {
+        "aid": "2651624053_1",
+        "appmsgid": 2651624053,
+        "from": "前端大全",
+        "title": "AI Skills 正在重构前端开发",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=1&sn=13babe9ddebc8bead1645f6c0848cc30&chksm=802245b4b755cca251271722892be19f9efb961c315ff7f00b9443238be0c7097349a706b322#rd",
+        "create_time": 1770170977,
+        "update_time": 1770177000
+      },
+      {
+        "aid": "2651624053_2",
+        "appmsgid": 2651624053,
+        "from": "前端大全",
+        "title": "谷歌Chrome觉醒！Gemini 3全面接管，38亿用户一夜进入Agent时代",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624053&idx=2&sn=37c808ca69f24f963618f33854406d88&chksm=802245b4b755cca2e0f14551796f3dab8fc46168187f21ef92086124a6da4aa7565de690207e#rd",
+        "create_time": 1770170977,
+        "update_time": 1770177000
       }
     ],
     [
@@ -1266,10 +1374,75 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278596&idx=1&sn=dea55dba00065e03f83445a08be9f33e&chksm=bd4894808a3f1d966f1f3d9d60647e7a825799cbe95d494f0ec425ca6d8a921fa048c4c1b6b2#rd",
         "create_time": 1770334513,
         "update_time": 1770339600
+      },
+      {
+        "aid": "2649014840_1",
+        "appmsgid": 2649014840,
+        "from": "前端新世界",
+        "title": "突发！快手涉黄，被罚1.19亿",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI1MzI3OQ==&mid=2649014840&idx=1&sn=20d772d7bac7be4757e9402fd07f4200&chksm=83005d88b477d49e8d6afbcb9aa2065e58855729abf29d66408a6bc79868af55fe9f26169435#rd",
+        "create_time": 1770383137,
+        "update_time": 1770383137
+      },
+      {
+        "aid": "2247529173_1",
+        "appmsgid": 2247529173,
+        "from": "程序员成长指北",
+        "title": "把 AI 当同事用：Rules、Commands、Skills 的清晰分工",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529173&idx=1&sn=b6e41cbec6a28819a9e93fb379d9cc75&chksm=f9927404cee5fd126dd2dc9cc13eb8a3ac5d1788c0136941118a9912bbb6d17c9ee0e9db62ff#rd",
+        "create_time": 1770383704,
+        "update_time": 1770383704
+      },
+      {
+        "aid": "2247529164_1",
+        "appmsgid": 2247529164,
+        "from": "程序员成长指北",
+        "title": "猎头密件：2026年缺口最大的AI岗位竟是它？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529164&idx=1&sn=96288f446912da0942ae6af8a9f95de3&chksm=f992741dcee5fd0be107434fea4d8afcb7d38d051ab7fc40ece2adbba52de27eb01812450691#rd",
+        "create_time": 1770349898,
+        "update_time": 1770435000
+      },
+      {
+        "aid": "2247517870_1",
+        "appmsgid": 2247517870,
+        "from": "奇舞精选",
+        "title": "奇舞周刊第582期：从传统编程转向大模型编程",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517870&idx=1&sn=9f4e6b804a415937bc8a587ba5a93ec3&chksm=cf61a384f8162a9280d40c88f6577264dbbc10e4f6efc309d4953db65dbe97d147867b416824#rd",
+        "create_time": 1770371001,
+        "update_time": 1770371001
+      },
+      {
+        "aid": "2650542857_1",
+        "appmsgid": 2650542857,
+        "from": "大淘宝技术",
+        "title": "【AI Coding】借助cursor实现业务需求全栈交付实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542857&idx=1&sn=52e4387f926f7c2fcece005803297a08&chksm=8390db11b4e75207a04fd1f0f201ce43d82fb00de8cd51f390b3ecdeb65c8cadbd6b0ac6c7c0#rd",
+        "create_time": 1770369841,
+        "update_time": 1770369841
       }
     ],
-    [],
-    [],
+    [
+      {
+        "aid": "2649014849_1",
+        "appmsgid": 2649014849,
+        "from": "前端新世界",
+        "title": "微信也能偷菜了，QQ经典为何集体回归？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI1MzI3OQ==&mid=2649014849&idx=1&sn=4641936fa214dde6af2fac59d629c9e5&chksm=83005df1b477d4e7da94c1ee4864856dbf090f612a3a6e508d3251b9535dca64a2a7b48b1df6#rd",
+        "create_time": 1770430492,
+        "update_time": 1770430492
+      }
+    ],
+    [
+      {
+        "aid": "2649014859_1",
+        "appmsgid": 2649014859,
+        "from": "前端新世界",
+        "title": "腾讯员工吐槽：看到元宝的骚操作，深感鹅老了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI1MzI3OQ==&mid=2649014859&idx=1&sn=f2f4d8cd657e0dea9fc822c1528db88a&chksm=83005dfbb477d4edecb1c12d8eaecae0095748962059b0f5f66bcb4297a8a1fec120cc64b349#rd",
+        "create_time": 1770524838,
+        "update_time": 1770524838
+      }
+    ],
     [],
     [],
     [],
