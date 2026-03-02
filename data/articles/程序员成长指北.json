@@ -1,5 +1,86 @@
 [
   {
+    "aid": "2247529270_1",
+    "appmsgid": 2247529270,
+    "from": "程序员成长指北",
+    "title": "前端工程师必备调试神器：SourceMap 原理解析与实战指南",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529270&idx=1&sn=89e333a5f18b18d4211f27286c867c22&chksm=f99275e7cee5fcf1972ef9ea27ad851bf464ef3dc164d81a74644b22a92e9720ccd9597b540e#rd",
+    "create_time": 1772251343,
+    "update_time": 1772251342
+  },
+  {
+    "aid": "2247529262_1",
+    "appmsgid": 2247529262,
+    "from": "程序员成长指北",
+    "title": "为什么90%的AI项目都死在了落地环节？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529262&idx=1&sn=7b6b86aabaea8ada58f734af27ff4fd3&chksm=f99275ffcee5fce9a265b5a604f6105dbc21bade4b1a6e527a0e817f7b953b314f18b137edd8#rd",
+    "create_time": 1772164180,
+    "update_time": 1772164180
+  },
+  {
+    "aid": "2247529241_1",
+    "appmsgid": 2247529241,
+    "from": "程序员成长指北",
+    "title": "Visual Agentic Dev：让前端开发工程师告别繁琐的代码修改流程",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529241&idx=1&sn=fc7f7e4f4e51dffce7c7a8c9305782e9&chksm=f99275c8cee5fcde1d521915fffc1585cf90f033e5c3dec96d3b728d345f4fb29be65c544696#rd",
+    "create_time": 1772077140,
+    "update_time": 1772077860
+  },
+  {
+    "aid": "2247529217_1",
+    "appmsgid": 2247529217,
+    "from": "程序员成长指北",
+    "title": "web前端230道场景题，背完你的offer就炸了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529217&idx=1&sn=dc8d1ddaea4e0115261e61a32c535152&chksm=f99275d0cee5fcc6bd471364b733d6f800eb0fd5dc3e259a928d061c5cae8b42369ace4d67d2#rd",
+    "create_time": 1771985660,
+    "update_time": 1771985659
+  },
+  {
+    "aid": "2247529207_1",
+    "appmsgid": 2247529207,
+    "from": "程序员成长指北",
+    "title": "NestJS v12 将迎来重大更新：全量 ESM、Vitest 上位、Zod 直连，老项目还能平滑升级？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529207&idx=1&sn=3fb6632884ed593d64e8affb15f6c991&chksm=f9927426cee5fd3024b2fc10cc67f3ebaf2c4f4dfb487cb3d4a6f3ea3adacf85d1add9ca3796#rd",
+    "create_time": 1771905880,
+    "update_time": 1771905880
+  },
+  {
+    "aid": "2247529205_1",
+    "appmsgid": 2247529205,
+    "from": "程序员成长指北",
+    "title": "一个 CLAUDE.md，让 AI 真正懂你的项目：从配置到长期提效的完整指南",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529205&idx=1&sn=ac735585685891b788d78e8d721ee37d&chksm=f9927424cee5fd322677673ec5a570b39bb74804ef42400a7ee5964d8e53f8708a58ddda3912#rd",
+    "create_time": 1771847298,
+    "update_time": 1771847297
+  },
+  {
+    "aid": "2247529192_1",
+    "appmsgid": 2247529192,
+    "from": "程序员成长指北",
+    "title": "强烈建议尽快搞个软考证！（政策风口）",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529192&idx=1&sn=05832a5fec748bc7be7d9f60ba4f7243&chksm=f9927439cee5fd2f0b2aeebf0fd50c8c73aa9ffd03dd26d8781b3a0df0aa4616598adb132ff2#rd",
+    "create_time": 1771723434,
+    "update_time": 1771732800
+  },
+  {
+    "aid": "2247529192_2",
+    "appmsgid": 2247529192,
+    "from": "程序员成长指北",
+    "title": "OpenClaw 安装与运行教程",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529192&idx=2&sn=6b76b96417be7ae3a249a2c77aa338dc&chksm=f9927439cee5fd2fec0bc048cec6758692c5b68d1269d8c7ff756304e3a24db4527f75977925#rd",
+    "create_time": 1771723434,
+    "update_time": 1771732800
+  },
+  {
+    "aid": "2247529191_1",
+    "appmsgid": 2247529191,
+    "from": "程序员成长指北",
+    "title": "一文搞懂 Codex 开源的 Figma Skill 原理",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529191&idx=1&sn=b2b7f5131b31158d4059859712e1e160&chksm=f9927436cee5fd20fb94763006522989279dcad51a1c2a8fe04ced8c48da9439c52f3c3537db#rd",
+    "create_time": 1771679388,
+    "update_time": 1771679387
+  },
+  {
     "aid": "2247529182_1",
     "appmsgid": 2247529182,
     "from": "程序员成长指北",

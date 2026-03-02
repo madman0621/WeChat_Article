@@ -1382,6 +1382,15 @@
         "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247517866&idx=1&sn=d96f1758f0833e152a48d649af89eee8&chksm=cf61a380f8162a961f4943cc63ebb68cc27671e8ea02201d16f75bdb5f57c9eeca73ed9aa633#rd",
         "create_time": 1770285983,
         "update_time": 1770285983
+      },
+      {
+        "aid": "2247521228_1",
+        "appmsgid": 2247521228,
+        "from": "支付宝体验科技",
+        "title": "支付宝 MYTab 三端一码重构与性能攻坚实战",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg2OTYyODU0NQ==&mid=2247521228&idx=1&sn=155c6654d1769da203903982a45e4f85&chksm=ce98fc22f9ef753400dfb6f2f1f19abe1d9dcc41a272cd912c0645faae36ba256a947b79d2bd#rd",
+        "create_time": 1770280732,
+        "update_time": 1770280732
       }
     ],
     [
@@ -1538,24 +1547,242 @@
         "update_time": 1770719880
       }
     ],
+    [
+      {
+        "aid": "2649014891_1",
+        "appmsgid": 2649014891,
+        "from": "前端新世界",
+        "title": "巨额年终奖！员工最高奖金超200万元",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI1MzI3OQ==&mid=2649014891&idx=1&sn=9c23682dfaa7a6ff284a8d9b1a556949&chksm=83005ddbb477d4cd975c3c53cbe1f82fb9db0437ae4bffa342b98597c2a3940ed937a7996d78#rd",
+        "create_time": 1770817898,
+        "update_time": 1770817898
+      },
+      {
+        "aid": "2247518014_1",
+        "appmsgid": 2247518014,
+        "from": "奇舞精选",
+        "title": "秒懂SKILLS: 模块化的RULES + 轻量化脚本",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518014&idx=1&sn=2313e0f93b3c1357344f5e860c99d897&chksm=cf61a214f8162b02ee62bfa0ec107dabd6b8ad8d45b0bba558ddac3b2d11aac571911e6e7502#rd",
+        "create_time": 1770805142,
+        "update_time": 1770805380
+      },
+      {
+        "aid": "2247503933_1",
+        "appmsgid": 2247503933,
+        "from": "哔哩哔哩技术",
+        "title": "视频生成推理加速实践：基于全局时间索引的序列并行 3D 位置编码优化",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503933&idx=1&sn=f9b7c2ebf85e78af4473ea0134835723&chksm=cf2f1518f8589c0eeccb7a9d916d77df24b5ef18a066e68a7a99d495a3301caaa06fe7ae5f59#rd",
+        "create_time": 1770807249,
+        "update_time": 1770955200
+      },
+      {
+        "aid": "2650542896_1",
+        "appmsgid": 2650542896,
+        "from": "大淘宝技术",
+        "title": "从应用架构的视角看退小宝AI助手落地现状",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542896&idx=1&sn=b1152e8ffd9fdc3a6a4058e9e1602373&chksm=8390db28b4e7523ee656b32696d103fed3781d59c48088c541ac40c8bbb18df921660af7afde#rd",
+        "create_time": 1770802131,
+        "update_time": 1770802130
+      }
+    ],
+    [
+      {
+        "aid": "2649014899_1",
+        "appmsgid": 2649014899,
+        "from": "前端新世界",
+        "title": "鹅厂的年终奖，也太给力了吧！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI1MzI3OQ==&mid=2649014899&idx=1&sn=a199cdb3c556880fa31a94d8be6ad325&chksm=83005dc3b477d4d5ef05f287bab8d27ddc38c674ffc416f97a99ed6278e676379abfbfeb450a#rd",
+        "create_time": 1770901026,
+        "update_time": 1770901026
+      },
+      {
+        "aid": "2247518019_1",
+        "appmsgid": 2247518019,
+        "from": "奇舞精选",
+        "title": "17 万人围观的 OpenClaw，终于出了\"傻瓜版\"！零基础也能指挥它干活",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518019&idx=1&sn=b574a7a5fdde9f776642862b900b8d31&chksm=cf61a269f8162b7fdf605b85b4d0a958b3825acb0c37b877365ba9258ab0aafae4f9a10880ef#rd",
+        "create_time": 1770878155,
+        "update_time": 1770896220
+      }
+    ],
+    [],
+    [
+      {
+        "aid": "2649014900_1",
+        "appmsgid": 2649014900,
+        "from": "前端新世界",
+        "title": "最舒服的工作状态",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI1MzI3OQ==&mid=2649014900&idx=1&sn=d1f54c15e5083d1481d268164bff41da&chksm=83005dc4b477d4d28819fcd6b0b959658098c5a6a0367c524ecfaaf1039a6cb5aba5d24a1a76#rd",
+        "create_time": 1771063542,
+        "update_time": 1771063546
+      }
+    ],
     [],
     [],
     [],
     [],
     [],
     [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
+    [
+      {
+        "aid": "2247529191_1",
+        "appmsgid": 2247529191,
+        "from": "程序员成长指北",
+        "title": "一文搞懂 Codex 开源的 Figma Skill 原理",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529191&idx=1&sn=b2b7f5131b31158d4059859712e1e160&chksm=f9927436cee5fd20fb94763006522989279dcad51a1c2a8fe04ced8c48da9439c52f3c3537db#rd",
+        "create_time": 1771679388,
+        "update_time": 1771679387
+      }
+    ],
+    [
+      {
+        "aid": "2247529192_1",
+        "appmsgid": 2247529192,
+        "from": "程序员成长指北",
+        "title": "强烈建议尽快搞个软考证！（政策风口）",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529192&idx=1&sn=05832a5fec748bc7be7d9f60ba4f7243&chksm=f9927439cee5fd2f0b2aeebf0fd50c8c73aa9ffd03dd26d8781b3a0df0aa4616598adb132ff2#rd",
+        "create_time": 1771723434,
+        "update_time": 1771732800
+      },
+      {
+        "aid": "2247529192_2",
+        "appmsgid": 2247529192,
+        "from": "程序员成长指北",
+        "title": "OpenClaw 安装与运行教程",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529192&idx=2&sn=6b76b96417be7ae3a249a2c77aa338dc&chksm=f9927439cee5fd2fec0bc048cec6758692c5b68d1269d8c7ff756304e3a24db4527f75977925#rd",
+        "create_time": 1771723434,
+        "update_time": 1771732800
+      }
+    ],
+    [
+      {
+        "aid": "2247529205_1",
+        "appmsgid": 2247529205,
+        "from": "程序员成长指北",
+        "title": "一个 CLAUDE.md，让 AI 真正懂你的项目：从配置到长期提效的完整指南",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529205&idx=1&sn=ac735585685891b788d78e8d721ee37d&chksm=f9927424cee5fd322677673ec5a570b39bb74804ef42400a7ee5964d8e53f8708a58ddda3912#rd",
+        "create_time": 1771847298,
+        "update_time": 1771847297
+      }
+    ],
+    [
+      {
+        "aid": "2247529207_1",
+        "appmsgid": 2247529207,
+        "from": "程序员成长指北",
+        "title": "NestJS v12 将迎来重大更新：全量 ESM、Vitest 上位、Zod 直连，老项目还能平滑升级？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529207&idx=1&sn=3fb6632884ed593d64e8affb15f6c991&chksm=f9927426cee5fd3024b2fc10cc67f3ebaf2c4f4dfb487cb3d4a6f3ea3adacf85d1add9ca3796#rd",
+        "create_time": 1771905880,
+        "update_time": 1771905880
+      },
+      {
+        "aid": "2651278602_1",
+        "appmsgid": 2651278602,
+        "from": "前端早读课",
+        "title": "【第3656期】深入理解 React 的 useEffectEvent：彻底告别闭包陷阱",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278602&idx=1&sn=a51d047d864a2178ae921057e3c6073a&chksm=bd48948e8a3f1d9850b382a3f50492d0f94d710557a5b9ec15f68361690031fdccbf9544ba70#rd",
+        "create_time": 1771892683,
+        "update_time": 1771894800
+      }
+    ],
+    [
+      {
+        "aid": "2247529217_1",
+        "appmsgid": 2247529217,
+        "from": "程序员成长指北",
+        "title": "web前端230道场景题，背完你的offer就炸了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529217&idx=1&sn=dc8d1ddaea4e0115261e61a32c535152&chksm=f99275d0cee5fcc6bd471364b733d6f800eb0fd5dc3e259a928d061c5cae8b42369ace4d67d2#rd",
+        "create_time": 1771985660,
+        "update_time": 1771985659
+      },
+      {
+        "aid": "2651278606_1",
+        "appmsgid": 2651278606,
+        "from": "前端早读课",
+        "title": "【第3657期】Visual Agentic Dev：让前端开发工程师告别繁琐的代码修改流程",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278606&idx=1&sn=f1ef8cbb6ce6ecd37d06843f7799ae4b&chksm=bd48948a8a3f1d9ca4655cbf0ecc6c12bff9be61e1eaa0302b278faaee8f3818941924132b10#rd",
+        "create_time": 1771977018,
+        "update_time": 1771981200
+      },
+      {
+        "aid": "2650542923_1",
+        "appmsgid": 2650542923,
+        "from": "大淘宝技术",
+        "title": "AI真人数字人语音对话性能优化实践总结",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542923&idx=1&sn=1403311c090693a4dc684ca861e515b6&chksm=8390db53b4e75245e036e1e89b5f5fe80ee19d832b8c76c9946b9456f4091dfc134da88bdc54#rd",
+        "create_time": 1772012209,
+        "update_time": 1772012208
+      }
+    ],
+    [
+      {
+        "aid": "2247529241_1",
+        "appmsgid": 2247529241,
+        "from": "程序员成长指北",
+        "title": "Visual Agentic Dev：让前端开发工程师告别繁琐的代码修改流程",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529241&idx=1&sn=fc7f7e4f4e51dffce7c7a8c9305782e9&chksm=f99275c8cee5fcde1d521915fffc1585cf90f033e5c3dec96d3b728d345f4fb29be65c544696#rd",
+        "create_time": 1772077140,
+        "update_time": 1772077860
+      },
+      {
+        "aid": "2651278618_1",
+        "appmsgid": 2651278618,
+        "from": "前端早读课",
+        "title": "【第3658期】从终端到工作空间：MCP Apps 如何把 UI 带回 Agent 中心",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278618&idx=1&sn=fcdaf49c28f016098071d4e9eeb04b54&chksm=bd48949e8a3f1d885dcccee1580a98f00311b8dd6720cc451f90fb2c9d4f7e5e396a6eb45f2f#rd",
+        "create_time": 1772063357,
+        "update_time": 1772067600
+      }
+    ],
+    [
+      {
+        "aid": "2247529262_1",
+        "appmsgid": 2247529262,
+        "from": "程序员成长指北",
+        "title": "为什么90%的AI项目都死在了落地环节？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529262&idx=1&sn=7b6b86aabaea8ada58f734af27ff4fd3&chksm=f99275ffcee5fce9a265b5a604f6105dbc21bade4b1a6e527a0e817f7b953b314f18b137edd8#rd",
+        "create_time": 1772164180,
+        "update_time": 1772164180
+      },
+      {
+        "aid": "2651278624_1",
+        "appmsgid": 2651278624,
+        "from": "前端早读课",
+        "title": "【早阅】一周重写 Next.js：AI 如何造出更快更小的 vinext？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278624&idx=1&sn=80be0485ee26431b040c99831ee892e0&chksm=bd4894a48a3f1db2ebc8314f43497ca0749faba28d634bae131c29edb74ade4c39e0a6d7ea4e#rd",
+        "create_time": 1772148409,
+        "update_time": 1772154000
+      },
+      {
+        "aid": "2650542930_1",
+        "appmsgid": 2650542930,
+        "from": "大淘宝技术",
+        "title": "首届淘宝电商AI挑战赛来了！设350万赛事奖项和千万扶持资源",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542930&idx=1&sn=745360794271bb1cb57eeee35dd40ef1&chksm=8390db4ab4e7525c66635231b535e3e125cd2d31cdc2052d948cb8195ba7e93209ede2eaee35#rd",
+        "create_time": 1772180197,
+        "update_time": 1772180197
+      }
+    ],
+    [
+      {
+        "aid": "2247529270_1",
+        "appmsgid": 2247529270,
+        "from": "程序员成长指北",
+        "title": "前端工程师必备调试神器：SourceMap 原理解析与实战指南",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529270&idx=1&sn=89e333a5f18b18d4211f27286c867c22&chksm=f99275e7cee5fcf1972ef9ea27ad851bf464ef3dc164d81a74644b22a92e9720ccd9597b540e#rd",
+        "create_time": 1772251343,
+        "update_time": 1772251342
+      },
+      {
+        "aid": "2651278629_1",
+        "appmsgid": 2651278629,
+        "from": "前端早读课",
+        "title": "【第3659期】JavaScript 显式资源管理来了：用 using 告别手写 try/finally",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278629&idx=1&sn=b51bc320fefe9c3d3d6f715b1d6626bf&chksm=bd4894a18a3f1db7d99e656a25e91c609c91f54965cb990eb87bbf466a0bae0440f2a9cc5965#rd",
+        "create_time": 1772236404,
+        "update_time": 1772240400
+      }
+    ],
     [],
     [],
     []
