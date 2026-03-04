@@ -1,5 +1,32 @@
 [
   {
+    "aid": "2651278648_1",
+    "appmsgid": 2651278648,
+    "from": "前端早读课",
+    "title": "【第3662期】快速上手 Claude 技能：从零到可用",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278648&idx=1&sn=89ff449c4a6d350a18230459234e46f3&chksm=bd4894bc8a3f1daa27aea4674bcbad3be9f0512c629ec3e1f6483227ac4954295100a78de4fc#rd",
+    "create_time": 1772581366,
+    "update_time": 1772586000
+  },
+  {
+    "aid": "2651278643_1",
+    "appmsgid": 2651278643,
+    "from": "前端早读课",
+    "title": "【第3661期】不用 JS 也能精准定位？CSS Anchor Positioning 实战解析",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278643&idx=1&sn=7161d1df5a6028408bd1968b3c91308c&chksm=bd4894b78a3f1da1fcef80fe68c5ff51086590e22575dc874080a446430c6f39011f4668f6d6#rd",
+    "create_time": 1772494623,
+    "update_time": 1772499600
+  },
+  {
+    "aid": "2651278637_1",
+    "appmsgid": 2651278637,
+    "from": "前端早读课",
+    "title": "【第3660期】别再为覆盖率而写测试：真正可靠的单元测试应该这样做",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278637&idx=1&sn=f6788ebf5585eda0b718b2f724366fac&chksm=bd4894a98a3f1dbf891e19dc0c4ce2433e5196b73e92fe690774c6b6d2ad9e262a59aef01fd8#rd",
+    "create_time": 1772407276,
+    "update_time": 1772413200
+  },
+  {
     "aid": "2651278629_1",
     "appmsgid": 2651278629,
     "from": "前端早读课",
