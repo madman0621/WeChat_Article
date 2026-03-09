@@ -1,5 +1,32 @@
 [
   {
+    "aid": "2651278670_1",
+    "appmsgid": 2651278670,
+    "from": "前端早读课",
+    "title": "【第3665期】WebMCP：让每个网站都能与智能代理互动的新标准",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278670&idx=1&sn=84b6ee5fcefb778448e75503a51aa54f&chksm=bd4894ca8a3f1ddc2de84ea225eefd101513244e5ad7987f09140759a681efdcd4d0e465bbf7#rd",
+    "create_time": 1773012003,
+    "update_time": 1773018000
+  },
+  {
+    "aid": "2651278666_1",
+    "appmsgid": 2651278666,
+    "from": "前端早读课",
+    "title": "【第3664期】Claude Code 系统化方法：从规划到高效交付",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278666&idx=1&sn=6fadb54fb3fca3e1324cb35b3bca3700&chksm=bd4894ce8a3f1dd84eb03ba7368f09906054121c32127ce63ec957b765e553cc444354f37092#rd",
+    "create_time": 1772753342,
+    "update_time": 1772758800
+  },
+  {
+    "aid": "2651278660_1",
+    "appmsgid": 2651278660,
+    "from": "前端早读课",
+    "title": "【第3663期】如何用 Ollama 在本地运行并定制专属 LLM",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278660&idx=1&sn=01f0220c8ab0fd25fdb6c2038511eb48&chksm=bd4894c08a3f1dd6e3b7e15ee954bda92c1b3a7a1520bb7504ffa115826e40211d27e7b95074#rd",
+    "create_time": 1772667102,
+    "update_time": 1772672400
+  },
+  {
     "aid": "2651278648_1",
     "appmsgid": 2651278648,
     "from": "前端早读课",

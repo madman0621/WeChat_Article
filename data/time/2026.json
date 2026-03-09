@@ -1847,13 +1847,115 @@
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278648&idx=1&sn=89ff449c4a6d350a18230459234e46f3&chksm=bd4894bc8a3f1daa27aea4674bcbad3be9f0512c629ec3e1f6483227ac4954295100a78de4fc#rd",
         "create_time": 1772581366,
         "update_time": 1772586000
+      },
+      {
+        "aid": "2247529334_1",
+        "appmsgid": 2247529334,
+        "from": "程序员成长指北",
+        "title": "React 多年第一，被一只龙虾 100 天干翻了！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529334&idx=1&sn=01107838d42e78d358c5618f6d537f3b&chksm=f99275a7cee5fcb1ff61c1fe2b00da91cb29986aa9c48e0a849b79b356e38c0cce5ff53c39d0#rd",
+        "create_time": 1772596759,
+        "update_time": 1772596759
+      },
+      {
+        "aid": "2650542989_1",
+        "appmsgid": 2650542989,
+        "from": "大淘宝技术",
+        "title": "ICLR 2026 | 基于概念蒸馏的生成式视频复原算法Vivid-VR",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542989&idx=1&sn=aca89d56d7cbdf0d27ad6a5ae0b7af5a&chksm=8390db95b4e75283b82f27430f2b3e70f4cc06b05b61917a478081e216dd3fa683969b9c7c22#rd",
+        "create_time": 1772612859,
+        "update_time": 1772612859
+      }
+    ],
+    [
+      {
+        "aid": "2247529345_1",
+        "appmsgid": 2247529345,
+        "from": "程序员成长指北",
+        "title": "25 万+ OpenClaw 实例暴露，你的电脑可能也在名单里！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529345&idx=1&sn=3aa8bdf0ce95b306e4be60927c6fd77b&chksm=f9927550cee5fc46823662646c68a68e1a7458ab63dfa2733538abeaf838decc9d6cb87948ca#rd",
+        "create_time": 1772683083,
+        "update_time": 1772683083
+      },
+      {
+        "aid": "2651278660_1",
+        "appmsgid": 2651278660,
+        "from": "前端早读课",
+        "title": "【第3663期】如何用 Ollama 在本地运行并定制专属 LLM",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278660&idx=1&sn=01f0220c8ab0fd25fdb6c2038511eb48&chksm=bd4894c08a3f1dd6e3b7e15ee954bda92c1b3a7a1520bb7504ffa115826e40211d27e7b95074#rd",
+        "create_time": 1772667102,
+        "update_time": 1772672400
+      }
+    ],
+    [
+      {
+        "aid": "2247529364_1",
+        "appmsgid": 2247529364,
+        "from": "程序员成长指北",
+        "title": "突发！软考空前大利好！恭喜所有程序员！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529364&idx=1&sn=5a430cc0a5d201f99e75c703a2409fb4&chksm=f9927545cee5fc53bfda615b003ca6dcb353fb3e478efbece9baa2728a151c11be25e46090c4#rd",
+        "create_time": 1772767800,
+        "update_time": 1772769000
+      },
+      {
+        "aid": "2247529364_2",
+        "appmsgid": 2247529364,
+        "from": "程序员成长指北",
+        "title": "仅一周！Cloudflare用AI重写了 Next.js，提速 4 倍，打包体积锐减 57%",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529364&idx=2&sn=d4a64927012e697c055e0ace9c9b1fae&chksm=f9927545cee5fc531bfca32e6e4fb26f543fff59ab5182a32aa4ff714bf120fa4316599b2bab#rd",
+        "create_time": 1772767800,
+        "update_time": 1772769000
+      },
+      {
+        "aid": "2651278666_1",
+        "appmsgid": 2651278666,
+        "from": "前端早读课",
+        "title": "【第3664期】Claude Code 系统化方法：从规划到高效交付",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278666&idx=1&sn=6fadb54fb3fca3e1324cb35b3bca3700&chksm=bd4894ce8a3f1dd84eb03ba7368f09906054121c32127ce63ec957b765e553cc444354f37092#rd",
+        "create_time": 1772753342,
+        "update_time": 1772758800
+      },
+      {
+        "aid": "2247518023_1",
+        "appmsgid": 2247518023,
+        "from": "奇舞精选",
+        "title": "奇舞周刊第583期：阿里开源 Team 版 OpenClaw，5分钟完成本地安装",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518023&idx=1&sn=eee8e8a20d1f72cc6161ad7c340a0040&chksm=cf61a26df8162b7bc237e3cd6f94347b5ca7c110411816d53e33deb6b6b4343918d5dd5eebc6#rd",
+        "create_time": 1772778625,
+        "update_time": 1772787600
+      },
+      {
+        "aid": "2247504028_1",
+        "appmsgid": 2247504028,
+        "from": "哔哩哔哩技术",
+        "title": "游戏数据分析Agent的全栈架构演进",
+        "link": "http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504028&idx=1&sn=cb78fb155cef1df7bc5447a34b74fab1&chksm=cf2f15b9f8589cafacf99ee268c86f02f9a2d0e95dc58c82e392bb55ecadc6860727d15315fc#rd",
+        "create_time": 1772768414,
+        "update_time": 1772769600
+      },
+      {
+        "aid": "2650542990_1",
+        "appmsgid": 2650542990,
+        "from": "大淘宝技术",
+        "title": "AI工作流在淘宝交易舆情巡检上的探索与实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650542990&idx=1&sn=c87517f8af9020407cf36f636538fbe3&chksm=8390db96b4e75280f5e32f0a989b0383b7457c3408810eb2f926b80b4745f697d9b43a685515#rd",
+        "create_time": 1772792688,
+        "update_time": 1772792688
       }
     ],
     [],
     [],
-    [],
-    [],
-    [],
+    [
+      {
+        "aid": "2651278670_1",
+        "appmsgid": 2651278670,
+        "from": "前端早读课",
+        "title": "【第3665期】WebMCP：让每个网站都能与智能代理互动的新标准",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278670&idx=1&sn=84b6ee5fcefb778448e75503a51aa54f&chksm=bd4894ca8a3f1ddc2de84ea225eefd101513244e5ad7987f09140759a681efdcd4d0e465bbf7#rd",
+        "create_time": 1773012003,
+        "update_time": 1773018000
+      }
+    ],
     [],
     [],
     [],

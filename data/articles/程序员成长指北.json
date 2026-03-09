@@ -1,5 +1,41 @@
 [
   {
+    "aid": "2247529364_1",
+    "appmsgid": 2247529364,
+    "from": "程序员成长指北",
+    "title": "突发！软考空前大利好！恭喜所有程序员！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529364&idx=1&sn=5a430cc0a5d201f99e75c703a2409fb4&chksm=f9927545cee5fc53bfda615b003ca6dcb353fb3e478efbece9baa2728a151c11be25e46090c4#rd",
+    "create_time": 1772767800,
+    "update_time": 1772769000
+  },
+  {
+    "aid": "2247529364_2",
+    "appmsgid": 2247529364,
+    "from": "程序员成长指北",
+    "title": "仅一周！Cloudflare用AI重写了 Next.js，提速 4 倍，打包体积锐减 57%",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529364&idx=2&sn=d4a64927012e697c055e0ace9c9b1fae&chksm=f9927545cee5fc531bfca32e6e4fb26f543fff59ab5182a32aa4ff714bf120fa4316599b2bab#rd",
+    "create_time": 1772767800,
+    "update_time": 1772769000
+  },
+  {
+    "aid": "2247529345_1",
+    "appmsgid": 2247529345,
+    "from": "程序员成长指北",
+    "title": "25 万+ OpenClaw 实例暴露，你的电脑可能也在名单里！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529345&idx=1&sn=3aa8bdf0ce95b306e4be60927c6fd77b&chksm=f9927550cee5fc46823662646c68a68e1a7458ab63dfa2733538abeaf838decc9d6cb87948ca#rd",
+    "create_time": 1772683083,
+    "update_time": 1772683083
+  },
+  {
+    "aid": "2247529334_1",
+    "appmsgid": 2247529334,
+    "from": "程序员成长指北",
+    "title": "React 多年第一，被一只龙虾 100 天干翻了！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529334&idx=1&sn=01107838d42e78d358c5618f6d537f3b&chksm=f99275a7cee5fcb1ff61c1fe2b00da91cb29986aa9c48e0a849b79b356e38c0cce5ff53c39d0#rd",
+    "create_time": 1772596759,
+    "update_time": 1772596759
+  },
+  {
     "aid": "2247529327_1",
     "appmsgid": 2247529327,
     "from": "程序员成长指北",
