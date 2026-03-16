@@ -1,5 +1,23 @@
 [
   {
+    "aid": "2651278747_1",
+    "appmsgid": 2651278747,
+    "from": "前端早读课",
+    "title": "【第3670期】AI 工程实战：Claude Code 团队总结的六条反直觉缓存法则",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278747&idx=1&sn=123edfcd2136f85e486428c863008faf&chksm=bd48941f8a3f1d0966adeb230c93095e987e09b6f810eef1d753156d36ce9434739d5f7de8ec#rd",
+    "create_time": 1773617885,
+    "update_time": 1773622800
+  },
+  {
+    "aid": "2651278743_1",
+    "appmsgid": 2651278743,
+    "from": "前端早读课",
+    "title": "【第3669期】以界面重构文字，GenUI 正式发布！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278743&idx=1&sn=83c555b7d842e1fcb121def22abf5c47&chksm=bd4894138a3f1d051b1191821e24cffc4847206fe062c8607d6f41a26a2ebd78dc1a97bf4c70#rd",
+    "create_time": 1773358468,
+    "update_time": 1773363600
+  },
+  {
     "aid": "2651278731_1",
     "appmsgid": 2651278731,
     "from": "前端早读课",
