@@ -1,5 +1,176 @@
 [
   {
+    "aid": "2247529765_1",
+    "appmsgid": 2247529765,
+    "from": "程序员成长指北",
+    "title": "Cursor 官方偷偷用了 2 年的内部工作流，现在全部开源了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529765&idx=1&sn=387ffd1321d825fd5caaf7ce1e6db1c7&chksm=f99273f4cee5fae24cd073c2c0adad52f06dbffd3c5cddb25a739481d90ef2c44b620bd6fe74#rd",
+    "create_time": 1778200118,
+    "update_time": 1778200117
+  },
+  {
+    "aid": "2247529717_1",
+    "appmsgid": 2247529717,
+    "from": "程序员成长指北",
+    "title": "一文吃透AST与LSP：为什么AI代码工具都离不开它？",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529717&idx=1&sn=e4fe9464b4d34642fde66bf1a25db622&chksm=f9927224cee5fb3266d68bf941a2dd31e9c20a4dd4a4b606c2a993fc298573cac783ad0b2a57#rd",
+    "create_time": 1778040842,
+    "update_time": 1778040841
+  },
+  {
+    "aid": "2247529682_1",
+    "appmsgid": 2247529682,
+    "from": "程序员成长指北",
+    "title": "Node.js 子进程管理：我是如何被 spawn 逼疯的",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529682&idx=1&sn=15b6113a8839043fc830ca03a64aa5f9&chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd",
+    "create_time": 1776744393,
+    "update_time": 1776744392
+  },
+  {
+    "aid": "2247529682_2",
+    "appmsgid": 2247529682,
+    "from": "程序员成长指北",
+    "title": "详解 Node.js 中的子进程",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529682&idx=2&sn=12b827645f6c31b27ddba4a30cb34266&chksm=f9927203cee5fb159887b3a5f343b1cd9f8af9635d68882f9e7f4e6880ccec5fb6c35e046259#rd",
+    "create_time": 1776744393,
+    "update_time": 1776744392
+  },
+  {
+    "aid": "2247529674_1",
+    "appmsgid": 2247529674,
+    "from": "程序员成长指北",
+    "title": "【真诚建议】别让AI替你思考：苏格拉底提示法，把AI变成你的思考搭档",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529674&idx=1&sn=1ba42be60265062748e414d32d176269&chksm=f992721bcee5fb0dda6906fcb9a7b3c96c1344afbd9199122a019737cf54a0f69fa2cd7160ba#rd",
+    "create_time": 1776139325,
+    "update_time": 1776139325
+  },
+  {
+    "aid": "2247529666_1",
+    "appmsgid": 2247529666,
+    "from": "程序员成长指北",
+    "title": "酷！Node.js 终于支持虚拟文件系统了，作者直言：没有 Claude Code 这不可能发生",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529666&idx=1&sn=44441bbfe95d1972a6a657428fe94e95&chksm=f9927213cee5fb0505a6cf2a5167c88d69ad056f33ee30cdcb05d109d2ba9d300014924bdf78#rd",
+    "create_time": 1775708390,
+    "update_time": 1775708390
+  },
+  {
+    "aid": "2247529659_1",
+    "appmsgid": 2247529659,
+    "from": "程序员成长指北",
+    "title": "Harness 工程：不是新词，而是 Agent 工程终于被讲明白了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529659&idx=1&sn=55d782dfd2224cac8968e9e1d82a3b68&chksm=f992726acee5fb7ce3623aed0ef452e7dafd5f024091df1e209c379b1f75981ac8a2c071360d#rd",
+    "create_time": 1775535051,
+    "update_time": 1775535050
+  },
+  {
+    "aid": "2247529642_1",
+    "appmsgid": 2247529642,
+    "from": "程序员成长指北",
+    "title": "Skills 乱麻了！这款开源神器彻底终结噩梦，Cursor/Claude 一键全同步",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529642&idx=1&sn=16005d3929226468a8ee1b8c0ed4c8b6&chksm=f992727bcee5fb6d914cc77966c95fe1545ed7ad4d303da32eade65e5d892b826e4acc3e8b26#rd",
+    "create_time": 1775101964,
+    "update_time": 1775102400
+  },
+  {
+    "aid": "2247529639_1",
+    "appmsgid": 2247529639,
+    "from": "程序员成长指北",
+    "title": "LangGraph：基于图的 AI Agent 编排框架深度解析",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529639&idx=1&sn=325db2a072d5d2f17c7d84734ca0683a&chksm=f9927276cee5fb60652b3ddc219a4b464b07ab5c86df4eb4486fce3b6a47e8fd6b57dd8a4469#rd",
+    "create_time": 1775017380,
+    "update_time": 1775017380
+  },
+  {
+    "aid": "2247529620_1",
+    "appmsgid": 2247529620,
+    "from": "程序员成长指北",
+    "title": "【D2 演讲实录】从上下文工程到 Harness Engineering",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529620&idx=1&sn=d0bba042bb1f4b84b07f5a3075b8f360&chksm=f9927245cee5fb530ec8bb3e239ab3b50b17deab10d2e0e1b9ce4b92516f38708a91e6c6a22a#rd",
+    "create_time": 1774931032,
+    "update_time": 1774931032
+  },
+  {
+    "aid": "2247529618_1",
+    "appmsgid": 2247529618,
+    "from": "程序员成长指北",
+    "title": "嘿，OpenClaw 实战指南来了！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529618&idx=1&sn=e91261b0e90c4a0a5615d1b62c4db871&chksm=f9927243cee5fb55b81bae193418261cac2de108ff4922a1f956cfc2973f7e04edfa4bd7ff40#rd",
+    "create_time": 1774842918,
+    "update_time": 1774842917
+  },
+  {
+    "aid": "2247529617_1",
+    "appmsgid": 2247529617,
+    "from": "程序员成长指北",
+    "title": "别再纠结格式：5 种设计模式，构建真正可靠的 AI Agent",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529617&idx=1&sn=c7e08dc576df179ca0c057c5724f9abc&chksm=f9927240cee5fb560a3a33616e969ded242f04e18be9636413626fe5ed9b4d65e0a66b35aed2#rd",
+    "create_time": 1774585634,
+    "update_time": 1774585634
+  },
+  {
+    "aid": "2247529609_1",
+    "appmsgid": 2247529609,
+    "from": "程序员成长指北",
+    "title": "别再裸用 Claude Code 了！32 个亲测技能 + 8 个 MCP 服务器，开发效率直接拉满！",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529609&idx=1&sn=00556b832619b0cccbb6db526b952899&chksm=f9927258cee5fb4ed253b0e676d2fc9c3de4fba595c43e821ab9562a48f3e8f4581b06830cd1#rd",
+    "create_time": 1774497219,
+    "update_time": 1774497219
+  },
+  {
+    "aid": "2247529548_1",
+    "appmsgid": 2247529548,
+    "from": "程序员成长指北",
+    "title": "web前端230道场景题，背完你的offer就炸了",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529548&idx=1&sn=ab28aeea99fe7419032b7efc3f118377&chksm=f992729dcee5fb8b79748456f378b6b451f141e17e26ed8b0a918dd0fb9ff7eb6dfb870f7766#rd",
+    "create_time": 1774403767,
+    "update_time": 1774404600
+  },
+  {
+    "aid": "2247529538_1",
+    "appmsgid": 2247529538,
+    "from": "程序员成长指北",
+    "title": "前端发版后页面白屏？一套解决用户停留旧页面问题的完整方案",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529538&idx=1&sn=fa53f719ba91ed033fae434acdf2f443&chksm=f9927293cee5fb856f554e25b5367b1f8bc638c899ff4eb73442b4781657d7f22797f6ee0ef0#rd",
+    "create_time": 1774321686,
+    "update_time": 1774324140
+  },
+  {
+    "aid": "2247529495_1",
+    "appmsgid": 2247529495,
+    "from": "程序员成长指北",
+    "title": "从 nanobot 理解 openclaw 核心设计",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529495&idx=1&sn=49439277e289e9948fb70033f69862e5&chksm=f99272c6cee5fbd0a2e43a039ee7e5eb9fc8958d8eb3e19bee8c4fa9f112dcdcf132db72efa7#rd",
+    "create_time": 1774264221,
+    "update_time": 1774267200
+  },
+  {
+    "aid": "2247529493_1",
+    "appmsgid": 2247529493,
+    "from": "程序员成长指北",
+    "title": "为什么越来越多前端开始重看 WebAssembly",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529493&idx=1&sn=8cf92b7ef4c302f8520300bf46b62f6e&chksm=f99272c4cee5fbd27e92a676b16307ac3c014bfc80031bd0b62b0662a8d944f998ecf5895bc1#rd",
+    "create_time": 1773976409,
+    "update_time": 1773978600
+  },
+  {
+    "aid": "2247529469_1",
+    "appmsgid": 2247529469,
+    "from": "程序员成长指北",
+    "title": "Node.js 宣布了重大发布调整",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529469&idx=1&sn=c6836110923971eeda1d9516731eec3f&chksm=f992752ccee5fc3af15d3747575db160087a8d46e940b0655966c0a7de9d47c683e199ea44ec#rd",
+    "create_time": 1773892157,
+    "update_time": 1773892157
+  },
+  {
+    "aid": "2247529461_1",
+    "appmsgid": 2247529461,
+    "from": "程序员成长指北",
+    "title": "Claude Code vs Codex：AI 编码协作的官方实践全解析",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529461&idx=1&sn=1fc622e6d90902c982892e71fa34e777&chksm=f9927524cee5fc325c0e67c6cb10e9db027431764905d40427dda33b9d2c9340cb9302103679#rd",
+    "create_time": 1773805968,
+    "update_time": 1773805968
+  },
+  {
     "aid": "2247529455_1",
     "appmsgid": 2247529455,
     "from": "程序员成长指北",
