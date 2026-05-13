@@ -3396,9 +3396,57 @@
       }
     ],
     [],
-    [],
-    [],
-    [],
+    [
+      {
+        "aid": "2247529797_1",
+        "appmsgid": 2247529797,
+        "from": "程序员成长指北",
+        "title": "为什么你让 AI 写的 Skill 总是不好用？这个官方工具给出了答案",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529797&idx=1&sn=47676f4d88c574ceab5dca732bfc38d0&chksm=f9927394cee5fa82c0c91f214808e85a0e4f7c23c5f2cf2e85a13dbb54ecbbb871546593359c#rd",
+        "create_time": 1778429127,
+        "update_time": 1778458260
+      },
+      {
+        "aid": "2651279053_1",
+        "appmsgid": 2651279053,
+        "from": "前端早读课",
+        "title": "【第3695期】下一代图片格式 AVIF 在 vivo 社区的落地实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279053&idx=1&sn=5e473cf9e9955cf6fbc4173846092f00&chksm=bd4897498a3f1e5fc9be653bec8646f54a1ff7566728f0f84abc7cfe5ef4f7ea28f113b231b8#rd",
+        "create_time": 1778456103,
+        "update_time": 1778461200
+      },
+      {
+        "aid": "2650543415_1",
+        "appmsgid": 2650543415,
+        "from": "大淘宝技术",
+        "title": "缓存使用实践总结：以淘宝交易结算场景为例",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543415&idx=1&sn=7fbf20f7e85a9e76d205fddb5887272f&chksm=8390dd2fb4e754393cd86370af086dd4b29d365fd58e1fdcbdcde1995bba234a731bbb6eebf1#rd",
+        "create_time": 1778488113,
+        "update_time": 1778488113
+      }
+    ],
+    [
+      {
+        "aid": "2651279063_1",
+        "appmsgid": 2651279063,
+        "from": "前端早读课",
+        "title": "【第3696期】Github：差异对比行的性能攀登之路",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279063&idx=1&sn=e13575e9dc5154706b28ad835abe6fc5&chksm=bd4897538a3f1e459e7c93006c41c65369060520c098143649af3d9eef9b27f4535d47041d79#rd",
+        "create_time": 1778542441,
+        "update_time": 1778547600
+      }
+    ],
+    [
+      {
+        "aid": "2247529814_1",
+        "appmsgid": 2247529814,
+        "from": "程序员成长指北",
+        "title": "RAG 向量检索，90% 的人都搞错了这 3 个概念",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529814&idx=1&sn=45a84b90f908e8bc2da31d909b356346&chksm=f9927387cee5fa91612d1e231799932cafbb1e21491c5b6c775e0c7a929fa90689bf7249822e#rd",
+        "create_time": 1778632072,
+        "update_time": 1778632071
+      }
+    ],
     [],
     [],
     [],
